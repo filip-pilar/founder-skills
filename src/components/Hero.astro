@@ -1,0 +1,30 @@
+---
+import { SITE } from "../config";
+---
+
+<section class="mx-auto max-w-[1100px] px-6 pt-24 sm:pt-32 pb-20 sm:pb-28">
+  <h1 class="text-5xl sm:text-6xl lg:text-[80px] text-[var(--color-text)] leading-[1.05] max-w-3xl">
+    AI skills built for founders
+  </h1>
+
+  <p class="mt-7 text-[17px] sm:text-lg text-[var(--color-text-body)] max-w-lg leading-relaxed">
+    14 drop-in skills with real frameworks and specific tactics. Works with Claude, ChatGPT, and any AI agent.
+  </p>
+
+  <div class="mt-10 flex flex-wrap items-center gap-3">
+    <a
+      href="/#which-skill"
+      class="inline-flex items-center gap-2 bg-[var(--color-text)] text-[var(--color-bg)] px-5 py-2.5 rounded-full text-[14px] font-medium hover:opacity-80 transition-opacity"
+    >
+      Get started
+    </a>
+    <a
+      href={SITE.github}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-[14px] font-medium text-[var(--color-text)] border border-[var(--color-text-muted)] hover:border-[var(--color-text)] transition-colors"
+    >
+      View on GitHub
+    </a>
+  </div>
+</section>

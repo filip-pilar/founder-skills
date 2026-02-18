@@ -1,0 +1,28 @@
+---
+import { SITE } from "../config";
+---
+
+<header class="fixed top-0 left-0 right-0 z-50 bg-[var(--color-bg)]/90 backdrop-blur-md">
+  <div class="mx-auto max-w-[1100px] px-6 h-16 flex items-center justify-between">
+    <a href="/" class="text-[15px] font-medium text-[var(--color-text)] tracking-tight">
+      Founder Skills
+    </a>
+    <nav class="flex items-center gap-8">
+      <a href="/#skills" class="text-[13px] text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors">
+        Skills
+      </a>
+      <a
+        href={SITE.github}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-[13px] text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors"
+      >
+        GitHub
+      </a>
+    </nav>
+  </div>
+  <div class="mx-auto max-w-[1100px] px-6">
+    <div class="h-px bg-[var(--color-border)]"></div>
+  </div>
+</header>
+<div class="h-16"></div>

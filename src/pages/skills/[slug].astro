@@ -1,0 +1,229 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import Header from "../../components/Header.astro";
+import { skills, getSkillById } from "../../data/skills";
+import type { Skill } from "../../data/skills";
+import { SITE, claudeNewUrl } from "../../config";
+
+export const getStaticPaths: GetStaticPaths = () => {
+  return skills.map((skill, index) => ({
+    params: { slug: skill.id },
+    props: {
+      skill,
+      prevSkill: index > 0 ? skills[index - 1] : null,
+      nextSkill: index < skills.length - 1 ? skills[index + 1] : null,
+    },
+  }));
+};
+
+interface Props {
+  skill: Skill;
+  prevSkill: Skill | null;
+  nextSkill: Skill | null;
+}
+
+const { skill, prevSkill, nextSkill } = Astro.props;
+
+const typeLabels: Record<string, string> = {
+  "text-input": "Text input",
+  "visual-input": "Visual input",
+  conversational: "Conversational",
+  planning: "Planning",
+};
+
+const related = skill.relatedSkills
+  .map((id) => getSkillById(id))
+  .filter((s): s is Skill => !!s);
+
+const skillGitHub = `${SITE.github}/tree/main/${SITE.skillsDir}/${skill.id}`;
+const agentPrompt = `git clone --depth 1 --sparse --filter=blob:none ${SITE.github}.git && cd founder-skills && git sparse-checkout set skills/${skill.id} && install the skill from skills/${skill.id}/`;
+
+const cheekyPrompt = "ELI5 why I should be using Claude for my startup";
+const tryClaudeUrl = claudeNewUrl(cheekyPrompt);
+---
+
+<Base title={`${skill.name} — Founder Skills`} description={skill.description}>
+  <Header />
+  <main class="mx-auto max-w-[680px] px-6 pt-16 pb-24">
+    <!-- Breadcrumb -->
+    <nav class="mb-12 text-[13px]">
+      <a href="/#skills" class="text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors">Skills</a>
+      <span class="text-[var(--color-border)] mx-2">/</span>
+      <span class="text-[var(--color-text-body)]">{skill.name}</span>
+    </nav>
+
+    <!-- Header -->
+    <div class="mb-16">
+      <p class="text-[12px] uppercase tracking-wider text-[var(--color-text-muted)] mb-4">
+        {skill.category} &middot; {typeLabels[skill.type] || skill.type}
+      </p>
+      <h1 class="text-4xl sm:text-5xl text-[var(--color-text)] leading-[1.1]">
+        {skill.name}
+      </h1>
+      <p class="mt-4 text-[17px] text-[var(--color-text-body)] leading-relaxed">
+        {skill.description}
+      </p>
+    </div>
+
+    <!-- When to use -->
+    <section class="mb-14">
+      <h2 class="text-2xl text-[var(--color-text)] mb-5">When to use this</h2>
+      <ul class="space-y-3">
+        {skill.whenToUse.map((item) => (
+          <li class="flex gap-3 text-[15px] text-[var(--color-text-body)]">
+            <span class="text-[var(--color-text-muted)] shrink-0">&mdash;</span>
+            <span>{item}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <!-- What you provide -->
+    <section class="mb-14">
+      <h2 class="text-2xl text-[var(--color-text)] mb-5">What you provide</h2>
+      <ul class="space-y-3">
+        {skill.whatToProvide.map((item) => (
+          <li class="flex gap-3 text-[15px] text-[var(--color-text-body)]">
+            <span class="text-[var(--color-text-muted)] shrink-0">&mdash;</span>
+            <span>{item}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <!-- What you get back -->
+    <section class="mb-14">
+      <h2 class="text-2xl text-[var(--color-text)] mb-5">What you get back</h2>
+      <ul class="space-y-3">
+        {skill.whatYouGet.map((item) => (
+          <li class="flex gap-3 text-[15px] text-[var(--color-text-body)]">
+            <span class="text-[var(--color-text-muted)] shrink-0">&mdash;</span>
+            <span>{item}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <!-- Example prompts -->
+    <section class="mb-14">
+      <h2 class="text-2xl text-[var(--color-text)] mb-5">Try these</h2>
+      <div class="space-y-2">
+        {skill.examplePrompts.map((prompt) => (
+          <div class="rounded-xl bg-[var(--color-bg-card)] px-5 py-4">
+            <code class="text-[14px] text-[var(--color-text-body)] whitespace-pre-wrap leading-relaxed">{prompt}</code>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Install -->
+    <section class="mb-14">
+      <h2 class="text-2xl text-[var(--color-text)] mb-5">Install</h2>
+
+      <div class="rounded-2xl bg-[var(--color-bg-card)] p-7">
+        <div class="flex flex-wrap items-center gap-3 mb-5">
+          <a
+            href={`/downloads/${skill.downloadFile}`}
+            download
+            class="inline-flex items-center gap-2 bg-[var(--color-text)] text-[var(--color-bg)] px-5 py-2.5 rounded-full text-[14px] font-medium hover:opacity-80 transition-opacity"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Download {skill.downloadFile}
+          </a>
+          <a
+            href={skillGitHub}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-[13px] text-[var(--color-text-muted)] hover:text-[var(--color-text)] underline underline-offset-2 decoration-[var(--color-border)] hover:decoration-[var(--color-text)] transition-colors"
+          >
+            View on GitHub
+          </a>
+        </div>
+
+        <p class="text-[14px] text-[var(--color-text-body)] mb-4">
+          Upload to Claude, or unzip and paste into any AI agent.
+        </p>
+
+        <p class="text-[13px] text-[var(--color-text-muted)] mb-2">Or copy this prompt for your AI:</p>
+        <div class="relative rounded-xl bg-[var(--color-bg)] px-4 py-3">
+          <pre class="text-[13px] text-[var(--color-text-body)] whitespace-pre-wrap leading-relaxed pr-10">{agentPrompt}</pre>
+          <button
+            class="copy-btn absolute top-3 right-3 p-1.5 text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors"
+            data-copy={agentPrompt}
+            title="Copy to clipboard"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+          </button>
+        </div>
+
+        <!-- Try Claude CTA -->
+        <div class="mt-5 pt-5 border-t border-[var(--color-border)] flex items-center gap-3">
+          <span class="text-[13px] text-[var(--color-text-muted)]">Not using Claude yet?</span>
+          <a
+            href={tryClaudeUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-[13px] font-medium text-[var(--color-accent-warm)] hover:underline underline-offset-2"
+          >
+            Try Claude &rarr;
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Related skills -->
+    {related.length > 0 && (
+      <section class="mb-14">
+        <h2 class="text-2xl text-[var(--color-text)] mb-5">Related</h2>
+        <div class="flex flex-wrap gap-2">
+          {related.map((r) => (
+            <a
+              href={`/skills/${r.id}`}
+              class="rounded-full bg-[var(--color-bg-card)] px-4 py-2 text-[14px] text-[var(--color-text-body)] hover:bg-[var(--color-bg-card-hover)] transition-colors"
+            >
+              {r.name}
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Prev/Next navigation -->
+    <nav class="border-t border-[var(--color-border)] pt-8 mt-20 grid grid-cols-2 gap-4">
+      {prevSkill ? (
+        <a href={`/skills/${prevSkill.id}`} class="group text-left">
+          <span class="text-[12px] text-[var(--color-text-muted)]">&larr; Previous</span>
+          <span class="block text-[15px] text-[var(--color-text-body)] group-hover:text-[var(--color-text)] transition-colors mt-1">
+            {prevSkill.name}
+          </span>
+        </a>
+      ) : <div />}
+      {nextSkill ? (
+        <a href={`/skills/${nextSkill.id}`} class="group text-right">
+          <span class="text-[12px] text-[var(--color-text-muted)]">Next &rarr;</span>
+          <span class="block text-[15px] text-[var(--color-text-body)] group-hover:text-[var(--color-text)] transition-colors mt-1">
+            {nextSkill.name}
+          </span>
+        </a>
+      ) : <div />}
+    </nav>
+  </main>
+</Base>
+
+<script>
+  document.addEventListener('astro:page-load', () => {
+    document.querySelectorAll('.copy-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const text = (btn as HTMLElement).dataset.copy || '';
+        await navigator.clipboard.writeText(text);
+        const svg = btn.querySelector('svg');
+        if (svg) {
+          const original = svg.innerHTML;
+          svg.innerHTML = '<polyline points="20 6 9 17 4 12"/>';
+          setTimeout(() => { svg.innerHTML = original; }, 1500);
+        }
+      });
+    });
+  });
+</script>

@@ -1,0 +1,25 @@
+---
+import { SITE } from "../config";
+---
+
+<footer>
+  <div class="mx-auto max-w-[1100px] px-6">
+    <div class="h-px bg-[var(--color-border)]"></div>
+  </div>
+  <div class="mx-auto max-w-[1100px] px-6 py-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+    <p class="text-[13px] text-[var(--color-text-muted)]">
+      Founder Skills
+    </p>
+    <div class="flex items-center gap-6">
+      <a href="/#skills" class="text-[13px] text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors">Skills</a>
+      <a
+        href={SITE.github}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-[13px] text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors"
+      >
+        GitHub
+      </a>
+    </div>
+  </div>
+</footer>

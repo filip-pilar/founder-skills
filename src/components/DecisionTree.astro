@@ -1,0 +1,42 @@
+---
+import { getSkillById } from "../data/skills";
+
+const decisions = [
+  { situation: "Need to write or rewrite startup copy?", id: "copywriter" },
+  { situation: "Reaching out to a stranger?", id: "cold-outreach" },
+  { situation: "Can't explain why you're building this?", id: "storytelling" },
+  { situation: "Design looks off but can't say why?", id: "design-advisor" },
+  { situation: "Growth is flat?", id: "growth-playbook" },
+  { situation: "Want to test a hypothesis?", id: "experiment-lab" },
+  { situation: "Launching this week?", id: "launch-plan" },
+  { situation: "No audience, zero followers?", id: "content-strategy" },
+  { situation: "Want to make a video?", id: "video-starter" },
+  { situation: "Torn between two options?", id: "decision-coach" },
+  { situation: "Stuck and don't know why?", id: "unblock" },
+  { situation: "It's Friday?", id: "weekly-review" },
+  { situation: "Prepping for user calls?", id: "user-interview" },
+  { situation: "Need to build an MVP this week?", id: "mvp-sprint" },
+];
+---
+
+<section id="which-skill" class="mx-auto max-w-[1100px] px-6 pb-28">
+  <h2 class="text-3xl sm:text-4xl text-[var(--color-text)] mb-3">
+    Which skill do I need?
+  </h2>
+  <p class="text-[15px] text-[var(--color-text-muted)] mb-10">
+    Match your situation to the right tool.
+  </p>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-x-16">
+    {decisions.map((d) => (
+      <a
+        href={`/skills/${d.id}`}
+        class="group flex items-baseline justify-between gap-4 py-3 border-b border-[var(--color-border)]"
+      >
+        <span class="text-[14px] text-[var(--color-text-body)] group-hover:text-[var(--color-text)] transition-colors">{d.situation}</span>
+        <span class="text-[13px] font-medium text-[var(--color-text-muted)] group-hover:text-[var(--color-accent-warm)] transition-colors shrink-0">
+          {getSkillById(d.id)?.name}
+        </span>
+      </a>
+    ))}
+  </div>
+</section>

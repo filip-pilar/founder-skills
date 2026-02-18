@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Instrument Serif", "Georgia", serif;
+  --font-sans: "InterVariable", "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --color-bg: #F8F7F4;
+  --color-bg-card: #EFEEE8;
+  --color-bg-card-hover: #E6E5DE;
+  --color-text: #1A1A18;
+  --color-text-body: #3D3D38;
+  --color-text-muted: #57574F;
+  --color-border: #C5C4BC;
+  --color-accent-warm: #9E5A3C;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: var(--color-text-body);
+    background: var(--color-bg);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 16px;
+    line-height: 1.6;
+    scroll-behavior: smooth;
+  }
+
+  section[id] {
+    scroll-margin-top: 5rem;
+  }
+
+  h1, h2, h3 {
+    color: var(--color-text);
+    line-height: 1.1;
+  }
+
+  h1 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    letter-spacing: -0.02em;
+  }
+
+  h2 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    letter-spacing: -0.01em;
+  }
+
+  h3 {
+    font-weight: 500;
+  }
+
+  code {
+    font-family: var(--font-mono);
+  }
+
+  ::selection {
+    background: rgba(26, 26, 24, 0.12);
+  }
+}

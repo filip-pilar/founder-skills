@@ -1,0 +1,79 @@
+---
+import { SITE, claudeNewUrl } from "../config";
+
+const allSkillsPrompt = `git clone ${SITE.github}.git and install all skills from the skills/ directory.`;
+
+const cheekyPrompt = "ELI5 why I should be using Claude for my startup";
+const tryClaudeUrl = claudeNewUrl(cheekyPrompt);
+---
+
+<section id="install" class="mx-auto max-w-[1100px] px-6 pb-28">
+  <h2 class="text-3xl sm:text-4xl text-[var(--color-text)] mb-3">
+    Get started
+  </h2>
+  <p class="text-[15px] text-[var(--color-text-muted)] mb-10">
+    Works with Claude, ChatGPT, and any AI agent.
+  </p>
+
+  <div class="rounded-2xl bg-[var(--color-bg-card)] p-7">
+    <!-- Download -->
+    <div class="mb-5">
+      <a
+        href="/downloads/skills-all.zip"
+        download
+        class="inline-flex items-center gap-2 bg-[var(--color-text)] text-[var(--color-bg)] px-5 py-2.5 rounded-full text-[14px] font-medium hover:opacity-80 transition-opacity"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        Download all skills (.zip)
+      </a>
+    </div>
+    <p class="text-[14px] text-[var(--color-text-body)] mb-6">
+      Upload to Claude (Settings &rarr; Capabilities) or unzip and paste into any AI.
+    </p>
+
+    <!-- Agent prompt -->
+    <div class="border-t border-[var(--color-border)] pt-6">
+      <p class="text-[13px] text-[var(--color-text-muted)] mb-2">Copy this prompt &mdash; your AI agent handles the rest:</p>
+      <div class="relative rounded-xl bg-[var(--color-bg)] px-4 py-3">
+        <pre class="text-[13px] text-[var(--color-text-body)] whitespace-pre-wrap leading-relaxed pr-10">{allSkillsPrompt}</pre>
+        <button
+          class="copy-btn absolute top-3 right-3 p-1.5 text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors"
+          data-copy={allSkillsPrompt}
+          title="Copy to clipboard"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Try Claude CTA -->
+    <div class="mt-6 pt-6 border-t border-[var(--color-border)] flex items-center gap-3">
+      <span class="text-[13px] text-[var(--color-text-muted)]">Not using Claude yet?</span>
+      <a
+        href={tryClaudeUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-[13px] font-medium text-[var(--color-accent-warm)] hover:underline underline-offset-2"
+      >
+        Try Claude &rarr;
+      </a>
+    </div>
+  </div>
+</section>
+
+<script>
+  document.addEventListener('astro:page-load', () => {
+    document.querySelectorAll('.copy-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const text = (btn as HTMLElement).dataset.copy || '';
+        await navigator.clipboard.writeText(text);
+        const svg = btn.querySelector('svg');
+        if (svg) {
+          const original = svg.innerHTML;
+          svg.innerHTML = '<polyline points="20 6 9 17 4 12"/>';
+          setTimeout(() => { svg.innerHTML = original; }, 1500);
+        }
+      });
+    });
+  });
+</script>
