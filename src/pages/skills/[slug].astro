@@ -110,8 +110,15 @@ const tryClaudeUrl = claudeNewUrl(cheekyPrompt);
       <h2 class="text-2xl text-[var(--color-text)] mb-5">Try these</h2>
       <div class="space-y-2">
         {skill.examplePrompts.map((prompt) => (
-          <div class="rounded-xl bg-[var(--color-bg-card)] px-5 py-4">
+          <div class="relative group rounded-xl bg-[var(--color-bg-card)] px-5 py-4 pr-12 cursor-pointer hover:bg-[var(--color-bg-card-hover)] transition-colors prompt-card" data-copy={prompt}>
             <code class="text-[14px] text-[var(--color-text-body)] whitespace-pre-wrap leading-relaxed">{prompt}</code>
+            <button
+              class="copy-btn absolute top-1/2 -translate-y-1/2 right-3 p-1.5 text-[var(--color-text-muted)] opacity-0 group-hover:opacity-100 hover:text-[var(--color-text)] transition-all"
+              data-copy={prompt}
+              title="Copy to clipboard"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+            </button>
           </div>
         ))}
       </div>
@@ -142,7 +149,7 @@ const tryClaudeUrl = claudeNewUrl(cheekyPrompt);
         </div>
 
         <p class="text-[14px] text-[var(--color-text-body)] mb-4">
-          Upload to Claude, or unzip and paste into any AI agent.
+          <a href="https://claude.ai/settings/capabilities" target="_blank" rel="noopener noreferrer" class="underline underline-offset-2 decoration-[var(--color-border)] hover:decoration-[var(--color-text)] transition-colors">Open Claude Settings &rarr; Capabilities</a>, scroll to Skills, click "Add skill", and upload the .zip file (no need to unzip). Or paste the contents into any AI agent.
         </p>
 
         <p class="text-[13px] text-[var(--color-text-muted)] mb-2">Or copy this prompt for your AI:</p>
@@ -212,17 +219,31 @@ const tryClaudeUrl = claudeNewUrl(cheekyPrompt);
 </Base>
 
 <script>
+  function showCopied(el: Element) {
+    const svg = el.querySelector('.copy-btn svg') || el.querySelector('svg');
+    if (svg) {
+      const original = svg.innerHTML;
+      svg.innerHTML = '<polyline points="20 6 9 17 4 12"/>';
+      setTimeout(() => { svg.innerHTML = original; }, 1500);
+    }
+  }
+
   document.addEventListener('astro:page-load', () => {
-    document.querySelectorAll('.copy-btn').forEach(btn => {
+    // Copy buttons (install section)
+    document.querySelectorAll('.copy-btn:not(.prompt-card .copy-btn)').forEach(btn => {
       btn.addEventListener('click', async () => {
         const text = (btn as HTMLElement).dataset.copy || '';
         await navigator.clipboard.writeText(text);
-        const svg = btn.querySelector('svg');
-        if (svg) {
-          const original = svg.innerHTML;
-          svg.innerHTML = '<polyline points="20 6 9 17 4 12"/>';
-          setTimeout(() => { svg.innerHTML = original; }, 1500);
-        }
+        showCopied(btn);
+      });
+    });
+
+    // Prompt cards — whole card is clickable
+    document.querySelectorAll('.prompt-card').forEach(card => {
+      card.addEventListener('click', async () => {
+        const text = (card as HTMLElement).dataset.copy || '';
+        await navigator.clipboard.writeText(text);
+        showCopied(card);
       });
     });
   });
