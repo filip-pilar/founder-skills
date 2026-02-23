@@ -1,0 +1,843 @@
+So today I want to talk, I actually took some time to think about what to talk about today.
+This is different from what I spoke about in SF1.
+So I'm trying to kind of like observe all of you guys in the group chat and just watching
+you and just kind of pick things to talk about that I think you all need.
+I think this is one thing everybody needs today that's in front of me right now, I think.
+How to pivot in the early days.
+So I want to kind of go through a flow.
+It's like, just imagine this is like you, perhaps, maybe someone that you know, and they're going through this flow.
+You have an idea, right?
+You have this grand idea for something that you want to create.
+Maybe it's a school, a track, an app, whatever, right?
+You build the first version of that idea.
+You actually get it done, right?
+You make that first demo.
+You get people around you to check the idea out.
+So, you know, you go to your friends, you go to your parents, you go to your grandparents, whatever.
+it is and you're like hey like listen to this check this out blah blah blah right so you're
+actually doing generally the correct things uh people say stuff like this you know they're just
+they're just really impressed and they give you like uh all that validation that you never knew
+that you even wanted and are now fiending for um and you feel like you're onto something you know
+i think a lot of you on this room have felt this so you feel like you're really onto something
+and you actually keep making more of that idea you keep going on that idea right whatever that idea
+is but a month later it starts to feel kind of dead for some reason it starts to like not really
+work in the way that you would have expected like that feeling that you had here is almost like
+you're almost chasing it now and you can't really get it back uh and so again you keep making more
+the idea you add to it but a month later it's dead um and you no longer really have people who
+are checking your thing out but you don't really know why right you're like okay like people thought
+people said it was good i thought i was under the right track i thought i just had to do more of that
+stuff but now nobody's doing now like the same things aren't happening and so you kind of conclude
+that marketing is your problem like you have a marketing problem and you suck at marketing and
+that's actually the the your main issue as like a maker of things um you post your thing everywhere
+you post it on reddit you know and you get banned from like every subreddit uh you post on your
+facebook account from 2013 uh and someone you know you're doing all these things and you just go ham
+right and you post on like 20 places um kind of just like spray and pray right thinking like okay
+like well i have a marketing problem uh and when i google um how to get my xyz out there people say
+to post on reddit people say to post on tick tock people people say all these things so i'm going to
+to do those things and you do those things right this is this is actually not wrong right but you
+do these things uh you got some more people coming in now right like okay cool like something kind of
+worked like something's working maybe a little bit i got like 10 more people maybe 100 more people
+checking some stuff out but again you aren't this viral success uh that you would have thought you
+would be um and you know you're just you're just at this you're just at that stage um so then you
+come here you know a guy named farza tells you try tiktok all right you got steven showing you
+all this nonsense all the time and you're like damn like this is working like i can do this
+um and you're trying to like you know run after these trends uh so you do this right you post
+every day for like 14 days straight and you're getting no views you get absolutely no views and
+you are still not a viral success you are just sad and you think that everything you do is failing
+now uh and you again you keep working on then your idea for like another four to six weeks
+before you either give up on the idea
+or just give up on working on your ideas completely.
+So this is the flow that I just showed you
+that is like a majority of people
+that I've seen making stuff,
+both in like startup land,
+and then also like just me seeing people from SF1
+and from Nights, just all types of people.
+I think everyone goes through
+the same exact flow at some point.
+And to me, it's like actually a cycle in a way.
+And again, this actually is like the classic cycle
+where you do this over and over and over again
+until you either A, burn out, or you B, run out of ideas.
+Usually it's A.
+Because it's obviously very difficult, right?
+Yeah, I mean, this is a cycle you all have been through.
+This is a cycle some of you are actually in right now
+without even knowing it.
+So my goal is today to either A, help you see that.
+Actually, I can't name a single person in this room
+who's not in that cycle right now, so you're all there.
+you keep doing the same thing over and over again,
+thinking it'll work, and it ended up not working.
+Or you do this.
+Again, there's two things you're doing.
+Either A, you're doing this,
+you're doing the same thing over and over again,
+making very small adjustments, like tiny adjustments,
+thinking that it's gonna work,
+or you're just trying wildly different shit
+every single day, every single hour,
+and then you're a master of nothing,
+and you just suck at everything.
+So I think none of you are above this cycle, including me.
+Either, you know, an example I always put up is this project thing we worked on at BuildSpace.
+We spent a year working on this product only for it to never change over a single year.
+And it did change, right?
+But it was such small little changes that it never made the actual impact that we expected it to make.
+And it was only until we got off this thing completely that things started to change for us.
+But we were stuck on this for a year.
+Like, it looked like this for almost a year.
+Nothing much changed.
+But we thought we were making big changes.
+but really they weren't we were just making like these little tiny steps um every single week and
+it was doing fine but it wasn't doing as good as it could have been um or we would do these things
+where it's like massive pivots like massive changes so for example at zip school i was fully
+guilty of this where i was trying wildly different stuff every two weeks uh i remember one week we
+were doing this where we hired a bunch of teachers we had like 50 50 teachers on the platform and
+And they would livestream themselves.
+And then the other, maybe another week,
+I'd be like, fuck this, I wanna make a mobile app.
+And now I'm making a mobile app
+that teaches kids about dragonflies, apparently.
+And again, this is still the same idea,
+teaching kids about things that they're curious about.
+That was the goal of the Zip School.
+But you can't just be doing this for one month,
+which is such a deep idea, by the way,
+hiring teachers and getting them to stream themselves
+and teach kids on a Twitch-like setting.
+And then this idea, which is almost like a mobile game
+that we were making, right?
+They're so different.
+But again, this is month one, this is month two.
+And we'd be doing these ideas wildly by the end.
+We'd be making these wild changes
+every almost eight to 12 weeks, pretty much,
+which is insane.
+So yeah, I see some of you stuck in the stack already.
+I think it's most of you.
+maybe 99%, and today's lecture is actually,
+you know, I said this lecture is about
+how to pivot in the early days,
+but it's actually about something
+I'm just gonna call calibrating.
+I think this is very different from the word pivoting.
+I hate using existing terminology
+because a lot of you already know
+what the word pivot means in the business sense,
+and you're already kind of biased.
+So let me kind of break your definition for a second.
+This is what pivot means.
+In the business context, to completely change the way
+and which one does something.
+There's a key word there.
+Can you wanna tell me what it is?
+Yes, completely.
+The key word is completely, completely change.
+That is what a pivot is.
+But then there's other cool word in dictionary
+called calibrate, which is really to adjust
+based on experimental results,
+to take external factors into account
+and to allow comparison with other data.
+Now, I would ask yourself, what do you actually need to do?
+Do you need to do this or do you need to do this?
+Most of you need to do this at this point
+because just shifting back and forth,
+or rather shifting too much
+will just cause you to learn nothing.
+So you actually need to kinda just adjust
+a little bit every single day, every single week.
+So I'll give you an example of like a pivot, right?
+A big pivot to me is like us going
+from Zip School to Build Space.
+Like that's like, we changed like everything, right?
+So that's like a large pivot.
+Calibrating is more like this, right?
+Like nights and weekends, season one, two, three, four, right?
+That's us making these very specific changes over a year.
+Like kind of small and medium changes over a full year
+to make this program better called Nights and Weekends.
+And then we ended on S4 to what we felt like was
+one of the best versions of that product.
+So in reality, what is calibrating?
+It's actually just a bunch of mini pivots.
+That's all it is.
+So now, that's kind of,
+so whenever I use the word calibrate,
+kind of just want you to think about it as a mini pivot, right?
+Mini pivots are just, again, something like this.
+Like, remember from S3 to S4,
+one mini pivot we did was,
+we're not gonna do guest lectures anymore.
+Like, we're not gonna bring in people for talks.
+We felt like, you know, that wasn't that interesting,
+and if it was gone, no one's gonna complain about it.
+And we were right.
+And there were a bunch of these little changes
+that we made every single time.
+Can you tell me what this is?
+I'm just curious, just from, you know, yes, anyone?
+Yes, Ali?
+It's just you're training a neural network.
+Yeah, this is the training graph of a neural network.
+Neural network, very actually simple.
+It has a problem that it wishes to solve,
+and over time it's trained to solve that problem
+based on the data that you give it, right?
+And generally it solves that problem over a long time, right?
+So the bottom here, we'll call it just time, right?
+You give it more time, it's called steps
+in machine learning, you give it more steps,
+and it'll eventually get really good.
+So the blue line is essentially saying that,
+you know, this is how wrong it is, and this is less wrong.
+And over many more steps,
+the machine learning model gets kind of good
+at not being wrong.
+And it's still wrong at some level, right?
+But it's less wrong over time.
+And that's kind of how I think about, like,
+you know, me doing stuff.
+There's many problems at BuildSpace,
+and many problems when you're making things.
+And it's always worth asking yourself,
+where are you on this graph?
+Like a lot of times, are you getting closer
+to an end goal, like an end solution there?
+Because again, the goal for a neural network
+is to get good at not being wrong.
+And I think that's kind of how you all should think
+about your work as well.
+You're not ever gonna, your goal shouldn't be right,
+it should just be really good at not getting wrong,
+at not being wrong.
+But I think it's worth showing a different graph now,
+which some of you guys may know too,
+but in reality, machine learning and AI
+is like a multi-dimensional problem, right?
+It's like your problems are actually vastly complex.
+It's not as simple as just get good and we're done.
+You know, like your problems are complex,
+whether you're making music, a product, whatever.
+It's like hundreds of decisions you gotta figure out
+in a given week, hundreds of things you gotta say yes
+or no to, like do I post there, do I post here,
+do I make that type of content, this type of content,
+does the beat drop here or there?
+You know, like the onboarding flow,
+like do they pay there or not, et cetera, right?
+Like the number of problems that you have to deal with
+is like, it's like in the thousands.
+It's probably even in the millions,
+but you can probably handle a couple hundred in a week.
+And I'm showing this because in reality,
+like let's just say this is your problem set, right?
+This is actually like your millions of problems in a graph.
+Generally where you want to get to, if you're an AI,
+is you want to get to here.
+You want to get to like a minimum,
+which is like you are minimally wrong all the time
+depending on the problem that you give it, right?
+Now, what's interesting here is like
+there's a bunch of valleys,
+there's a bunch of mountains here, right?
+So it's like you may think that you're actually right,
+but you're actually like maybe right here.
+But you don't even know that you could be even more right.
+That sort of makes sense.
+And it's essentially trying to understand that like
+you may right now be at a point
+where you think you're doing great shit
+and you got it figured out and you got something going,
+but you're maybe right here.
+You don't even know.
+It's because you don't know that this exists.
+So it's almost like,
+and this is where you really have to zoom out
+and really understand where you're at,
+in the valley of problems that you are encountering.
+I wanna give you a couple examples here
+because I know this example is a little bit,
+maybe you didn't get it, maybe you just fell through,
+but I wanna give you a couple of other examples
+of people who both had a lot of mini pivots,
+but then also had these really big pivots.
+Because again, if all you do is these little mini pivots,
+like you're like boop, boop, boop, boop, boop,
+and you're taking little steps,
+maybe you end up right here, right?
+But sometimes you gotta take like a big step,
+and then maybe you end up right here.
+And then you take a bunch of mini steps,
+and then you end up right here, if you do a big one.
+And then you keep on going down
+until you actually solve the problem, right?
+This is PewDiePie.
+PewDiePie, in his early days, took a lot of small steps.
+PewDiePie is like my favorite creator,
+one of my favorite founders, blah blah blah, right?
+I'm guessing most of you guys know him.
+He's a YouTuber and he made gaming videos in the early days
+and he got really good at figuring out the step scenes
+to make good videos.
+And he actually did just, in his early days,
+he actually did a lot of the same thing.
+But it was never always the same,
+he was always changing the game he was playing.
+He was changing the people he was playing with.
+He was taking these small steps.
+But he also over time started taking these much bigger steps.
+Why?
+It's because he started to actually want to change his content.
+Nowadays, PewDiePie makes videos about his life.
+And that's very different from the videos he used to make
+where he'd just scream at a camera and be scared
+when he got scared in a game.
+But again, he had to take the small steps
+and he had to take also these giant leaps as well,
+these giant big steps, these pivots,
+these larger pivots I call them.
+While these are more mini pivots.
+Another example, iPhone comes out.
+iPhone for a decade is really to me
+just a bunch of mini medium pivots, right?
+iPhone 1, 2, 3, 4, 5, 6, whatever we're at right now.
+They got progressively better, right?
+But you could argue these weren't large scale pivots
+for a company like Apple until this drops.
+And now you're like, oh cool, that's a large leap.
+And they had to take that large leap
+because iPhone sales aren't doing so hot anymore.
+So they gotta figure some new stuff out.
+Linkin Park, Linkin Park if you know them,
+my favorite bands, their first four albums were essentially
+like kind of just very small steps forward, I think, right?
+Until they finally are growing up and they take these
+massive steps in like early 2010 where their sound
+completely shifts and now they're,
+and now, yeah, they're no longer making the stuff
+they're making in 2005, which was like metal rap,
+and then in 2015, they're singing like ballads.
+And sure, a lot of their fan base could say like,
+oh wow, Linkin Park XYZ is trash now,
+but to me I saw this and I was like wow,
+like the people I saw when I was a kid are not growing up.
+And to me like it was an evolution, right?
+And again, this caused Linkin Park to find greater success
+in the mainstream as they changed.
+And this is one more example.
+This is my buddy Sharif,
+some of you guys have seen him already around.
+He was working on this thing called DeBuild.
+For two years, he was working on this thing.
+Two whole years.
+And he was taking very small steps,
+I talked about this with him recently,
+and he said, yeah, he felt like he took steps
+that were too small every week.
+He was never making very large changes, ever.
+It was always like iterative, very tiny steps,
+but never ending up really anywhere that great.
+Until he finally makes his website called Lexica,
+which was a massive pivot.
+He literally changes his whole company from this,
+which is something else, to this in literally a week.
+And then this ends up getting like millions of people
+to start using it in a given month.
+But again, he had to take a very large jump.
+Do you see what I'm saying?
+And so what I'm trying to say is pivoting is not bad.
+It is extremely important.
+It can be done in very bad ways, but it's very important.
+And I think you all witnessed us do this great pivot
+on Sunday, well in my opinion a great pivot.
+And this is indeed a pivot, right?
+This is me telling you that things are changing
+in a medium to large way.
+It is not a small thing, right?
+It's not me taking like a little, like boom, right?
+It's like, this is me like jumping across the stage
+or trying my best to jump across the stage.
+So for us, yeah, this is a very large pivot.
+I wouldn't say it's like a pivot in the sense of like
+zip school to build space, right?
+But it's still pretty large.
+And yeah, I think we did this because we felt like
+the mini pivots weren't enough anymore, right?
+We were tired of just doing these mini pivots
+in nights and weekends, and we felt like we got
+as far as possible with nights and weekends as we could.
+And now we need to take a larger leap
+if we were to solve the problem in a bigger way.
+And again, if nights and weekends got us here, right?
+Let's just say it got us here.
+So we started here, took all these small steps,
+ended up here, great.
+Now it's like, okay, we're here, now we're stuck, right?
+How do we get here?
+How do we actually get to the bottom of the maze?
+And we feel like, okay, if we take a big jump
+and we announce this new product, X, Y, Z,
+maybe we end up over here
+and now we have a chance of getting down there.
+Otherwise, we'll forever be stuck
+in nights and weekends land right here
+and we'll never get out.
+And that's called a local minima in math, right?
+So you don't wanna get caught in this local minimum
+in where you're at.
+You wanna be caught, you wanna go to,
+what is it called, the global maxima or global minima?
+Yeah, so you wanna get to the global minima in this case.
+And yeah, I would ask yourself, are you in the local minima?
+Like, are you stuck somewhere right now?
+Or is there a possible place for you to go
+that's more interesting?
+Poss, and for all of you, it's likely the latter.
+So yeah, you gotta be good at pivoting,
+both medium ones, big ones, and small ones.
+And they all just really do work together.
+A lot of people just think I'm either pivot,
+either do a pivot or I don't.
+But it's not really like that.
+It's, there's like, you could be pivoting every,
+you could be pivoting every single hour of every day
+if you wanted to.
+They all just kind of work together.
+So, but I do want to kind of make this part clear.
+And I kind of said this earlier, but you're right.
+Let me tell you why your ideas won't work.
+Like the reality where they don't work.
+It's only two things.
+Either A, you pivoted too much.
+You took these big leaps, you know,
+you took these big leaps everywhere
+and you really ended up nowhere.
+Or you didn't pivot much at all
+and then you just didn't change much
+and nothing else changed on the outside
+and you didn't really get anywhere.
+And I think, you know, I can't teach you all how to pivot.
+Like I can't give you like these general step-by-steps,
+but what I can teach you or even tell you about today
+is just some basic questions you can ask yourself
+and that I ask myself and that I've just,
+questions that I've learned over some time that are helpful.
+This is kind of one question.
+It's worth just taking 30 seconds
+and thinking about this internally.
+What do you hold on to strongly?
+Like really, like think about that right now.
+Like in your work, what do you hold on to strongly?
+And take like 10 seconds to come up
+with an answer in your head.
+And then I would think further,
+I would think what do you hold on to loosely?
+what can you change right now?
+You don't give a fuck.
+I can make that adjustment, that change,
+and I'm not attached.
+You know, it could just, if it was there,
+and if it, like for example,
+I'm actually not gonna buy some examples right now,
+but it's the things you're just not very attached to,
+you know, at all.
+You just hold very loosely.
+Now think about some things right now.
+So hopefully you all have some stuff in your brain.
+I'm curious, what do you hold into strongly?
+Anybody?
+What is that for you?
+Beautiful.
+Like your whole thing is about connecting communities, in this case through food trucks.
+Great, love that.
+Anybody else?
+Strongly, yes.
+Making films.
+Making films.
+That is a great thing to hold strongly.
+Anybody else?
+Yes.
+Some people need shopping assistance.
+Huh?
+Some people need shopping assistance.
+You believe shopping is hard and you want to help fix that.
+Great, that's a good thing to hold strongly.
+Yes?
+Progressively making something different
+than I have.
+Yeah, so like never being okay with the same.
+It's a good thing to hold strongly, I like that.
+One more.
+Cloud is complex and code is the answer.
+Cloud is complex and code is the answer.
+You hold that strongly, okay?
+Sure.
+No, great.
+No, there's nothing wrong with that, it's good actually.
+You need to know what you hold strongly, right?
+And now maybe raise your hand and tell me
+if you all hold loosely, you know?
+Yeah, I wrote.
+Money?
+You hold money loosely, okay.
+Huh?
+Yeah.
+Like whatever technology medium,
+like website, form, I don't know.
+You do not care what the technology is.
+It's a great thing to hold loosely, yes?
+The design of my UI.
+The design of your UI, it's a great thing to hold loosely.
+It's a good design though.
+Yes?
+The type of topics that you tackle.
+The type of topics that you tackle, whatever, right?
+Anyone, let's do two more.
+This is bad, but like,
+you're users.
+Your users?
+Yeah, like you generally hold loosely
+what people think about you maybe.
+Sure, great, I kind of hold that kind of loosely too,
+so it's okay.
+Maybe do one more.
+Messaging.
+Messaging.
+Product messaging.
+Product messaging is held loosely.
+Okay, like you're okay to change that up basically.
+Great, yeah great.
+So I think, great, that's really good.
+Like the answers you guys gave me
+are actually pretty solid.
+Sometimes you hold onto things really strongly
+and you'll never question it.
+And I'll go through a couple of examples,
+two examples actually, this is Ali's, right?
+This is his product, right?
+Now, maybe today this is what he holds strongly, right?
+He says, I'm just making this up, right?
+I'm not gonna, this is just making it up.
+But maybe today strongly Ali says,
+I just really wanna, I wanna make really great technology
+for lawyers in AI, really great AI technology for lawyers,
+right, or for people in law, right?
+Like that is like a high level kind of strong feeling
+that he has, and that's great.
+But let's say what's very loose.
+This is kind of loose.
+It's a product that helps lawyers make arguments.
+That is something he can hold very loosely.
+Who knows if it's a product that helps lawyers make arguments.
+Maybe it's a product that helps like the assistance
+of lawyers answer emails.
+Maybe it's a product that helps lawyers
+get new clients with AI.
+Like, we don't fucking know.
+At the end of the day, this is what you hold strongly,
+so go after that, but you don't need to lock yourself
+into this thing, right?
+That you can hold loosely, like how you actually solve
+the thing that you hold strongly, you know?
+I'll give you one more example, this is Nyati.
+She made this video, great video, popped up on my Instagram,
+and I think strongly is something like this, right?
+Again, I'm making this up.
+Maybe she feels strongly.
+I want to help people be more in touch with their emotions.
+That is something that she,
+that is the reason she's making stuff.
+She wants to accomplish this and get better at this.
+Great, it's a great thing to hold strongly.
+This is very loose.
+She does that via 20 to 30 second short form content.
+Dude, who knows?
+You don't have to hold that strongly.
+You don't have to feel like I have to go
+to grind out these 10 second videos now every day.
+Maybe it's long form 10 minute videos.
+Maybe it's not videos at all.
+Maybe the better way to go after this
+is to create a network of vetted therapists
+and then create a system to connect therapists
+to people who need help.
+Maybe it's a nonprofit that does something like that.
+Again, what's important is
+you're not getting locked in
+to a certain way of solving something
+or a certain path of solving something.
+You should keep your mind open at all times.
+Like at any time, if it feels like you're just grinding
+these out, just to grind them out,
+yeah, I would ask yourself,
+like is this really the best way forward?
+Or do I need to take a large pivot
+and do something a little bit differently?
+But again, generally the things that you hold loosely
+are the things that you can pivot on a lot.
+So again, if I go back to Ali here,
+Yeah, he can pivot this all day, right?
+Maybe today it's a product that helps lawyers do X,
+and tomorrow it's a product that helps lawyers do Y.
+It actually doesn't matter as long as,
+because Ali holds this strongly, right?
+And back, same with this.
+You know, it could be a network of therapists,
+it could be really great videos that Nyati herself makes,
+it could be local events that she runs, right?
+Doesn't matter, actually, she can pivot around
+as long as it, but this needs to stay constant,
+because that's actually what is like the core,
+that's holding it all together.
+And yeah, I think a lot of times
+y'all will hold on to things that,
+y'all will hold on to things that make no sense.
+And it just, it makes no sense.
+I'll go through some examples later too,
+but I would ask yourselves,
+what are some things that you're holding onto
+for no reason?
+Because there's definitely some stuff.
+Because if you just keep holding onto things,
+you won't open yourself up to other ideas, right?
+You're just fully locked into that one thing.
+For example, maybe someone comes up to you
+and gives you a great idea to market yourself
+a different way, but you're just so locked
+into whatever you're already doing
+that you don't even entertain that possibility.
+I'll give you a really basic framework
+that I use nearly every day.
+And again, these slides will be online,
+so you guys can check it out after.
+But every morning, just ask yourself,
+what's changing today?
+That's really what I ask when I was like,
+what is changing today?
+Like it's not even like a yes or no,
+It's like, what is changing today?
+And I also ask myself, what needs to be looked at
+from first principles again?
+And I'll tell you how this looks in practice when I do it.
+That's generally my question, what changes today?
+What is changing today?
+And I think if you wake up every morning
+and you go into your day with that kind of mindset,
+you'll force yourself to think about what needs to change.
+And again, it could be a very tiny change,
+like the tiniest of changes.
+Well, maybe changes is like the headline
+on your landing page, you know?
+Maybe it's a medium change, maybe it's a large change,
+right, but something should be changing on a daily basis.
+And again, I think from there, first I figure out
+if something needs to change, right?
+It's like, oh, like, I have this thought in my mind
+of something having to change.
+From there, you have to just decide, okay, like now,
+do I actually do that?
+Like, do I actually go for it?
+And how do you figure that out, right?
+And these are three questions that I always ask myself
+before I make any big change.
+One, what do others say about the change
+when I tell them about it?
+Like just my friends, the team.
+I show some of you all, you know,
+raise your hand if we've shown you a video already,
+like a demo video.
+Yeah, like I think we showed like seven of you
+most of our videos before we decided
+if they were any good, right?
+Because we were constantly changing them.
+I think, Abel, you saw the video like three times.
+And we changed it three times
+because we weren't happy with the reaction at some points.
+You know, what does your intuition say?
+I think that's really important.
+Like, really, I don't want to bring heart into this too much,
+but what feels good to you?
+What feels right to you?
+And finally, this should be 90% of your decision
+is what does the data say on that decision,
+no matter what you're doing.
+So for example, if you come in in the morning
+and you're like, and you're Ryan,
+and you're like, actually, I'm not gonna make t-shirts
+anymore, I'm gonna make pants.
+That's the pivot.
+That's the change I'm gonna make.
+Again, what do others say?
+Are they interested in that?
+What does my intuition say about that?
+And what's the data say about that?
+Do I got some pre-orders for pants coming in?
+You know?
+Cause then it's easier to make that call.
+Otherwise you're just making a random decision
+and it may be emotional, it may not be logical.
+I think this is the main thing
+that I'm very guilty of as well.
+I'm generally very emotional when it comes to just like work.
+So I need to always like catch myself and be like, okay,
+like am I being logical about what I'm doing?
+Cause why are we going from Zip School to Build Space?
+Like there needs to be a reason.
+It can't just be like, because I feel like it.
+that's just gonna cause you to jump around a bunch
+and then not get anywhere.
+So yeah, you gotta balance the logic and the emotion.
+I generally say most decisions should be 90% logic,
+10% emotion, shouldn't have to be 0% emotion.
+This is an example of just like a bunch of mini pivots
+that we did on our Instagram,
+where every single day Josh would come in
+and we would look at what we did the previous day,
+we would look at the data, we would look at what people said,
+and we decide, okay, do we do that again
+or do we do something different?
+And almost always it was doing something different.
+And shorts are, this is really fun for us
+because the feedback loop is so fast, right?
+You literally every day, get one out every day
+and then the next day decide what changes, right?
+And that's a very important question.
+Most people will just like take this format,
+like we figured out, and then grind out like 30 of them.
+And it's like, the fuck, it didn't work the first time,
+so why do you expect it to work the 29th time?
+Instead, what if you made certain adjustments
+on a daily basis?
+Again, perfect example of mini pivots on a daily basis.
+This example is a more medium pivot.
+We don't post on Twitter anymore as Buildspace.
+Why?
+Sure, internally it feels at some level
+that algorithm is changing,
+we're not getting as much traffic, blah, blah, blah.
+It feels like that, right?
+Great, that's not a real answer, actually.
+The real answer is just the data.
+Our traffic coming in from Twitter
+is so similar to our traffic coming in from Instagram,
+and Instagram takes like five to 10x less effort from us,
+which is insane, right?
+Twitter is just, it's so difficult
+to actually create good content on Twitter,
+and we're not even getting that much out of it.
+Instead, we're getting way more out of our Instagram.
+This was in December, which we just started, right?
+So the data was obvious for us too.
+So we're like, okay, we feel like this is a boomer platform now.
+We'll be around.
+We'll do stuff on there for sure.
+But we feel like we're getting a lot more interest from this other place.
+So we made that pivot, right?
+And that's very important because otherwise,
+we're just going to keep doing Twitter badly, like half-assed.
+And that's worse than just not doing it all, in my opinion.
+You should always just be doing what you feel like really strongly about.
+And yeah, I think these mini, yeah, honestly,
+it's not the big pivots that are going to make you all.
+It's gonna be the mini medium ones usually.
+Usually the medium ones.
+And I think one thing that you can always kind of like have
+is every day kind of coming in with like this beginner's
+mind where you just ask yourself,
+what needs to change today?
+What do I need to look at again from scratch?
+And that's some questions you have to ask.
+These are some basic questions you can ask yourself.
+What was this slide before?
+Yeah, sometimes you'll get caught in doing certain things
+and you'll forget why you originally started doing them.
+For example, many of you I see online right now
+making videos on Instagram.
+Why?
+Like really, I would ask, you have to have a good reason.
+And I think a lot of you probably don't have a good reason.
+I'm not saying posting on there is bad.
+It's more like what's bad is not having really good answers
+to hard questions about why you're doing something.
+So for example, some hard questions.
+Why am I doing this action?
+For example, yesterday I spent four hours
+making a tweet about our investor update, right?
+And I asked myself, why am I doing this?
+Does this action actually still make sense?
+Like, should I still be tweeting stuff like this?
+Like, is that actually the right way?
+Or should this be like a video?
+Or should this be something completely different?
+What other actions can I take?
+Or is this literally the best action I have right now?
+So no matter what you're doing on a given day,
+it's worth asking yourself these three questions.
+And yeah, I mean, for example,
+like maybe your action is like, you know, I don't know,
+posting on Reddit, right?
+Why are you doing that?
+Does it still make sense?
+Is that the best action possible?
+Like the best action possible in your current arsenal, right?
+Because if it is, amazing.
+Go for it and do it, right?
+Otherwise, I don't, you're just doing it to do it
+all of a sudden, and you'll get caught in that.
+You won't even know you're getting caught in that.
+And that's what's so hard about this.
+Yeah.
+So when you are working with whatever project that you have, and you have a larger vision and then maybe smaller tasks that need to get done,
+how do you prioritize, what should I be doing right now, today, in business?
+Yeah, I mean, I have a talk I do later about how to make decisions on stuff like that.
+I just pick one. I just pick one. I just pick one, yeah.
+Flip a coin sometimes.
+Yeah, really.
+Yeah, I'll talk about that later, but I'll just pick one.
+I'll do one thing.
+Sometimes you have to do a pretty large pivot.
+Sometimes the mini, medium ones aren't cutting it, right?
+And you have to do this really carefully
+because you're kind of in this airplane, right?
+And if you pull the wrong switch, you may just nose dive.
+And you may just never be able to catch yourself.
+So for larger pivots, I always say, you should talk to us.
+You should talk to Ahmed, you should talk to one of us
+about that move.
+For example, like a big move may be like, I don't know,
+cat going from making music to wanting to make an app now.
+Or like a dev going from wanting to,
+you know, help students start businesses
+to like making like an AI hardware product,
+you know something, I don't know.
+Those are very large moves.
+And those aren't the wrong moves by any means, right?
+But it's like really think through them,
+like why are you doing this?
+And you have to have really good answers.
+So by Friday you all have to be off zero,
+because technically Monday,
+zero is whatever you were at yesterday morning.
+So that's like your zero.
+So you're at zero again,
+and you're gonna be at zero every day,
+every week until the end.
+So you can't get Daniel to pay for your app again.
+Sorry, that cheat code, some of you all figured it out.
+But you won't be able to do it again.
+And you're gonna have to try some new stuff.
+So what are you gonna do?
+You're gonna have to keep exploring.
+And I just wanna make sure you all take steps
+that aren't too small, but also aren't too big.
+That's for sure.
+But I think most of us are, what's the word,
+victim to the taking steps that are too small, generally.
+I would love for some of you all to take larger steps,
+but I think most people are usually afraid
+of taking larger steps,
+so they'll end up taking smaller steps.
+You want to kind of be in the middle.
+And that's all I got, any questions?

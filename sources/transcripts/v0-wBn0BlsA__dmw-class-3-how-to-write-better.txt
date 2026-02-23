@@ -1,0 +1,1053 @@
+Welcome again to Writing 101 and Feb 14. Hope that everybody is having a good day so far.
+And I want to cover something about writing. And I spent some time thinking about this.
+And this is something, a framework I wanted you to start thinking about.
+That is that writing is not just words on a page. Writing is more holistic than that.
+And I want you to start thinking about what writing really means.
+Personally, I think it's the most powerful way to shape the world.
+If you think about Buildspace at the end of the day, for the longest time we're really
+just people who put words into email, words in a tweet, and then words into a video, right?
+And you're literally inviting people into your mind, your stories, and your view of
+the world.
+I'm telling you this because I get a sense from most of you that you're actually creators
+at heart even though you're building different things so anybody seen this particular phrase
+if you if you know about this don't don't don't tell the rest right what those of you don't know
+what comes to your mind when you see the just one sentence i'm glad my mom died psychopath
+that? Stupid? Maybe the model is abusive. What else? Resilience. What are some emotions
+that go through your head? So when I see this, actually one of the emotions that run through
+me is less of a judgment, more of a, that's really sad actually. And I'm showing you this
+because immediately you're like invited, you're actually completely consumed by this one sentence, right?
+But I want to show you something more.
+Don't ever separate visuals from writing.
+It's part of a greater whole.
+So this can have a psychopathic tone, can have a very sad tone,
+but if you pair it with the, it's actually the title of a book,
+I'm glad my mom died.
+So suddenly like the color palette and
+This picture makes it funny, right? So it's like no longer just something that is a sad or psychopathic
+You think it's still psychopathic
+What is it?
+The title by itself is as sad has negative tones, but then this is bright and I still don't associate
+the entire whole of something, right?
+It's still weird.
+Yeah, so this particular book actually blew up.
+And it's meant to be a comedy.
+But it's actually about a, she's actually an actress,
+and kind of talks about her mom in a comedic way.
+But actually, the meat of the story is rather sad.
+So I talked to quite a few of you.
+And I know that many of you want to know how to,
+this is the biggest one, write a good hook.
+Tell a story.
+Write a cold email.
+Better landing page copy.
+The list goes on and on and on.
+And if you recall,
+Stavon had a
+mental model that was a baby bolt.
+Looking at some of the stuff that you guys
+have posted and written, I think it's better
+if we just kind of look at the overall process
+first.
+I think it all starts
+with knowing what good writing is.
+If you recall from the design
+lecture, good design is actually what's good design according to Stalin? You guys remember?
+Usable, useful, and beautiful.
+Yeah, there's something similar to writing. It needs to be clear, meaningful, and persuasive.
+And we'll get to what each of these mean and how we will do that. So clear. This is something that
+I see a lot if people don't even understand what you're trying to say they won't even care and
+The worst case scenario is that you put something out into the world
+People can't even say yes, and they came and say no, so they just scroll right past right or they don't even read it
+So here's a tweet and
+I'm using a lot of examples. I don't actually want to show who did them
+This is not from SF2 this is from online and if you want to look at really bad writing examples
+oftentimes you could just look at crypto Web3 type stuff.
+So if you do a quick scan, what is this tweet about?
+Anybody tell me?
+It's really small.
+It's a shillier coin.
+Yeah, it's very hard to tell exactly what's going on.
+So chances are you're just going to scroll past.
+Interestingly, this account is actually rather big.
+So you need to have people understand you first.
+And the second thing is, I say meaningful,
+because I want you to communicate something of value.
+And the value actually can come in all kinds of forms.
+For a lot of you building SaaS,
+it could be saving time, saving money.
+And for some of you content creators, making them laugh.
+That to me is like the pinnacle offering somebody value,
+because laughter can transcend many things.
+and or interesting information, et cetera, et cetera, et cetera.
+So I'll give you an example.
+This is a very popular example of a cold email
+that somebody sent to Sean Perry.
+Let's just take a moment to break this down, right?
+I made an irreversible decision.
+So this particular email is because Sean Perry
+was kind of looking for people to hire, right?
+So let's just look at this.
+Hey, Sean, I made an irreversible decision.
+just 30 days in i quit some job the opportunity cost of not being full-time in crypto was too high
+right lucky for you this means that i'm on the market i think you should hire me and you don't
+even have to read the rest he already bowled what he should read i quit this job i think you should
+hire me i love to run nft experiments for milk road right so already it's like if when sean got
+this to him it was a very meaningful it's also understandable what this
+person wants right and before I get to this last bolded part I want to talk
+about persuasive if you recall from the marketing lecture we kind of talked about
+marketing ultimately is you want somebody to take action it could either
+to buy your thing sign up for a subscription or adopt your point of view
+What I mean by my point of view is that you're convincing somebody that what you're offering is a value or convincing somebody that
+Your point of view is actually like the right way if you look at build space, right the 2424 lecture
+Sorry, not lecture the live stream. We spent a lot of time
+Telling the audience our view of education how we could do it better, right?
+So if you come back to this example
+it's very persuasive for Sean to at least talk to him right because he ends
+with I got two ideas one for Milk Road one for MFM want to hear them so it
+makes it it makes the readers life really easy it's a yes or no right so I
+I want to break down how we start from all of them.
+Any questions so far?
+Cool.
+So, I was looking at a lot of examples.
+I think the most important thing you need to start is work backwards from intent.
+What do you want to say to people?
+I think that's actually a really difficult thing that I have seen in a lot of the examples.
+It's very unclear what is it that you actually want to say to people.
+and even our own content team, we oftentimes struggle with this.
+And this is what I like to think about a lot.
+Keep shooting and figure out your target.
+Now, this is actually really important.
+You need to keep on posting because this is the only way you can get feedback
+whether or not you are finding the right target or even if that's the target that you want.
+and think of this as a process and the most important thing is uh you how many of you like
+write on a regular basis during sf2 not not for your stuff like you write for yourself
+yeah quite a few of you i highly recommend that that if you're not doing that take some time to
+do it, our entire team spend time writing about all sorts of stuff so that we can actually wrap
+our heads around what we're trying to build. So let me give you an example. We went off grid for
+basically a month and we're figuring out what to build. But the forcing function that's really
+good for us is anytime we're coming up with something new, we immediately think about how
+will we communicate this to our audience? How will we communicate this to the world?
+and it's oftentimes a messy process,
+but it's something that you can just iterate
+even within yourselves.
+So this is from my app, Ulysses.
+Farza and I, we started jamming about
+what's a message we can send to your audience, right?
+So if you look at this,
+there are four versions of this.
+It actually ended up being like six to 10 versions
+of just all these different drafts.
+You can see a title.
+We shut down our company for a month.
+I became a monk for a month. I don't know how many of you read BillSpace emails, but eventually the landing title would always change. How many of you read this or received this? Yeah. So this was one version of our message, right? And we really thought about our intent. Our intent was, one, we want to tell people that we're doing something different this year.
+Two, we want to tell people that we have the same mission, right?
+To build a world where anyone with an idea can turn into reality.
+And then the third thing is there are different segments of our audience.
+We need to address questions, right?
+So this one would be Wednesday nights and weekends S5.
+And those of you that hit this email is probably because you were in S4.
+Actually, all of you are in S4.
+That's why I got the email.
+And then this is another iteration of the same message, right?
+This one is more personal to Farza.
+Most of you are probably familiar with founder stories plus cliches.
+Steve Jobs finding himself in India while doing OSD.
+Phil Knight traveling the world before coming up with Nike.
+But this message again is all tied back to our intent.
+And our intent is to be clear about what we're doing next
+and also provide something meaningful.
+and then lastly, persuade them to come to 2424.
+How many of you read this?
+You can go check it out.
+It's billspace.so4.hyper.
+It's a very long read.
+If you really want to understand where our head is at,
+this is actually a pretty good read.
+Again, same message, but now in a 10-minute format, right?
+You guys all know that we're building software now.
+So for a month, the whole team would jam about different ideas.
+I would jam about all of the ideas, and then I made it down to a pitch deck to myself.
+Again, I need to first figure out what the hell am I trying to say to the audience, right?
+So to me, I was like, okay, how do people connect with each other?
+So I started breaking down to myself, you know, their ancient forms of connection,
+modern forms of connection, contemporary forms of connection.
+How can build space elaborate or build upon that?
+Now all of this building into a grander narrative
+Even things like this. We'll kind of talk about this deeper
+This is like this is the map
+for the entire live stream and
+Josh and I are thinking about you know, there are different moments that a person experiences in a one-hour
+Live stream or even a one-hour film, you know, when are the audience, when is the audience happy?
+you know I put a smiley face when they're dipping down you know I say you
+know when they figure out s5 is gonna be delayed they're gonna be sad as fuck
+we got to bring them back up make them happy so we really have to communicate
+what s5 is delayed right so working backwards from intent is probably one of
+the most important things that's gonna start to make everything else really
+easy but figuring out intent is actually very difficult so how to be clear and
+understandable how many feel very confident that like my writing is very
+clear understandable I know you are I'm gonna give you a shout out later that
+I'll leave oh not me not me and anybody like feel feel like I got this down yeah
+Well, I mean just as far as like technical writing, I've done a lot of that and I think, yeah, I think I know how to make that clear.
+Yeah. When was the moment that you're like, I know that what I'm writing is clear and understandable?
+I don't know. When I started writing stuff on Wikipedia.
+Okay. Yeah. Anybody else? Yeah.
+Yeah.
+I would say generally I feel like I'm pretty confident in terms of leveraging the style
+I want to communicate and what I'm trying to communicate.
+Yeah.
+That balance between design and the words themselves.
+Obviously, there's always room for improvement,
+but I feel like I'm getting very close to finding my thing.
+I think I get, I think I'm a pretty queer writer eventually because I'm pretty brutal with what I cut.
+Yeah.
+We'll come back and rewrite the whole thing.
+How do you know when, like, this is clear?
+I ask people.
+Yeah.
+I think it's really good practice, no matter what you're making.
+And again, just want to stress that writing is, like, part of a whole.
+Is that when you make something, you can look at it and go,
+this is doing what I want it to do.
+Like start to like build that that realization up because once you do that then making things become faster and easier
+This is my take if you can master just this you're 90% there with good writing
+If you can master this you're 90% there actually making good videos
+So
+Another framework for you to think about I think all of you know this as well
+So that 90% is when you feel that you have, that your writing communicates your initial
+intent with what you started with.
+If you can do that, like, it's already really good.
+So framework is, we always talk about write with an eraser because often times if you
+want to make what you're writing good and clear is you need to just cut out a bunch
+of extraneous things, a bunch of things that don't matter.
+Yes?
+So what's the difference between something being extraneous and storytelling?
+We'll get to that actually.
+So a lot of times, have you guys heard of the principle inversion?
+Yeah, Charlie Munger, the right-hand man of Warren Buffett often talks about this.
+He said, this actually helped me a lot later last year.
+Oftentimes when you want to do something you always think about I got to do all these things in order to achieve that
+But the best thing to do oftentimes is to figure out what not to do
+So like if you want to do something more like if you want to write more
+Then there are all kinds of stuff that you should just stop doing right that won't distract you
+so
+Not throwing shade again at anyone
+This is not from your example, but we've been trying to hire a video producer
+and this is one applications. Take a moment to look at this. Can you read it?
+Yeah. Also, if you're like, nah, I don't even want to read this, don't read it.
+That's actually a really good response as well.
+Yeah.
+How about that?
+How about that?
+Oh, everybody says it fills ChatGPT.
+Why?
+Yeah, yeah.
+Let's do it practicing.
+I must say, this isn't good, but it's not necessarily terrible, right?
+This is like a first draft, and this person obviously has some experience,
+and I think that if this person were to take a little bit more time,
+it could be much stronger, right?
+So let's do this exercise then.
+I'm going to come in here.
+You guys can see this, right?
+Yes.
+Hold on.
+Let's just start erasing.
+You will see that once you start erasing things,
+it will be even better.
+All right.
+What should we erase?
+Okay, somebody said diverse,
+so let's just erase this.
+I would actually delete the whole first paragraph.
+Okay, okay.
+So two people said delete whole...
+I believe the second paragraph is about
+a building.
+I love what you're building.
+What else should we erase?
+This one.
+This one?
+Basically you're saying just start over.
+Wow, you guys are harsher critics than I am.
+I don't want to ask why people don't know the first paragraph.
+That's interesting, right?
+Go ahead.
+In the second paragraph, I would not like this not something I would like to do.
+So at this point, hey, let's just collab.
+Yeah.
+The second sentence is that.
+Sorry, Karen?
+So the first paragraph is meant to establish legitimacy.
+Yeah.
+And so honestly that just been stated as I have experience at multiple companies, here's
+my portfolio.
+Yeah, yeah.
+Keep going, keep going.
+What's the next paragraph?
+So the second paragraph I think is actually pretty good in terms of communicating what
+they want.
+Honestly, you can just move it at that.
+Okay.
+I feel like the last line seems like the person asking too much from you guys, as opposed
+to applying for something.
+It seems like a very collaborative thing where it's like, I feel like the tone should
+change when you guys, like, he should be asking for something, as opposed to like, now it
+much like, I don't know, he's like, let's collaborate on something.
+Yeah.
+I feel like the choice was very much like, oh, you guys want him and he's doing you guys
+a favor by giving us, you know.
+Yeah.
+Right.
+The graph is good, but I would not write it.
+I would just attach links of my videos.
+Yeah.
+Maybe it should not be the first thing.
+Yeah.
+Because it's just kind of cold to just start saying, oh, this is my experience, blah,
+blah, blah.
+rather start with something more like this,
+I'm, hey guys, I'm, yeah, I love you building,
+and this is what it did.
+Just to ignore it, I know it's like,
+but it's basically, I could have sent this to anyone.
+Yeah, like the one to Sean is like,
+Sean Perry was very personal, right?
+You wanna say that to Michael,
+and then I'm gonna move on to the next one.
+Oh, I'm just gonna agree the same thing,
+like I went to that and I was like,
+this is a video producer and there's like no video in it.
+Yep.
+Just a video, I don't know.
+You think you'd want to promote, like, hey, here's something awesome I did.
+Check it out.
+And tell me if you like it.
+Hold on.
+Quick moment for a break.
+If you have not watched 2424 livestream, please look at over there.
+We will tell you all about our AI product.
+In the meantime, we're experiencing some technical difficulties.
+I don't think you should stay here by the way.
+That would be good.
+Yeah.
+Yes, last one.
+Last one is that there's not an easy way for somebody
+to make a decision.
+Yes, there's not an easy way for somebody
+to make a decision.
+I'm going to give you, I rewrote this.
+And I'm going to give you my take.
+Now you're going to think, oh, well, Jeff is writing a very
+Jeff, BillSpace way.
+Yes, but I think that actually just kind of shows,
+If you're doing anything created at build space,
+you kind of need to understand where we're coming from.
+So take a moment to read this.
+Is this better?
+They sent it in that font.
+No, no, this is my copy.
+I changed it to Manrope, too.
+Manrope helps.
+How many would you hit me up?
+Sure.
+Why not?
+Why not?
+How could it be stronger?
+Yeah, yeah.
+I think the most important thing is the link, right?
+Like, oftentimes, if you could just show something.
+So let me read you through it.
+Damn, I really like the content Bill Smith is putting out there.
+It's really a fresh take on what education is.
+So I'm kind of establishing like I at least have some context what you're doing, right?
+And then this part.
+To be honest, I'm inspired to ditch everything I got going on in the past to work with y'all.
+My work with startups, traditional broadcast TV, media for ads, live stream, etc.
+I know people won't read that.
+But I know they'll read none of that matters.
+You understand what I did there?
+It's like I'm showing that I already have all these experience.
+by setting a different way I'm saying that all of this experience actually I'm willing to learn
+what you guys do because I'm reinforcing I think you guys do a fresh take so for me to join you
+it should be fresh right you're doing something new and I want to be part of it just to kind of
+reinforce that check out three things I made in the past I'm proud of and I think you'll like to
+hit me up for a chat and then at the very end this also shows that I've been I study what
+what Bill Spitz is doing, and I'm like, your YouTube sucks, so I'm going to help you do
+with your YouTube, right?
+So this at least makes it seem like, yeah, it's a quick no or quick yes based upon the
+links.
+Let's move on to...
+And don't want to leave you hanging for a story.
+I actually took the time to say, can you drop a link to something that you made and are super proud of?
+Because I'm very inspired by our teammate Alec, he's the nicest guy on earth.
+And I thought, yeah, maybe he just forgot to put the links in.
+Well, this is what he said, and really could have been better.
+Apologies for the wall text, I try to be concise.
+I try to be concise.
+Yeah.
+How many of you know Sticker Mule?
+Yeah, yeah.
+What do you think of their ads?
+They're pretty good.
+Yeah, yeah.
+Sam and I love their emails.
+Hello?
+Tape is half off today.
+I'm listening.
+I don't really need tape, but it's half off, so I'm listening.
+Get 100 feet of custom tape for only $9.
+Normally $19 for the free ship.
+Anthony, co-founder of Sticker Mule.
+PS, new to tomorrow.
+I'm like, this is sick.
+I feel my life feels kind of it's missing something
+when I don't get an email from Anthony now.
+So again, I'm sure that Anthony could have written something
+that is 1,000 words long, but this hits hard, right?
+Look at this one, right?
+All of you seen this one?
+All of you have seen this one, right?
+All of you interacted with it?
+Why is this one good?
+You don't have to read much.
+Yeah, tell me more.
+You don't have to read much.
+It's just like basically three lines of text.
+I also love that you can turn it this way.
+Oh yeah?
+Yeah.
+Go ahead.
+It's kind of a long line to easily say yes or no. You can self-select it so, so quickly.
+Yeah. I'm just going to read this out loud.
+Three months ago, I bought a business making $500 per month for $4,000 on Acquire.com.
+You run Acquire.com, right? No?
+Oh, wait, yeah, yeah, you bought it from there, right?
+Yeah, yeah, you bought it from Acquire.com.
+So he immediately says, I bought a business for making $500 per month.
+And then he says, now worth $100K and made $4,000 last month.
+How many of you are already interested in how you did this?
+Yeah, almost, I mean, almost everybody, right?
+I also love what he did here.
+Disclaimer, please try this at home.
+Like, I feel a sense of trust that this was a thread.
+I know that when I click in, it's going to give me little chunks of stuff that makes me happy when I read it.
+Any questions on clear and understandable?
+Good?
+Let's move on to meaningful.
+This is where the storytelling can really come in.
+So I know that every time, how many of you have been told you need to know your audience?
+Like this just drones on and on and on.
+And I want to kind of redefine what knowing your audience truly means.
+You need to write for people who are meaningful to you.
+Anybody recognize this background?
+What is it?
+Everything everywhere.
+Yeah, this is everything, everywhere, all at once, the movie.
+And when you watch a movie and also listen to interviews,
+you just know that this movie was crafted for a crowd, right?
+It was so obvious when you watched a movie.
+And I think it's because when they were crafting the story,
+they were writing for people who are meaningful to them.
+And I was very careful in my word choice.
+I didn't say write to people.
+You want to write for people.
+You want to do something for people.
+and if you can do that then you'll write things that are genuinely meaningful even as simple as
+this hello tape is half off today I'm pretty sure that Anthony probably at some point yo Anthony I
+know at some point you read a lot of emails you cut all the bullshit and this was very meaningful
+helpful to me.
+And here's a trick.
+Helpful to imagine writing...
+What is going on here? This is bad writing.
+Helpful to imagine the person you're writing for.
+Do you guys understand what I'm trying to say here?
+So,
+Who's the first person you should be writing for?
+Yeah, so every time when you show us something, we are always telling you,
+would you even stop for this? Would you even read this?
+Because if you're not convincing yourself, then this thing is probably not going to be meaningful to anyone else.
+It's very obvious when you see, especially TikTok, right?
+TikTok and IG is a very interesting one where you can always tell who's trying to gain impressions,
+and all of the hooks and everything are all very formulaic.
+And so oftentimes, if I start to write with Farza,
+I would actually write to my past self
+because I was in a state probably two or three years ago
+that I would be like, yeah, I want to do nights and weekends.
+I want to do nights and weekends.
+After I can write for a young Jeff,
+then I would think, okay, I'm going to really think about
+a nights and weekends person I've come across,
+and this person is literally across from me,
+and I am trying to tell this person and convince this person this is a really good path.
+That is where you can start to story tell.
+Let me see.
+Can you guys read this?
+Hard?
+Hard?
+Josh shared this with me.
+We're both Kendrick Lamar fans.
+Anybody seen this before?
+Take a moment.
+It's kind of long, but I'm just going to read.
+First thing.
+I spent most of my days with fleeting thoughts,
+writing, listening, and collecting old beach cruisers.
+The morning rides keep me on a hill of silence.
+I go months without a phone.
+How many of you relate to this idea of going months without a phone?
+Yeah.
+Right?
+It kind of hits hard for you.
+like I do not want to be with my phone. And so this is actually Kendra Lugmar just telling
+everybody that hey I'm gonna see you soon but I need to go through this thing for myself.
+And you probably saw the inspo for us. Why? Because we're trying to figure out how does
+an artist communicate what's next for him? How can we communicate what's next for us?
+So if you go to the OS, you will see this one.
+We were just kind of iterating, for example, the forward slash what's next, the what's
+next email, the 2424, and all of it is just our attempts to communicate the same message
+over and over again.
+But yeah, if you want to take time, you can read this on the OS.
+And I think one thing to always recognize, and I actually also want to make a side comment,
+is a lot of you are very eager and hungry to go viral.
+And I totally get that.
+Josh and I are constantly like, damn, why did this one get under 10K?
+This is fucked up.
+it's very important to stay authentic.
+It will pay off.
+I swear to God,
+this will be the last time I mention Taylor Swift.
+I know that Taylor Swift has to be mentioned too often,
+and this is the last time I'll talk about this.
+Anybody know what this album is?
+Nobody listens to Taylor Swift here?
+Yeah, good.
+Who here just hates Taylor Swift now?
+Okay.
+Why now?
+Well, she's been on the news a lot.
+Okay.
+So, I want to start a story.
+The story is actually incredible.
+It's 2012.
+Taylor was about your age, 23-ish.
+She wrote this song when she was 21.
+And the song is called All Too Well,
+in which she put in the album Red.
+This is the OG 2012 album.
+And these are the lyrics.
+Walk through the door with you, the air was code.
+If you don't care about music, it's whatever, right?
+Here's the important part, though.
+All Too Well was her favorite song,
+but she literally thought that,
+you know, this is meaningful to me,
+but I don't think people are going to care,
+but I want to put this into my album anyways.
+And the fans were crazy for it.
+This has become like one of her anthems.
+How many of you know, can you guys see these little bracelets?
+You know what they are?
+What are they?
+Yeah, Taylor Swift encouraged your fan.
+Actually tell us about what Taylor Swift's friendship bracelets are.
+I don't know if that means that, but they make them at concerts.
+Yeah, yeah, when you go to a concert, you can make, I actually never been,
+I just like studying her, okay?
+Now,
+Now,
+you go in my Spotify wrap,
+I would just tater-suit, tater-suit, tater-suit.
+I would share my Spotify wrap, I'm not ashamed of it.
+Okay, so when you go to her concert,
+she has all of you make friendship bracelets.
+It's actually a pretty cool phenomenon.
+Once you make that friendship bracelet,
+You exchange with total strangers with different messages,
+and they will also all request this song all too well.
+And Taylor's just totally floored.
+And so two years ago, she re-releases the album, Red.
+It's called Taylor's Version.
+It's because when she first released the album,
+most of the songs were controlled by the studio.
+So she said, fuck that.
+I'm just gonna go re-record this song.
+This will be my version.
+And it expanded the song into 10 minutes long,
+still one of people's favorite.
+And this background image, she actually
+turned it into a short film.
+All of you are seeing Stranger Things.
+What's the girl with the red hair?
+She actually stars in this.
+It's a pretty good short film, actually.
+Yeah, yeah.
+Just a character.
+Don't worry about it.
+Any questions about keeping them meaningful?
+Any thoughts?
+I specifically bring up artists as inspo,
+because I think they're one of the best people to tell stories.
+And oftentimes, you can actually take all of these lessons
+to build it into your brand, even if it's SaaS.
+And I'll explain why later.
+Any questions?
+Yeah.
+I'm actually curious, like, so say for me, like, what's something that would be meaningful
+to me or, like, that I find interesting is just, like, let's say, like, a cool business,
+you know?
+Yeah.
+Just, like, something that I'm showcasing, but I'm not sure how to, like, think of that
+as, like, meaningful, you know?
+Yeah.
+Or, like, how to, like, just, like, kind of put what you were, what you were suggesting
+into practice for, like...
+Yeah, so like, so Dev and I had a conversation.
+He's trying to grow his LinkedIn.
+You're trying to be the micro startup guy, right?
+And one thing that's very meaningful even to me
+is somebody who breaks down micro startups,
+either acquiring them or how they become big, right?
+So the value that you're offering me
+is actually like pretty high
+because you're giving me like really interesting info.
+Even if we go back to like your tweet,
+even the little things as like disclaimer,
+Please try this at home.
+It's already building a story in, right?
+Okay, next part, how to make something persuasive.
+You wanna make something persuasive
+because ultimately you want somebody to, again,
+buy your thing, subscribe, sign up, whatever it is, right?
+But I just wanna remind you,
+if you can do really clear and understandable writing
+and your writing is meaningful,
+You're 95% of the way there.
+And there are all kinds of tricks,
+but only one thing matters most, in my opinion,
+to be persuasive.
+Do you have any idea what that is?
+Yeah.
+Authenticity?
+OK.
+Be persuasive.
+Excuse me?
+Would you ask be persuasive?
+Yeah.
+What's the one thing that matters most to being persuasive?
+You actually ask.
+You actually ask?
+Be persuaded.
+Convince them that there's something you're going to get out of doing,
+like whatever, like reading your thing.
+Yeah.
+Like being .
+Okay.
+There's something you're going to get out of it.
+Make it personal.
+Make it personal, yeah.
+Relatability.
+Yeah.
+Make it .
+Okay.
+I actually believe it's consistently doing one and two.
+Because everything you're telling me
+is actually you're just showing up.
+I know that we keep on talking about showing up.
+It's actually really important.
+If you can consistently do one,
+communicate clearly to people, and offering them value,
+that is the most authentic way to be persuasive.
+Because chances are you're not gonna launch something
+and then just get it the first time.
+That just rarely happens.
+All of you know Naveed? I love this guy's emails.
+Naveed shows up every single day and he offers me so much value as a person using an app.
+Naveed says, Unriddle now finds citations for you.
+Visualize connections between items in your library. Now available in 30 plus languages.
+I know this seems like not sexy at all, but he shows up every day in my inbox
+and he just improves it, improves it, improves it.
+And if you go read his copy, it's just like, it's just Naveed being Naveed.
+He's not trying to sell anything.
+He's just trying to provide you value.
+Also, interesting, right?
+He doesn't have an amazing hook in terms of the email.
+But the value prop is so good.
+I do want to give you one skill to help you be more persuasive, though.
+It's called building momentum in your writing. So I'm gonna read this out loud and I think,
+oh thank you, hold on. There you go. I'm gonna read this out loud so you can actually hear the
+rhythm that's actually in your head. Hey there, Pat here. Happy Wednesday. I have a confession.
+Starter's story would have failed miserably without the help of one place, the r slash
+entrepreneur subreddit. I was able to hack the subreddit and get millions of free users for zero
+dollars. Even crazier, I did this when I was a nobody. You see, the sentences are so short, like
+you can't help but just like boom, boom, boom, boom, boom. And it just builds upon itself, right?
+So keep the sentences short and avoid using jargon.
+I highly recommend when you're writing, do not have really long sentences.
+This is also true when you're making a video.
+Try to see like, for example, you could have an entire paragraph,
+but in the video form, what you want to do to build momentum
+is you maybe have the person saying one short sentence,
+but you have the video communicate the rest.
+Anybody recognize this?
+This is Tyler, the creator, the rapper.
+These are the lyrics to one of his songs, I'm Sorry.
+And it's a big chunk of wall of text.
+But I wanted to bring this example.
+Let's read it.
+I'm sorry, I'm sorry I don't see you more.
+I'm sorry that four minutes where you see your son could feel like a chore.
+Sis, I'm sorry I'm your kin.
+Sorry we ain't close as we should have been.
+Sorry to my old friends.
+You see, like, once you get into it, it's fast.
+It just builds upon itself.
+There's a rhythm.
+So, again, I just want to reiterate.
+This is something you can learn over time,
+but this is like the rest of the 5% of your writing being persuasive.
+The first 95% comes from you just being clear, understandable, and then providing value or providing meaning.
+Here's a classic example.
+Any of you seen this ad?
+Just read a few sentences and I'm going to skip to the very end.
+Obviously, it's selling whiskey on Father's Day.
+That's a context.
+Selling whiskey on Father's Day.
+Because I have known you all my life, because a red rudge bicycle once made me the happiest boy on the street,
+because you let me play cricket on the line, because you used to dance in the kitchen with a tea towel around your waist, let's go down.
+Because you wanted to go to McDonald's the last time I bought you lunch, because you have always been there when I needed you, let's go down a little bit more.
+because I don't say thank you as often as I should,
+because it's Father's Day,
+because if you don't deserve,
+she always would go, who does?
+Right?
+So this format hit hard for the audience back in the day.
+But you see, it's just like,
+because, because, because, because,
+it just builds upon itself.
+You just keep reading and reading and reading,
+and next thing you know,
+you're holding a bottle in your hand,
+one for your dad and one for yourself.
+It's harder when your dad died.
+Excuse me?
+True.
+Disclaimer.
+Yeah.
+It reminds me of the think different campaign back.
+Excuse me?
+It reminds me of the think different campaign back.
+Yeah, yeah.
+Think different campaign.
+Thanks.
+Thank you.
+How many of you have seen this stupid email?
+Yeah.
+There's a particular thing with this email I want to show you.
+I want to give you an actual tool that you can start using.
+Hey, it's Jeffrey and Josh from Buildspace here.
+We grind, we pull all-nighters, we work our butt cheeks off.
+All of this for one important thing,
+a show for 32 outstanding builders.
+Farza isn't happy with the current numbers.
+He said there aren't enough sign-ups,
+and now he's been acting weird around us.
+We're worried.
+Look, the job market in SF isn't that great right now,
+and Josh has an expensive Pizza Hut diet to maintain.
+Blah, blah, blah.
+And again, think about this, right?
+This would not hit as well if it didn't have the picture.
+So even when you think about writing,
+it needs to be part of the whole.
+This is called the Hemingway app.
+And if you put it in, oh, thank you very much.
+If you put it in, you will see that the readability level
+of this is grade one.
+If you're writing things and it requires somebody
+with a PhD to read, unless you're writing for people
+who have PhDs in reading and research paper,
+it's probably not the best use of writing.
+So yeah, this app is hemming with, yeah.
+What happens if you are writing
+and you're doing for our next ?
+It will go back to who's your audience, right?
+So if it's a technical document,
+like what Luca's work on,
+then obviously that thing would require
+a little bit more complexity, right?
+And I wanna leave you with this part.
+Writing is the easiest and cheapest thing to get good at.
+Because you don't have to buy a camera.
+You don't have to go buy a camera.
+You can literally just write.
+I mean, you can write on the beach sand
+if you need to practice.
+This is the cheapest, easiest thing to get good at.
+That's how Socrates taught his students, actually.
+And this is a really important thing.
+And this is something that I've actually
+been learning a lot myself, is that I'm
+I'm more familiar with Twitter and TikTok,
+but I'm actually learning a lot from Josh with Instagram.
+And when you write, try to keep an open mind
+on what works and what doesn't,
+and kill whatever that doesn't work.
+And this is something that will simplify your life,
+is this Venn diagram.
+Again, all of you are creators,
+and I know that you want to create something that's authentic.
+So keep it really simple.
+You make something, a video, an app, what do people like,
+and what you like, and you just try
+to make this cross-sectional area bigger and bigger and bigger.
+It will never be 100%, but you can keep on working towards it.
+And we won't get into this, but if you can do all of these things,
+I promise you your brand voice will become stronger all the time.
+Kind of answering that, right?
+like how to do the storytelling.
+As you shoot your shots more and more,
+and you do all these things,
+the brand voice will become stronger.
+Yes?
+One thing that stuck out to me in that email
+of the applicant that he sent you
+is something about the tone was just weird.
+It was like trying to be casual,
+but almost trying too hard,
+and then weirdly formal at the same time.
+And I feel like sometimes I struggle with that, writing emails to people, like trying
+to figure out how to strike the right balance between those things.
+And the build space approach kind of seems like you guys are just casual and you know
+what you like and you're just putting it out there and you kind of don't care how people...
+Well, that's at least the impression I get.
+Yeah.
+What's your thoughts on that?
+I think we do care, right?
+Let me show you an example that I think is...
+Okay, you guys caught me.
+Show us your bracelets.
+Okay, this does not pull that up.
+Never mind. I was going to show our latest Nights and Weekends posts,
+and I think that's a good example where we kept it very straightforward,
+and we're actually trying to get a broader audience to watch our DMW lectures.
+So if you go and actually look at our latest Nights and Weekends posts, it's pretty neutral.
+I think that's fine. I don't feel like we were sacrificing our voice,
+but in those times, just keep it really simple, clear and understandable.
+And then you can slowly tweak your copy and experiment with basically optimizing this thing.
+So, yes.
+There's something I struggle with, which is that sometimes having a direction in the story, like a strong direction and a strong hook, that feels inauthentic.
+so that would like communicate in my writing as well that i'm trying to make sure that there's one
+thing that really sticks out to people and people remember that but i don't feel that that's authentic
+because i have so many other things than yeah that than just one strong direction i think one
+thing that's like really interesting is when you start to really focus on building an audience early
+on you will feel like i need to spend a lot of time crafting this because i want i don't want
+people to misunderstand me right that's why earlier i said you need to keep on shooting
+while finding your target right so when you're doing that like josh and i've been doing this a
+lot lately we shoot something and we feel like it's not quite this but we already did the work
+let's just go ahead and post it and see if people like it and if people really
+like it and we're like okay people actually really resonate with this then
+how can we make this into something we like better so even a Taylor Swift story
+that song all too well was originally five minutes long she wanted to make it
+ten minutes but she thought nah like who would want to listen to my ten minute
+song it turns out people really like it then she she started to like do the
+things that she likes. Brayden was brave enough to show me his cold email.
+Do you want to share it? Let's just take a minute to read this and let's just kind
+of workshop how to make this better.
+Is this better?
+Yeah.
+Yeah.
+Can we get one more zoom?
+One more zoom?
+Okay, just remember what the title is.
+Yeah.
+Yeah.
+What do you guys think?
+I don't know.
+It's clear.
+It's not like that.
+Yeah, yeah.
+And it's like, he sounds passionate.
+What else?
+How'd it make it better?
+Yeah.
+I think it should be punchier, like shorter.
+Yeah, it should be shorter.
+Yeah.
+Adam?
+Mm-hmm.
+Yeah, Adam?
+There's a lot of like, I want, I am, I need.
+Like it kind of feels negative.
+It's a little give as well.
+Yeah.
+We'll just usually, we almost, yes.
+But then it says, please give me more time in my counselor.
+Maybe saying, please, it should be just
+give me more time in my counselor for 10 minutes.
+Just show that smoke and everything.
+yeah so just some context this is sent to uh brayden's general audience people who have
+started using your app right and um what's the intent here
+yeah to get people to help yeah to get feedback right
+i think one thing too like because like
+his audience people weren't signed up like there's no mention of the fact that he's signed up
+like, hey, I saw you signed up for my app.
+Thanks for doing that.
+You have a connection of why am I getting this email?
+It's just like, I might not even know that that's why I got this.
+Yeah.
+Anybody have a different title?
+I think I think it's more like about them.
+I want to create a perfect tutor,
+like a test tutor for you.
+You could also just call it, oh, sorry.
+Go ahead.
+Oh, yeah, I was just going to say that a small thing I would add is just that Brady wants to make it better for the person.
+So I would just be like, help me make Chesky and I do it before I decide that.
+Yeah, I love that line of thought.
+I think a really good title for this would be something along the lines that I want to help you beat.
+Is it Carl Magnussen?
+Yeah, Magnus Carlsen.
+Actually, you'll be better if you spell,
+I want to help you be Carlson Magnusson or Carl Magnusson
+because all of the chess people will get
+who you're referring to and they're like,
+who the hell misspelled, what is it again?
+Carl Magnusson.
+Okay, Carl Magnusson to me.
+Okay, and then here, you can kind of play around that, right?
+So if you're a chess player, you're like, oh,
+misspelled Carl Magnusson, Magnum, oh,
+I cannot do this, Magnum Carl, okay,
+Whatever it is.
+So, then what you wanna do is,
+I love what Michael said, right?
+You can always say, hey,
+let's start doing this with an eraser, right?
+I would say,
+if they signed up,
+that means they kinda know about it, right?
+Then you could just change this to,
+hey, it's Braden from Chesky, right?
+Just keep it as short as that.
+People are like, oh, it's, he said Magnum Carlson,
+and then now I'm butchering the name again.
+And this guy is the guy that built Chesky, right?
+And here you can actually go in, probably in two lines.
+I am building this to teach you to be better at chess,
+and in order to do this, let's get on a schedule, right?
+get on a schedule, right? Just keep it just three lines tops, then you're done. And then you can
+send it again on a weekly basis. Well, that's it for now. Any questions? Yes?
+Okay, capitalized sentences or not capitalized?
+Honestly, you mean for bill space or just in general?
+Yeah, in line.
+Oh, I capitalize.
+All capital.
+Then what spells face philosophy?
+We keep it lowercase because we feel like that kind of fits the hacker-created vibe,
+and instantly feels more casual.
+But I use caps.
+You know what? I'm going to start writing all caps.
+I'm committing this for 2024.
+Any other questions?
+Yes.
+What's the balance of show, don't tell email?
+Especially, I'm trying to get, I have three days left to sign people up for my course.
+What's the balance of telling them what I'll offer, what will happen, whatever it is, showing them?
+How do you think about that?
+Yeah, I think that oftentimes if you offer a service, I think it's great to just
+show like 80% of the time of that service and your 20% of the time is actually
+just describing what makes the service beneficial to you. So yeah, I always lean
+towards like showing because that's just like way faster to consume. Now, sometimes
+as you saw, there were some emails that were much longer. Now, when you think
+about email length and writing, also think about movies. It's not so much a piece of
+paper that's a thousand words that makes it long or a movie that's three hours that makes
+it long. It's the pacing. And you can hack around all of the pacing.
+Wait, what's your idea for the 80%?
+I was only like 80% always showing.
+And if you guys keep it happening here?
+For your stuff? We can chat later. Yeah. Any other questions? Yes.
+Yes.
+You said like, you know, like if when it's all clear, giving a lot of value and like being consistent with it,
+going viral shouldn't be what we aim for, right?
+So what should be like those metrics that we look at, you know, to say that like, to know that we're like doing those three things, you know?
+Yeah, I think one thing that's really important, and this is really important for like when you're posting things early on,
+it's less so impressions.
+you want to look at the ratio between the engagement with impressions.
+So if you send something and 100 people saw it, but 10 people liked it,
+that's actually not bad, right?
+That's like 1 in 10 people liked the thing that you did.
+So I'll give you kind of like what Josh and I've been doing.
+We've been shipping content that we think is pretty good,
+but the audience is not responding as well.
+So what do we do then?
+So what we do is like, let's go back.
+I think we're communicating things pretty clearly.
+I think we're communicating things in an authentic way.
+Then you can start to work on these little things.
+So what I realized is, damn, I need to be better at hooks.
+I do not know IG hooks as well.
+So then it's like Josh and I started to iterate on that.
+But the first two things need to be down first.
+So many of you have not seen an interview style from Buildspace.
+right that was something we're trying to learn we were trying to learn this we're also trying to
+learn so all of you know that to grow a channel really well the channel needs to be like one thing
+right but all of you are building all kinds of stuff if we ship a video about something somebody
+making music it can feel a little bit odd right you come to build space like oh is bill space
+making music and then you're like wait they're doing all kinds of stuff so now we're thinking
+okay, how can we tell this idea of our one-liner,
+which is, it's the place where people build cool shit.
+So how can we tell that in a coherent way?
+And it's not that easy.
+That's why we're iterating,
+and some of our videos don't do as well,
+and we're trying it out.
+Yeah, I think, sorry, the last thing you said,
+I feel like it's really interesting,
+because I think one of my challenges is that I,
+like, I'm very eclectic.
+I like a lot of different things.
+I find a lot of different things interesting.
+So it's harder for me to narrow down the type of content I want to make that's just one niche.
+It's all music, but it's all next.
+I think the question is, is that a vibe?
+Just to be like, hey, I just like random.
+I think it depends on Samaya and I.
+We had this conversation.
+His IG right now is filled with a lot of different things, right?
+But Samaya asks a question, hey, well, we asked Samaya a question.
+What do you really want right now?
+want right now. He wants listeners. So that means when a person comes to Samaia's channel,
+it should be very clear that it's all about his music. Now the creativity comes in because
+you're very eclectic in all the things that you like, is how can you be eclectic and creative
+in telling the story of making music in all these different ways so that it still feels
+coherent. Yes?
+You know you had a bunch of those anime videos back from September to just show this, just hype people up and things?
+Yeah.
+This is more like a typical question, but like, how do you not get copyrighted in your new website?
+That is a question I'll consult my legal counselor about. It's just, it's platform dependent.
+Yeah, just say sorry later, I guess.
+Yes, Ryan?
+Can you go back to the starter story email?
+I just wanted to take a picture.
+I feel like that was my favorite email of all of these.
+That's a really good...
+Can you see it?
+Sticker Mule?
+Oh, wait.
+Sticker Mule or this one?
+Okay, okay.
+By the way, we will...
+If you go to our YouTube channel,
+you will see all of the lectures uploaded.
+We also nicely time stamped them,
+and we also let you get all of the slides.
+So after lecture, you can just go back and look at them.
+Also just curious, on the bottom line,
+today I'm going to share with you that story.
+What link did you put under...
+He actually just wrote more.
+If you want, I can forward you the email.
+It's really good.
+Yeah.
+Yeah.
+Now, yeah.
+Any other questions? If not, you're dismissed.

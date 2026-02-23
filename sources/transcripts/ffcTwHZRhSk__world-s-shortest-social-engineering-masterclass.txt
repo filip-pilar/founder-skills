@@ -1,0 +1,1505 @@
+All right, how's it going everyone?
+So today, as always, I woke up in the morning on lecture day and I was like, okay, what should we talk about today?
+And I think this is one topic that has actually been kind of coming up a lot in my life.
+Because a lot of people have been asking me for help.
+Or asking for help from me, which is kind of really interesting because I've always been on the other side.
+for so long and I kind of want to just start with as always a quick story to
+contextualize things and kind of put it all in perspective for you all on why
+this is important and honestly how I am not really even the guy that is the best
+in the ward of asking for help which maybe makes me someone that is good at
+which maybe makes me kind of equipped to even talk about it a little bit because
+I'm still learning on how to ask for help best and I think I just want to
+share kind of my journey on how I asked for ALP and how it kind of improved my life. I want to set
+a quick scene here. In 2014, I finished high school. I went to my Snapchat memories. I found this.
+So there I am. I finished high school and I always wore the same shirts. So here's me on Snapchat
+in high school when you think you have a million dollar idea but can't work on it because of chem
+homework so if you followed me in the 12th grade you were getting stuff like this right so that's
+kind of like the scene um and with all my heart at 18 i just did not want to go to college like
+with all my being i didn't want to go because i was already kind of making some good amount of
+money selling shirts online so i was happy with that i wanted to keep on working on that um but
+hey in 2018 i graduate college and uh i ended up moving out to san francisco this is me my brother
+There's my cousin and my dad at my San Francisco apartment.
+So again, even though I didn't want to go to college,
+I ended up graduating for reasons.
+Can anybody guess?
+Parents and fathers.
+Parents, yes.
+Finally, I was free from the clutches
+of my Pakistani mother and father,
+so I could actually go out into the world.
+And finally, I wouldn't dishonor my family
+by dropping out, right?
+So I kind of felt like, okay, I can finally go out there.
+College was pretty useless, definitely, even looking back.
+But some cool stuff still happened, right?
+For one, I built some products.
+This is one product I built,
+got about 500k users in that first year.
+And I just checked, last year,
+it is still getting 234,000 users as of 2023,
+which is pretty cool.
+And I worked on some AI stuff, this is Deep League.
+Again, just random shit I made
+that kind of got some people to notice me.
+I worked on soft driving cars.
+So I still, I still like did stuff in college, right?
+Like I still got to do other things, which is great.
+But to kind of set the scene,
+that's where I was at the end of like college, right?
+So that's like 2018.
+I had stuff, some stuff was making money,
+some stuff was big, some stuff wasn't.
+Had some flops, et cetera, right?
+But I still really felt very, very stagnated by the end
+of when I finished college, which was 2018.
+and felt very alone, had very little idea what to do next.
+I mean, most people who graduate, who leave college,
+generally don't have any idea what to do next.
+And I had no idea how to fix the problems that I even had.
+Like, I knew my own weaknesses,
+and I knew kind of where I kind of wanted to go,
+but like very, very, very loosely,
+but I still didn't quite know
+how to fix the problems that I had.
+And yeah, I had no one around me
+who I thought I could ask for help
+for these problems that I was having.
+Everything from like, should I move to a different city?
+To how do I, is this next app idea I have any good?
+You know, like questions like that.
+I'd always been so solo in my whole life,
+up until this point, like I'd never asked anybody
+for help ever, like completely solo got to where I was.
+And again, I got to this point,
+which was decently okay point,
+but now I felt like damn, like I kinda need,
+I have no one around to help me now,
+Like this is so sad.
+On top of that, yeah, in 2018,
+I really did suck at asking for help
+because I felt like I had to conquer the world
+as a solo player.
+I felt like for some reason that was baked into my head.
+And so I kind of realized this
+and I started to write a newsletter.
+I don't know why I started this even looking back,
+to be honest with you.
+I guess I was just feeling kind of hopeless in it all.
+And I was like, okay, at the very least,
+I'm doing stuff every week.
+Let me just talk about it online,
+at the very least, right?
+I didn't know what Twitter was, I didn't have Instagram,
+I just had a Snapchat, and I was like,
+okay, I have a Snapchat and I have this email thing,
+so I'll talk about what I'm doing there.
+So I start to write the newsletter.
+I wrote it every week for nearly four years,
+so I was kinda hyper consistent on it.
+And have any of you ever read my newsletter?
+I'm just curious who here.
+Great, yeah, you're not missing out on much, eh, Alec.
+But I can talk a little about the contents.
+It covered various things, this newsletter.
+This was my first newsletter ever, Tuesday, November 13th, 2018.
+And I was working on this thing called Buildspace,
+which was very different from what it is today.
+But this was way back when, like right after college.
+And Buildspace is a place where users can learn new things,
+mainly programming by combining their interests with something that they enjoy.
+So that's what it was way back then.
+And you can see how many people are on the email list there, right?
+We have one, two, three, four, five, six, seven, eight, nine.
+There's Alec, there's my dad, there's Sharif,
+who you see walking around a lot.
+So kind of like the characters that you,
+the characters in my life that I've just,
+these are the only people I felt like would care about
+what I was working on.
+So I started.
+I then kept talking about stuff.
+I started talking about the anime I was watching.
+So Death Note, how many of you have seen Death Note?
+Yeah, so in this email newsletter,
+I was talking about like specific fan theories
+about Death Note.
+Specifically, you know, in Death Note,
+you write someone's name and they die?
+I was like, oh shit, that's a plot hole.
+What if someone doesn't have a name, right?
+Do they die?
+And so I fucking Googled it,
+I went into like the Death Note Stack Exchange,
+got my answer.
+Like no, actually that person was automatically assigned,
+is automatically assigned a name 780 days in
+by a Shinigami.
+So again, based on everything I'm saying right now,
+I was sometimes talking about just straight nonsense.
+I talked about my ideas for stuff I had,
+stuff I could build in the future.
+So again, this is all 2018.
+This was an idea that I had.
+Create a program that is able to scan programs
+for common mistakes using machine learning
+and then kind of help the engineer
+find their problems faster, right?
+I would also just be talking about stuff like
+new ideas I had, right?
+So this was another idea I had called Kenga 2.
+And again, the kind of contents were like really vast,
+but it was always like my life and what I was working on.
+So just to give you guys context, right?
+Initially, no one really gave a fuck, you know?
+Like, no one replied.
+I had my dad, you know, Bazar Majid,
+so he would reply to a lot of them.
+So, you know, as long as you are,
+Frazan, as long as you're on top of your shit,
+you have no regrets about short-term failures.
+You will find, you know, my dad being very supportive,
+you will find the light at the end.
+Your hard work will pay off, trust me on that.
+Keep your brain and body,
+keep working on your brain and body, blah, blah, blah.
+So, my dad supporting me.
+So again, this was kind of one of the first kind of replies
+I got to these newsletters.
+Alec, so 2019, Alec just being supportive.
+Beautiful read, hope to get the concurrent user count up.
+So he was talking about how many users I had
+and the thing I was working on.
+So it was cool, you know, like this,
+I got one reply maybe on average every two weeks.
+Eventually some new people started popping into my life.
+This guy hits me up, David Arnetto.
+You remember David Arnetto?
+David Arnetto was this random guy at Google.
+And he was like, I would love to just talk to you
+about your ideas.
+at this time, I go, shit, like cool, someone I don't know,
+sharing curiosity, I must be onto something.
+And I end up going to Google, I end up getting lunch with him,
+ends up being a great guy in New York,
+and it was just kind of an amazing experience.
+And to this day, I don't talk to him to this day,
+but I remember we talked for a long time,
+and I haven't talked to Dave in a while, how about you?
+David Arnetto, hope he's okay, David, if you're watching this.
+And so after about a year of doing this, actually,
+a year of just like grinding this newsletter,
+One guy in particular hits me up that I felt like was kind of different and new a new character in my life and his name was Sean Puri and
+How many of you know this guy? I'm just curious
+Cool, so this guy at this point Sean Puri is kind of like internet celebrity massive podcast probably biggest business podcast there is
+And yeah, just like just like a he's not a nobody. That's for sure, right?
+And what's funny is he just replies. This is my first ever interaction with Sean
+He replies my newsletter and he's only he just says good luck, bro. Let me know if I can help
+And this was the very this is real. This was the real one from 20. I think 19
+And I'm just mind-blown right because at the time
+I'm a nobody like I'm an absolute nobody at best. I have like a couple of
+Things that I built on my github. That's about it
+And and Sean was also not a nobody for sure him he had just sold his first company right
+But he wasn't anywhere near like where he is today even right so at the end of the day
+We're kind of both just randoms actually
+But Sean really felt like he was very ahead of me
+Like I want to start a company and Sean already started a company and sold the company so they go shit
+It's pretty cool like and he just replied to me so all of a sudden it's kind of interesting right
+And so the kind of keeps going right every one to two weeks Sean replies to my newsletter
+Which at this point has maybe a hundred people on it
+He would say sometimes, dope post.
+That's it.
+Sometimes he would literally,
+I would talk about a new idea and he would say,
+hey dude, it's good to do stuff like this,
+clarifies your thinking, keeps you honest.
+I wanna be like, yeah, this is a dope idea, do it.
+But in reality, I think this is a fuck.
+He's gonna waste six to 12 months of his life on this.
+Sometimes replies like that,
+just him being honest about what I'm working on.
+Sometimes it's just him roasting me.
+He's like, this newsletter sucks now.
+I miss your newsletter back when it was talking about
+you know, what you tried, right?
+Now you're just giving unsolicited advice.
+They're essentially like stupid medium articles.
+Like so sometimes he just roasts me, right?
+Sometimes he would just be like, yo, like,
+let's talk tomorrow, what's your number?
+Like he would just literally be like, yo,
+are you available right now, you know?
+Sometimes he would help me go through
+with some really tough emotional decisions.
+I remember one in particular,
+I wanted to leave a company that I co-founded.
+And I was so had no one to talk to about that talk to Sean. I remember I'd gone the phone with him two hours
+We figured it out
+It got to the point where we're thinking about starting a company together
+We're talking all about our idea
+Everything right so it kind of kind of crazy right that it all started from just a guy being like here
+Right because I think a lot of you probably have people like this in your life. They're down to help you
+but I don't know, I feel like a lot of times
+it takes a certain skill to actually get help from them
+and to build on top of that relationship.
+And I wanna just talk about,
+and I think this relationship with Sean that I built up,
+it was almost all over email, almost all over email.
+And they were almost all like little responses like this.
+So it's interesting because,
+yeah, I think that like,
+I think right after this email in particular,
+where this guy literally says,
+you know, let me just summarize this, right?
+At this point, he's like,
+I will fly you out to San Francisco,
+I will fund you to work on an idea,
+and I will literally work with you every week on the idea.
+And he even lays out how much we split ownership,
+like everything's kind of laid out.
+And I'm like mind blown at this point.
+I'm like, holy shit,
+Like, this guy is really down to help me.
+Like, he's really down to take a chance on me and help me.
+And it's at that moment where I was like,
+damn, I should navigate the world
+with other people alongside me.
+I should bring other people along my journey.
+I shouldn't have to just play the game solo
+in my head all day.
+And I think this moment in particular
+really kind of made that obvious for me.
+And yeah, Sean's replies, man,
+they really were a weekly blessing.
+Like, I would sometimes write that newsletter
+just because Sean would reply sometimes.
+Because that's my only motivation.
+It's like, okay, at the very worst,
+there's a 25% chance that Sean reads something interesting
+and tells me something interesting.
+Right?
+And so that was enough for me.
+I would just keep on making that newsletter,
+which would take me like four hours a week.
+Because I think the main thing is Sean helped me
+in ways that I didn't know I even needed.
+Like I'm not like asking Sean questions.
+Like, hey Sean, how do I do X?
+It's more like I'm telling Sean my story
+and then Sean kind of reflects back like,
+have you thought about X, Y, Z?
+And that to me was a lot more helpful
+because I didn't even know the questions that I had.
+I was, I never really, I don't come from the world
+of starting companies since, or starting a startup, right?
+So he did, and I felt like he helped me navigate that world
+because I was like, I came into that,
+I came into the startup world not knowing anything.
+And so yeah, in 30 emails, 10 to 20 phone calls,
+this man changes my trajectory, right?
+And I think that is mind blowing,
+that in 30 emails and 10 phone calls,
+that someone can do that.
+Someone that I never met, someone that,
+I never met him physically by the way,
+until like years later, and it's just mind blowing to me
+how that can happen, with very few touch points, right?
+So, why am I telling you all this?
+Why am I giving you my whole ass story on me and this guy?
+Because I actually think that most people,
+not just you all, but just most people,
+actually really suck at asking for help.
+And I thought about this a lot.
+I thought about like why, and we'll get more into that,
+and like why I think that's the case.
+But I think most importantly about why I'm telling you
+all this is because I think you all need help.
+Not because you're struggling right now.
+Some of you could be doing amazing right now.
+It's really because you kind of always need help,
+even if you don't know it yet.
+Why?
+That's another question, right?
+Like why then do I think that many of you need help?
+Because as you work on stuff, you will almost always stagnate.
+Like almost always.
+Very few cases in life or history where you see people
+that just went like forever, you know?
+At one point, you won't actually stagnate.
+I'm sure you've all seen this kind of comparison many times
+where this is what you think it's gonna be like,
+you know, you're straight up all the time
+for the rest of your life.
+But in reality, it looks a lot more like this, right?
+Where you kind of get like a big spike
+and then you like that.
+And you have another big spike and then you're just like that.
+And you have another big spike and then you're just flat again.
+This to me is like more realistic
+because this to me is like shows that you are stagnating, right?
+So even if we look at this, right here, right?
+You were flat for maybe like three months.
+You were like in the sunken place for three months.
+But then you figure something out for three months.
+And then you were flat for three months.
+Then you figure something out in another three months.
+And again, then you just went down.
+You literally lost.
+You were back to where you were like maybe six months ago.
+But then, bada bing, you figure something else out.
+So these moments, like these moments
+where you are like going from like flat to kind of up,
+those are moments that are very hard
+to figure out by yourself, very hard.
+And you actually need to do something
+to really force yourself past stagnation.
+Otherwise you'll stay,
+like you'll stay in this zone for months
+if you are just left to yourself actually.
+Very few times will you be able to figure out by yourself.
+You can, but it's very hard.
+So for example, some of you may feel like
+you are stuck here right now, right?
+And you kind of want to get to this little inflection point,
+but it's tough, like you don't really know,
+you're putting in the work, what are you missing?
+You know, like these types,
+don't even know the right questions anymore, right? Some of you may feel like you're here. Like you
+feel like you got through the initial thing. You had some magic, but now you're stuck again, you
+know? It's tough. And you want to get here. You want to get to like that next inflection point,
+but you don't know how. And again, some of you may be like, yo, I'm going backwards. Like things are
+going downhill for me. What the fuck am I doing? Am I just like, you know, why am I going backwards?
+Why am I going down again?
+Like, I want to be going here.
+So again, these are things,
+these little moments here are like moments of,
+or periods of stagnation.
+And I think I just want you all to know
+that it's very normal
+and very difficult to deal with emotionally.
+But overall, I just want to let you know
+that this is normal.
+And again, like I said,
+you can break out of this by yourself, I think.
+It's just really hard.
+It's very hard.
+And I think you can only go so far alone.
+So what do you need?
+you need those people in your life that are ahead of you,
+that are willing to help you.
+Not just the people that are around you down to support you.
+Those are great people to have no matter what.
+Like, for example, this group, right?
+Your friends you've made here at Build Space.
+Those are great people to just have around you forever,
+really, they will support you always.
+But generally, it's good to have people in your life
+that are ahead of you, in your specific domain,
+in your specific craft,
+in whatever you're trying to get good at, right?
+There's always gonna be that person,
+at least in my life, you know?
+Sean is one example of a person in my life
+that helped me break through a major period of stagnation
+and helped me figure out my next step, right?
+So you'll always have that person,
+and I'm sure even today in your lives,
+you could probably, you may feel like
+there's a person in your life that helped take you
+to that next step.
+Maybe it's a parent, maybe it's a friend,
+maybe it's like a mentor, all right?
+So what can this look like?
+What can it look like when you're kind of asking for help or looking for help?
+There's a few things.
+It could look like a classic mentor-mentee relationship, right?
+So this is Steve Jobs and Mike Marucola, who was originally Steve Jobs' mentor.
+Gave him the money, helped him start the company, right?
+This is your classic mentor-mentee relationship.
+It could be something like Porter Robinson and Skrillex.
+Porter Robinson was nobody.
+Skrillex finds him and says, hey man, I wanna help you.
+Like, you're making, you made,
+Port Robinson made this really great EP called Spitfire
+and Skrillex sees that and to this day, 10 years later,
+they are still like helping each other
+and Port Robinson still sees Skrillex as his mentor.
+It may look like Dr. Dre and Eminem.
+Eminem was nobody, Dr. Dre finds him
+and then fucking 20 years later, here they are,
+still collabing, still doing things together.
+Again, more of a mentor-mentee relationship.
+It can look more like a partnership.
+Maybe that's what it ends up being.
+Key and Peele, they found each other,
+they made each other better, right?
+And you can argue that they have made some of the best
+kind of improv comedy stuff I've ever seen.
+A lot of people, anyone know who the guy on the left is?
+Walt Disney.
+Anyone go on?
+Many of you, probably no one knows
+who the guy on the right is, I'm guessing, at that point.
+But, hmm?
+No, not Roy.
+This is Ub Iwerks.
+He was the kind of more expert animator in the early days.
+So when Walt Disney first started,
+Walt was pretty good,
+but this guy was even better at animation.
+Like he was like, you know you have like
+the really like great like developer, right?
+That just like will come in and like do it better than you.
+Yeah, that guy was like that before animation
+back in the early, I'm not sure what year this is.
+But again, Walt had that partner, right?
+Because Walt Disney knew like,
+I'm not the best animation.
+I need a guy that's gonna help me figure it out.
+And found this guy, right?
+So that's more of a partnership.
+You can keep going, this is Miyazaki.
+Miyazaki was great at making movies,
+but sucked at marketing them.
+So he found this other guy, his name's Suzuki.
+Suzuki to this day markets every Ghibli movie.
+So again, you need help.
+It can come in any format.
+It can look like this, or it can look like this.
+It really just depends.
+Or it can look as simple as this.
+I saw this moment today.
+I took a picture, Niyati and Ali.
+I don't know what was going on, but, Niyati, what was going on?
+Were you showing him something funny?
+Or?
+I was just showing him on Mylene's Instagram.
+You were just showing him on Mylene's Instagram.
+Great!
+Yeah.
+Just a moment like this can be like, what do you think?
+Again, I'm not sure if you were asking for help in that moment,
+but it looked to me like you were asking for help,
+or you were just helping each other in a weird way.
+I don't know.
+If not, then it's a false narrative.
+But I see that, regardless, I see this scene all the time,
+you know, at Build Space, while you guys are here.
+You guys are constantly showing each other stuff.
+So again, maybe you're not at this point yet
+where you've got this level of kind of help that you found,
+but this counts.
+So you're starting somewhere, correct?
+And it's very important to realize.
+So a lot of you are here at this point
+where you're asking for help like this in small ways,
+but how can we improve on how we ask for help?
+How can we ask better questions?
+How can we, yeah, kind of essentially,
+yeah, ask in a really pointed way,
+push their work forward by asking others for help so we don't have to play the game solo.
+So let's go through, I want to go through some ways. Number one, go direct. This is the most
+obvious thing I can possibly say, which is if there is someone out there that can help you,
+you should go ask them. And let me kind of give you a simple framework to kind of follow there.
+Take something very small you're trying to get good at and that you need help on. Maybe it's,
+I don't know, something technical.
+Maybe it's short form content.
+Maybe it's, I think Derek Declan today
+was talking about Facebook ads.
+Where are they at?
+Yeah, you were talking about Facebook ads.
+Maybe you wanna get good at Facebook ads.
+Something small you're trying to get good at, right?
+Okay, now find the person that's two to three steps ahead
+of whatever, ahead of you at that thing.
+They don't have to be experts at that thing,
+but they're ahead of you for sure.
+And just have that direct ask.
+That's like the simplest thing you can possibly do.
+You're not trying to find people that are gonna
+like save your project or save your life.
+You're trying to find people that are gonna like
+help you in a very pointed way.
+And you should know what you want help on.
+So again, short-forward content,
+maybe it's a developer thing, whatever.
+I did this last week.
+Last week I got back into coding land with Alec
+and I was like, all right, I have no idea
+how to build an AI app these days.
+I literally have zero clue.
+I have not made a single AI app since 2019 or 2021.
+So what do I do?
+I get in a call with Naveed.
+Naveed is from SF1.
+He built an AI app, right?
+I get in a call with Sharif.
+There's Sharif, me, and Stavan.
+Last week, this is Tuesday,
+and we just asked Sharif on a whiteboard,
+how do you build this?
+And you know, have him go through it step by step.
+So again, we know these people are ahead of us.
+So there's no shame in that.
+We just ask for help.
+So for most of you, and for most of you,
+Those that can help you are always a DMOA.
+Generally, I believe that.
+Because again, you're looking for people
+two or three steps away from you,
+not like 20 steps away from you.
+Like, if you're a musician today
+and you try to reach out to Skrillex, pretty hard, right?
+But if you try to reach out to another artist
+that's maybe a bit smaller, maybe 10% the size,
+a little easier.
+I wanna give an example.
+Where's Samia?
+Samia, what's this guy's name?
+Tal Winder.
+Tal Winder.
+So Samia hits me up on email and says,
+you know, Farza, do you ever connect with Telewinder?
+And I was like, hey, yo, man, definitely not.
+But what I did was I just went to his Instagram.
+At this point, let's see,
+you felt like this guy could help you, right?
+Can I help your sound a little bit?
+And he's based in California?
+Cool, so amazing.
+Swami has identified someone
+that can potentially help him on his journey,
+which is fucking beautiful.
+That's a shout out to you for even finding someone.
+That's the hardest part sometimes.
+Great, so now we have a couple of options.
+We can message him here.
+273k followers, I don't know, what do you think?
+Pretty tough?
+Pretty tough.
+Pretty tough.
+So what do I do?
+I click this guy's website.
+Okay, cool, here's his website.
+I found his Twitter.
+Turns out he has Andrew Falls on Twitter.
+His DMs are open and he last tweeted 10 days ago
+or whatever, it's 14 days ago.
+All right, that's already a potential in, you know?
+And then we can keep going and keep trying to find
+his email or other avenues to him.
+But again, this guy is so small in the grand scheme of things.
+And I hope that, I know this may seem like a big personality
+or like a hard person you're in touch with,
+but at the end of the day, there is a path to them.
+And I think this person is totally someone
+you can reach out to.
+And if this person doesn't respond, that's fine.
+Let's find someone a little bit smaller
+that's still ahead of you, right?
+But again, it may not seem obvious
+on how this guy, how you can talk to this guy,
+but you gotta do some digging.
+You gotta do some work on your own, right?
+Kind of find them, get to them.
+Okay, cool, so that's my first thing.
+Just go direct, find the people ahead of you,
+a little bit ahead of you,
+and a very specific aspect of the work,
+and then kind of go from there.
+Yeah?
+I think if you go back a couple slides to his website,
+Yes.
+It says, my music will help me find my people,
+so even you can leverage that as a point in common.
+Like, hey, you have this on your website,
+and I need this help.
+I don't know if that's the way.
+Yeah, no, I think we can talk more about
+in a different time on how you would actually format the message.
+But at the end of the day, yeah, great observation,
+I didn't even notice, my music will help me find my people.
+Holy shit, this guy's trying to find you, Samia.
+Great, like, you should talk about that,
+you should get to him.
+That's so funny, I didn't even read that, great, great catch.
+My second kind of like, I wouldn't say tip,
+but it's just like a kind of more pointed way to ask for help.
+This is my favorite way to ask for help,
+is to open yourself up for help
+and let others track your journey.
+So what does that mean?
+One second, see what is this slide?
+Oh yeah, okay, so here.
+Here is where you're actually going directly to people
+and asking them for help, right?
+Like you're literally reaching out to them.
+In this case, Soumya would directly reach out to this artist
+that could potentially help him.
+Or in this case, I'm directly reaching out to my buddies
+and asking them for help, right?
+But I think what's also interesting
+is those who will reach out to you
+to just help you naturally.
+How can you make that happen?
+Because in my experience, those are the people
+that have become my greatest allies
+and the people that have stuck around in my life for longest.
+And what's obvious here is if you want someone to help you,
+you have to give them the opportunity.
+They have to know that you need help
+or that you are even wanting help.
+Generally today, if I look up a lot of your guys' work,
+a lot of your socials, a lot of your profiles,
+it's not really obvious what you need help with, actually,
+to be honest.
+You wanna make it hyper, hyper obvious
+that you need help and why and from who, et cetera, right?
+And let me kind of paint the picture.
+For me, again, I told you earlier,
+I did this with a newsletter.
+I knew if I'd grinded a newsletter for four years,
+that something good would happen.
+Particularly what would happen is,
+I'd give more opportunity for people to help me, right?
+Through a simple reply.
+So again, Sean, earlier,
+I gave him the opportunity to even reply.
+Otherwise, if I never sent that email,
+dude, Sean's not gonna talk to me.
+Like, there's no reason, right?
+So again, Sean, I pop up in his inbox,
+he's like, all right, this far as a kid, back at it again,
+let's see what he's up to.
+Reads it and then replies, right?
+So I gave him the opportunity.
+And again, newsletter worked for me,
+because I love writing.
+I've always loved writing.
+And, or not always love writing,
+but it's always been an interest.
+And that worked for me.
+Other things that I've tried,
+sometimes I literally just write one-page Google Docs,
+and then I send them to people that I want help,
+or I just post them online,
+or I email them out to people that I think could help me.
+Another option, right?
+I've actually asked,
+how many of you have written a one-page doc for me?
+I'm just curious.
+James, you want to send, I think one more?
+Adam as well, he has three people.
+That helped me a lot because I read your doc
+and I immediately, like in two minutes,
+understand what's their story, where are they at,
+what's their problem, what do they need help with,
+how can I help, you know?
+Like instantly, I'm not sitting there
+for a 45 minute conversation trying to get it out of you.
+You know, you just give it to me straight.
+So again, these are two things that work for me,
+but let's talk about some other examples.
+This is a kid, I don't know where he actually,
+I found out about him, but his name's,
+oh what, you know?
+I know him.
+TKS.
+TKS.
+Ah, TKS.
+So this is Ayaan, and I don't know,
+one day he emails me, and he's like,
+hey, Parza, can I put you on my weekly newsletter
+where I send out vlogs, or my weekly vlog letter thing,
+whatever it is.
+And yeah, he just sends out these vlogs every single month,
+and he sends them out, like, really every month.
+And it's a two minute video where he talks about
+what he did that month.
+Amazing, it works for him,
+cause he likes doing it in front of the camera,
+he's vocally pretty good, it works.
+And I actually watch these every time.
+I've been watching him for like a year now,
+and I just, I've never talked to him.
+I've sent him maybe five messages,
+but I always like reply, I'm like, hey Ayan,
+like, how are you doing this?
+Do you need help with that?
+And I'm kind of always like,
+he gives me the opportunity to help him.
+You know, that's the most important thing.
+Another example, this is Nishu and Stavan.
+So Nishu will literally just send Stavan
+like full on vlogs and essays about how his stuff is going.
+Right, like directly.
+And Stavan sometimes replies,
+Someone's stavan sometimes doesn't.
+And I think what's important is like,
+Nishu is giving the opportunity for stavan to even reply.
+Right?
+Like not many people are gonna go out
+and literally make little videos like this.
+You know?
+I have another person who,
+I'm not sure what, just like a buddy at this point,
+but he about every like once a month
+sends me like a five minute voice note.
+About, he's updating me about his work, his life,
+and how he feels.
+And I have no pressure to reply,
+but that's how he keeps me updated.
+I think he sends those out to 20 people every month.
+So again, I reply to those, I help them out.
+But this is another way.
+Maybe you're more comfortable with something like this.
+It's more private.
+I think that this will always hold people back
+from doing this.
+You'll always be like, damn,
+do I really wanna tell the world or this person
+that I've been failing for six weeks straight?
+Or do I really wanna tell the world or this person
+that things aren't going as great as it could be going.
+I think that's actually pretty hard,
+but you'll quickly realize, what I learned at least,
+is that nobody cares about me.
+I'm just a really small fish, to be honest.
+And damn, no one's gonna be thinking this.
+It's just in my head, but yeah.
+So I've had that thought before, for sure,
+but I've also had another thought that
+is just like what I'm doing is insignificant.
+And there's no reason that I shouldn't even put something out.
+It's like, literally no one should care about it.
+For sure, you know, if we go back to that one slide
+where I'm talking about the fan theory of Death Note,
+I'm telling you, nobody gives a shit about that one fan theory
+except me.
+Huh?
+There's a stack.
+Again, they're not on my email list.
+It's more like, yeah, even if something's so insignificant,
+it was still cool to you.
+So like at least get someone the opportunity
+to decide for themselves if it's insignificant, you know?
+I think that helps a lot.
+On that Death Note email, by the way, someone did reply.
+And it was just like a funny, like,
+that was interesting, you know, type of reply.
+We can pull it up after this.
+But yeah, turns out even someone found that interesting.
+So, I don't know, my philosophy has always been,
+let the other person decide whether or not
+this is worth their time.
+You just be honest, you just be like,
+be real with what you think is cool.
+And yeah, the more you put yourself out there,
+your struggles, not just the more you put yourself out there,
+because the whole world, I want to be very clear about this.
+Kind of like going online and just talking about your wins
+doesn't do much.
+Like, I just made $100.
+You know, people who post stuff like that all the time,
+like, I just made $100, now I made $500,
+now I'm making $1 million.
+It's like, well, it's cool, but that doesn't give me a place,
+that doesn't help me understand where I can help you.
+All right?
+Where are you struggling?
+You know, like, where are you flopping?
+What's the last thing that you tried that didn't work?
+What'd you learn?
+You know, like, how are you getting these thoughts out there?
+Right now, a lot of you probably aren't,
+but again, it's up to you how you can do it.
+Maybe it looks like this with a single person.
+Maybe it looks like this with like 20 people.
+It really is up to you
+and what you kind of feel best doing.
+Yeah.
+I feel like, and this, we have talked about this before as well.
+Like, we end up going into this loop
+of trying to feel legit in public.
+Yup.
+And like making a brand out of ourselves
+and like comparing ourselves to like the top artists
+or the top like builders in the world that we see.
+Yeah.
+So we don't put our struggles and stuff out there.
+We only put our awards and achievements.
+Yeah, yeah.
+Out there to just like make an image.
+For sure.
+Sort.
+Yeah, yeah, I mean, pretty much, yeah.
+I mean, that people do that.
+I think that it's just up to you to decide if you want to do that.
+Do you want to just put yourself out there and just be seen by the world as great?
+Is that your goal, actually?
+Do you really care?
+Again, for me, I just never cared.
+I never actually...
+It never burned me.
+It's not that I didn't care about what the world thought of what I was doing.
+It's just that I never got burned from it.
+To this day, I've never been burned by putting my struggles out there.
+In fact, it makes people have more empathy with me,
+sympathize with me.
+And I think that's kind of interesting too.
+So, yeah, again, you don't have to be public about this.
+This is whatever you're comfortable with.
+Like, Nishu just texts Stava.
+I have another guy that just texts me a voice note
+once in a month, so it's kind of up to you, actually.
+There should be that group of people that are ahead of you,
+maybe five people, 10 people, whatever it is,
+maybe one person that you feel like you can kind of depend on.
+That will not judge you.
+I think that's pretty hard too.
+But yeah.
+This might be a niche question, but I usually like to post this kind of, like, post the
+struggles on Twitter.
+Yeah.
+And just be open on Twitter.
+But a lot of my sales for my course came from Twitter.
+And so part of me feels a little weird to be, like, honest about the course experience
+or just, like, post behind the scenes of it now that those people have been the people
+I've sold to.
+So how does that dynamic change when you're, like, selling to the people that you're all
+I just feel like that the fear of being judged
+is in a great place to make decisions from.
+Just who gives a fuck?
+Like, it's not gonna buy it, they're not gonna buy it, you know?
+I don't know, easier said than done,
+but for me, I just don't care.
+Like, okay, like, then that means they're not gonna buy it from me.
+All right, we'll find someone else.
+Should be okay, but again, easier said than done.
+And the last thing, and probably the hardest thing,
+is be the type of person people want to help.
+I have a question.
+How many of you here have asked a teammate for help or feedback?
+You've reached out to us.
+Almost everyone.
+Okay, cool.
+Follow-up question, and please be hyper-honest.
+How many of you came back within a day or two and then showed them the result?
+Like you showed it to them, like literally on your phone or your laptop.
+Okay, one.
+Yeah, cool.
+Makes sense.
+Most of you didn't do it.
+Some of you did.
+Shout out.
+Good stuff.
+Why is that important?
+But pretty much you have to think about things
+from the perspective of the person helping you.
+Let's just say it's one of us, right,
+who work at BuildSpace.
+Again, you kinda gotta make it interesting for even us.
+Like are we helping you out of the goodness of our heart?
+Are we helping you because it's our job?
+Are we helping you just because we wanna help you?
+That would be the best reason, right?
+So again, when even like you do something like this,
+when you ask someone for feedback,
+or you ask someone to help you with something,
+and they helped you, you should be back within,
+like, at minimum an hour, and at maximum a day,
+showing them how it went.
+For example, many of you have helped me,
+have asked me for advice on your TikToks, or your shorts,
+and I give you my five to 10 minutes of advice,
+and my take, all right?
+But then, no one's come back to me showing me the result.
+Like, not a single one who's asked me for help.
+What's up with that?
+Like, now I don't really feel like helping you after,
+Or I have less of an incentive because I'm like, oh, here they are, back again, asking
+me to help with another thing.
+I don't even know how that last thing went.
+Like, are they just going to kind of waste my time again here?
+You know, like that's kind of a thought going through my head.
+And to kind of stack that up 10, 15 times, all of a sudden, you're a really hard person
+to help, you know?
+And how do you solve that?
+Very simple.
+Like, Farza, you gave me this feedback.
+I tried it.
+Here was the result.
+You know, so easy.
+So if you ask someone for help, remember you have a responsibility to actually go back
+to them and update them.
+Because if you don't, they're going to be like, uh, so where'd they go?
+And then it's just, it's not fun.
+It's just not fun, basically.
+So I think it's worth asking some questions even to yourself internally right now.
+Is it a pain to help you?
+Like honestly, like are you, when you ask for help, do you feel like you're kind of
+of getting the person to get out of their way and it's like you're like just tugging them aside and
+being like yo help me you know or like is it a pain to help you like how do you ask for help
+how do you pull people aside how do you make time this sort of stuff right just simplest first
+question is it a pain to help you and again you kind of all know the answer internally whatever
+it is uh do you make it simple to understand your problems am i sitting there for 20 minutes just
+just trying to understand whatever it is
+you're trying to ask me,
+or do you ask me in the first 60 seconds?
+Generally, we're pretty nice here,
+and we'll be pretty patient,
+and we'll take time to understand your problem.
+But most of the world, not so much.
+They'll be like, wow, I really don't have 20 minutes
+to spend going through this person's life
+and figuring out their deepest, darkest problems.
+I gotta go, you know, I gotta, it's time to go, you know?
+So just make it simple to understand your problems.
+Like do you actually?
+And a lot of you, again, you have an answer.
+Do you drain the person helping you?
+This is, probably many of you have not asked this question.
+You ask us for a lot of help.
+You probably ask other people for a lot of help.
+Are you draining us?
+Was it energizing to help you?
+Or did it feel like, just like a chore?
+You know, how can it not feel like a chore?
+You know, if you ask Josh for help on a video,
+how can it, what does Josh want?
+What does Josh want to see?
+Josh probably wants to see you succeed.
+So, succeed, and then show Josh.
+And if you didn't succeed, that's fine, still show Josh.
+Because then that's gonna energize whoever you're helping.
+And I think this is the last one.
+Does the person helping you feel like
+they're seeing the fruits, right?
+Most of the time, the people that will help you the most
+are the ones that are down to invest in you
+over months and years.
+And we'll get into that relationship in a sec.
+But for that to happen, they really gotta see
+And they really gotta see that something is happening, you know?
+Otherwise it really does get tiring.
+Again, if one of you asks me for kind of my take 20 days in a row and then 20 days later
+you're in the same place, I'm not annoyed, you know?
+Generally people won't be annoyed, but I'll just be like, oh man, like I don't really
+feel like expending the energy now to like help them.
+And that's not a good place to be, right?
+Let's just say the opposite.
+say you talked me for 20 days in a row and you tried you kind of updated me for
+20 days in a row as well right you didn't just do the same thing that you
+would have done anyways you actually were like oh far as I like check this
+out you mentioned doing this I tried it out here's what happened let's see let's
+see do that for 20 days in a row with me all right I will be your biggest fan
+like I will do everything and anything to help you like win in life right
+because it's like oh my god like they are actually like I'm actually helping
+and that feels great and it sounds like they're also enjoying working with me.
+Great. It's essentially like we're friends now. Cool. And I think that'd be
+that's like the best place to get to. And I think when you think about help,
+don't think of help as a one-off request like ever where it's like what do you
+think about this and then leave you know or like what do you think about this
+tweet and then leave. It's like it's not that. It's actually like a very long-term
+relationship with the person that's helping you. Of course it may start with
+something small, which is like,
+what do you think about this tweet?
+Great.
+And then maybe in two days,
+you show me how that tweet went.
+And then you show me more.
+Now we're talking more about your Twitter.
+Now we're talking about your other socials.
+And now it turns out we've been talking
+for three to six months.
+And we've been helping each other
+for three to six months.
+That's an example of how you can,
+a one-off request can turn into something a lot longer.
+But again, I think a lot of people think about
+asking for help as a one-off.
+And like, let's hop on a quick call.
+You know, like I get these times, I guess,
+I'm also guilty of sending those types of emails to people
+back when I was like, in college especially,
+where I was like, hey, let's hop on a call.
+I think you're interesting.
+It's like, well, I don't know.
+Who are you?
+So, yes.
+So somebody had a question about that.
+Some of the people that I, like, that are ahead of me
+that I ask for help, I'll have periods of my life
+where I'm consistently talking to them.
+like once every week or once every two weeks or something like that.
+Yep, yep.
+And then there's other periods where it goes like years and I'll like talk to them
+once every three months or so.
+Yeah, yeah.
+And those feel like after it gets to the point where the interactions are more
+cut out, it feels more like one off.
+So is that what you're classifying as one off or do you mean just like talking to
+the person one time on one call?
+I think one off is more talking to the person one time on one call.
+I think your situation is, it sounds like it was a good relationship.
+you got what you wanted out of it and you moved on with life.
+You know, I think that's okay.
+We have these, I'll talk about one relationship like that
+I have like with a person right now.
+But I think one off is, like you wanna kinda reduce
+one offs in the sense of like, I'll give you a perfect
+example of a one off, right?
+Where it's like, I gotta go back to like the TikTok example.
+A lot of you ask me for TikTok advice constantly, right?
+And I don't know why, I've never made a TikTok
+personally myself, so take that as you will.
+But again, if you keep returning to a person with one-off requests and you don't tell them how the previous requests went,
+it's just like a one-off, every conversation is a new thread.
+And you want to kind of keep one big old thread, you know?
+You're writing a book with them. You're not writing like...
+Some of you are writing a new book every time I talk to you and it's like, okay, let's not do that.
+It's very hard on the person that's helping you.
+Remember, you will never annoy a person with results,
+no matter good, no matter bad, ever.
+Like, no one's ever gonna be mad
+that you did something and then it didn't work.
+They're just happy that you even tried.
+Remember that.
+I wanna give one final story.
+Some of you already know this guy.
+I've talked about this guy a bunch,
+but this is Furcon.
+He runs Founders Inc.
+And this man single-handedly has changed my life
+probably like 10 times.
+Not even exaggerating.
+It's ridiculous.
+And I want to talk a little bit about how it started,
+how it kind of, like, how I put in a lot of effort
+to kind of make the relationship work,
+and how it worked out for me over a very long period.
+And it also was really fun for him.
+First of all, I wrote this blog post in 2018?
+January 2018.
+A long blog post about how I did
+this deep learning thing, all right?
+It goes kind of mini-viral.
+I got like 1.4K of claps there,
+whatever that means on Medium.
+if you remember Medium, and I got a 1.4K collapse,
+and Furkan was one of the people who read this, right?
+Someone I posted on Twitter, or on Reddit,
+and Furkan read it on Reddit.
+So Furkan knew me actually from this,
+but we never talked.
+From there, I have my buddy Sharif,
+who did the talk here.
+In 2018, Sharif messaged me this.
+He says, I would talk to Furkan
+because he's so close to UNSF.
+This dude is like the Elon Musk of video game streaming.
+whatever that means.
+But back then, this was really exciting for me and Sharif.
+So again, Sharif knew him from another thing.
+And then I just messaged Furkan.
+I DM him on Twitter.
+I'm like, hey man, thanks for the follow.
+My boy Salmon has been talking a bunch about you lately.
+Super glad you're helping his team.
+I'm not even asking for anything.
+I'm just like, hey man, thanks.
+And I'm glad that you're working with my friends.
+And then he essentially, Furkan follows up.
+You know, he's like, I think he mentioned you're in SF.
+Fucking two days later, we're meeting up, you know?
+And he offers me dinner at his office,
+where his chef comes and cooks for us.
+It was pretty awesome.
+So again, this is actually how it started.
+Like this is like the, I just ripped it straight from Twitter.
+And this just goes on and on, to be honest with you.
+Like, we just keep on talking every single week.
+It starts to get like, I can go through like 50 messages
+looks just like this where it's like us saying you want to talk and then him
+saying I'm around at this time you know constantly and you know I was honestly
+kind of relentless I was a yeah I was kind of relentless I didn't have any
+like I didn't think of I didn't think too much about annoying him because I
+kind of just felt like if I was annoying him he'd tell me so great we just kind of
+keep asking for kind of things from him and then from there we actually
+I actually kept a weekly chat for every week for almost three years.
+Yeah, like every week for three years.
+Now, how did that happen? What were those calls?
+Very simple. Every week, I think it was like Wednesday nights usually,
+Furkan would call me, we would screen share,
+and I would show him what I did that week, and he would be like,
+this XYZ thing you're doing is just stupid, stop doing that, try this new thing.
+And he would give me his take.
+I would then try some new stuff.
+I would also kind of listen to his takes and I would spend another week and again
+We would come back to that again
+So every week was actually really fun because for Furkan think about it from his point of view
+He is like seeing some random dude go off and explore ideas that he himself is interested in
+So for Furkan, it was just like oh man, like let's just see what happens, you know, like I'm just curious
+And yeah, that was great. That was like the initial thing that kind of kept us kept us going for in the early days
+And then yeah after that we just kept on talking
+And I literally, I want to kind of be clear, I told this man everything.
+Everything.
+I told him about my emotional breakdowns, I told him about my horrible losses, my greatest
+wins.
+And I think my goal is always to be like, how can I be the type of person I would want
+to help?
+Because I know that as far as I'm like, I ask a lot out of folks generally.
+But how can I make that a kind of like a, how can I make that fun for the person at
+least?
+feel like, oh fuck, I have to hop on a Zoom call with Farza again. God damn it. I really don't
+want to do this. You know, like that shouldn't be the feeling. You should be like, oh shit, let's go.
+Like, what's Farza cooking this week? You know, I think that was usually the feeling.
+Maybe Furkan would say different, but maybe we can bring him in and we can have him tell us if
+this is true or not. And again, I want to be, like I'm saying, I shared everything with him.
+I was at one point sharing how my mom and dad were freaking out about me moving to San Francisco
+and he was giving me advice around how to deal with my parents.
+At one point, by the way, I'm a one-man company for years.
+I bring Furcon into my Slack channel.
+It's just me and Furcon in Slack.
+And he's my team, and I would just keep on updating him
+every single day, multiple times a day,
+tagging him with ideas that I had
+or new kind of experiments that I was running.
+So it was very relentless, and it was very hands-on,
+And I give them a lot of opportunity to help me.
+That was the most important thing.
+For example, this was an idea that I had.
+You don't have to read it, but summarized is,
+I was like, oh, what if you could learn about
+racing drones at your home school?
+Racing drones are pretty fun.
+Kids these days are into robots.
+What if we did this thing where we helped people make
+drone racing scenes alongside their home school
+in Florida.
+Again, very specific, very niche,
+but I remember he replied to this like,
+please stop thinking about this.
+Like, stop.
+Like, whatever you're doing, stop.
+Like, keep doing the thing that you told me
+about the other week.
+And then again, like, these sorts of interactions
+helped a lot, and he felt like a partner, you know,
+all the time, despite the fact that he wasn't actually
+literally working with me on stuff.
+And then again, all the way down to the biggest wins.
+This was my diary from 2020.
+I get into YC, which was a big deal.
+And then I got to share that one with him, right?
+Because I'm pretty solo in my life, right?
+For the most part.
+I talked, I think I started this talk earlier
+sharing with you guys that I didn't have anybody to help me.
+Didn't have anyone that I could talk to about this stuff.
+Finally, I had someone to talk to.
+I could even share with someone
+that I got into Y Combinator
+because my parents aren't going to care.
+My cousins and brothers aren't going to care.
+They don't even know what that is.
+But hey, Furkan cares and that was fun.
+It was fun to just share that with him, right?
+And so in a weird way, I've learned
+that no one actually wants to help you.
+Like nobody.
+Like no one goes out and be like, I wanna help Kieran,
+I wanna help James, you know, no one does that.
+And when they do do that,
+it actually ends up being kinda weird.
+So maybe like, stay away from those people
+that are like, I can help you, you know?
+It's like, okay man, all right, shit, okay, maybe.
+Or I can be your mentor, it's like, all right, dude, bet.
+Bet, okay.
+Honestly, yeah, no one seeks to help you,
+it just kinda happens.
+Again, I showed you the Sean story,
+I showed you the Furcon story,
+I showed you the story with a bunch of other,
+I showed you a bunch of other stories.
+This just kinda happens and you have to make,
+you have to create an environment for it to have happened.
+Otherwise it won't.
+And yeah, over time what's beautiful about this
+is you kinda just become good friends.
+Like at this point, Furcon's not my mentor.
+Like that's just kinda weird.
+He's more like a brother, more like a friend, right?
+But that just kinda happened over many, many years,
+to be honest.
+And yeah, that's pretty cool.
+It's pretty cool.
+So again, to kind of end here,
+I'm gonna take questions.
+This doesn't need to be a solo player mission.
+Please don't make it like that.
+I know some of you think that only you can solve your problems,
+but please open your brains up to thinking who can potentially help you.
+Start simple today. Ask for help.
+And ask for help in the ways that I'm telling you
+that you may have learned about through this lecture here today.
+You know, maybe ask better questions.
+Maybe I don't maybe it's stop asking me about your 10th tick-tock
+Maybe ask me questions like this that are like more interesting like farza
+Where do you think I'm flopping be honest with you?
+Where do you think I'm a flop like where do you think I'm failing?
+Do you really I'm gonna be anybody here in six weeks like be realistic with me like give me the harsh answer
+And I'll give you the harsh answer if you want me harsh
+I'll also give you the nice answer if you want to be nice far as you know
+What am I doing really well? How can I be better at that?
+I would love these questions.
+I'm sure a lot of the team would love these questions.
+Because if we're watching you,
+we kind of have a sense of what you are doing well,
+what could be better.
+Hey, how can I improve doing XYZ?
+Maybe that's an interesting question to ask as well
+to a teammate, to a friend, to anybody, right?
+To even each other.
+These are interesting questions to just ask each other.
+I know some of you are kind of friends at this point.
+And so like, maybe you won't give each other
+harsh realities but i hope that you all can always be honest with each other um and if someone asks
+you this question within built space that you would answer honestly but i know it's hard um and
+yeah or hey reach out to someone some four to five steps ahead of you you got nothing you got nothing
+to lose i remember i uh i would reach out to the snapchat ceo in 2016 because i thought that guy
+was i mean as you can tell i loved snapchat like for years so i was like my dream was to meet evan
+spiegel you know like snapchat ceo because i thought he was the sickest guy ever and i would
+I would email him once a month forever,
+and eventually I got an email back saying,
+hey, I'm Evan's assistant, you can apply for your internship.
+And I was just like, all right, cool, thank you,
+I got a response, you know, after like years.
+Don't do that, you know, maybe reach out to someone
+that's a little bit closer to your kind of radius.
+And yeah, be honest always, be clear with your requests,
+and most importantly, know where you need help.
+That's the most important thing.
+You can't be helped unless you even know what you need help on.
+And yeah, that's the most important thing.
+And that's it.
+Any questions?
+Yeah, yeah.
+Do you have some thoughts on like taking advice?
+Because sometimes when you talk to a lot of people, you get a lot of advice.
+And sometimes you also get advice on stuff where maybe you don't think any help on.
+Yeah.
+Like do you have some tips on that?
+For sure, for sure.
+Very hiring.
+Yeah, yeah.
+I think I talked about the LeBron some a little bit today actually.
+it's like everyone, like at BuildSpace especially, I especially and none of the teammates are
+trying to give you advice.
+And you should generally be wary of people giving you advice.
+It's like you should always just take the other person's take.
+And then from there, decide, do I want to go with that or do I not want to go with that?
+It's just up to you.
+And that's actually pretty hard because you have to kind of internalize what they're talking
+about and decide for yourself.
+But yeah, I would never straight follow anybody's advice ever.
+You should kind of feel like you agree with it, you should feel like it makes sense, and
+then go for it.
+Again, for example, if I sit here and tell you, James, this thing you're working on,
+I don't know, maybe you should go, I don't know, start a concrete company.
+And I give you all the reasons why you start a concrete company.
+At the end of the day, that's my take.
+So always take things as takes.
+Be very wary of advice, I've learned at least.
+Yes?
+If you're reaching out to people who can't accept them,
+do you recommend that friends build a relationship with them,
+or is it just asking them to help you get out?
+That's a good question.
+It depends.
+If you literally don't know them, and they seem like,
+for example, I think Samia's example.
+This guy seems big enough, let's go back to him.
+Holy shit.
+This guy seems big enough where he probably gets
+a lot of people hitting him up, I'm guessing.
+Right?
+So from this guy, I would just honestly try both.
+Like, I would always start with the simple like,
+hey, my name is X, and this is where I'm at,
+and I really love your stuff,
+and I feel like I would appreciate if you would help me
+with this specific problem I have,
+because I feel like you've done it before.
+And if you haven't, that's cool.
+I think at the end of the day,
+most people are down to help people
+that they see themselves in, right?
+So with this sort of person,
+It's like I would first see if you respond something like that, and if that doesn't work, then just stay following up.
+There's no problem, you know?
+Like, maybe they drop a song and then they left you on red.
+I love your latest song, you know? Something as simple as that.
+That's happened to me many times where I'm trying to get in touch with someone and they leave me on red
+because they're a big personality, but I'm just like relentless.
+I'm like, love your song, blah blah blah.
+Can I show you guys an example of this actually?
+It's actually maybe kind of embarrassing.
+It's actually very embarrassing.
+Who remembers Zane, the Smash Brothers player?
+You all remember him?
+Okay, I talked about him.
+For the longest time, I really wanted to help this guy with his content.
+I wanted to help him, so that's already red flag.
+But also, I just felt like I really wanted it to get deep into the Smash Brothers scene anyways,
+and I felt like he could help me with that.
+Because I wanted to do fun stuff like,
+I wanted to potentially perhaps like commentate
+at Super Smash Brothers events.
+I thought that'd be awesome, right?
+And I want to kind of show you here how badly this can go
+and how kind of shameless I really am.
+This is my thread with him.
+Please look at the dates. Feel free.
+November.
+December.
+What's the last week?
+February 18th, 2024.
+Now, if I can do this,
+I honestly believe that you guys can do anything.
+Thanks, man.
+See, I started in 2017, right?
+Yeah, this is why I didn't stick you.
+Again, I think it's like that level of like relentlessness and just shamelessness that you kind of need sometimes.
+Now honestly, that may have started getting kind of annoying, but honestly, I really was just being like, yo, great work.
+You know, I really was, like truly.
+Huh?
+Spaced it out really well.
+Spaced it out really well.
+It wasn't weird.
+Only every four months, you know?
+But no, I had that sort of interaction with like hundreds of people on the internet, because most people will never reply.
+And I know that because I'm also that guy that may never reply to a person who shows that to me
+So I know how hard it is therefore you'll catch me in there 20 times before I say okay
+Maybe the same maybe this isn't maybe this isn't it, you know, so
+Responding to people that want to reach out for help because I got like couple people sending me messages and yeah
+I want to help or like your project school, but how would you like so usually my answer is like okay, but how can you help?
+or what's your thing or like how would you like manage those people?
+You're saying people want to help you?
+Yeah.
+I'll just- my always thing where- how many of you are looking for like potential partners for your projects,
+whoever you're working on? I'm curious.
+Yeah, interesting. You for sure.
+It's very simple. Whenever- if you're- if you're ever looking for someone who can help you,
+or who you're trying to help, um, mostly people that are trying to help you,
+Like you're trying to find someone to essentially take your project to the next level, or maybe, in this case, maybe be an engineer or something.
+Yeah, honestly, just do you like talking to them?
+It's like the most important thing. Again, a call within 30 minutes. Do you like talking to them?
+If you do, then you should keep talking to them.
+Same thing with this. Like if Samia reaches out to Thalwinder, the artist, and Thalwinder ends up being like a kind of weird guy, not that fun to talk to.
+talk to, I don't know.
+Samya, you have no reason to keep talking to them.
+Same with Furkan.
+If Furkan was not that fun to talk to day one,
+I'm not trying to talk to Furkan more.
+I'm like, okay, I'm good.
+Next.
+So, it's okay.
+Sometimes that happens.
+You should kind of trust your gut.
+Definitely don't talk to people just because
+you want help from them and you don't enjoy talking to them.
+That's like the worst.
+Very exhausting.
+Yeah.
+Just wanna share something quick.
+There have been like four to five people
+who have reached out to me who are good
+what they're doing yep who were just like hey we we want to help you or whatever and since then
+i don't feel that i have used their help but i just like talking to them so we interact every
+once in a while on a call or like in a meeting but i think there would be some really perfect time
+in the future when all those five people yeah are going to have the perfect opportunity to help me
+and it's all gonna come together.
+No, that's beautiful.
+I have a very similar philosophy with another person,
+with this guy.
+Where is he?
+Sorry, one sec, let me just plug in.
+But overall, it's like, I agree.
+That's actually a good way to think about it.
+You're trying to keep people around in your life
+because you like having them around mostly, right?
+But also because, hey, maybe something
+can pan out in the future.
+And it's like a symbiotic relationship
+versus like just you polling.
+Me and Shreve are kind of funny
+because we always joke that when we're 35,
+we'll start a company together.
+And that's kind of become like very serious.
+It's become like a serious meme.
+But it's funny because it's like,
+we're so down to keep on pushing each other all the time
+as friends and as like partners,
+because we want to kind of,
+we want to kind of see each other succeed, you know?
+So yeah.
+And I have a lot of partners like that in my life, you know?
+Just like you.
+So it's good to have these types of people around, you know?
+For me, it's the team.
+Kind of Jeff, Stubb, and Alec.
+These guys, they keep pushing me, you know?
+So, yeah.
+Last question.
+Adil.
+I don't know a question.
+Can I tell a story?
+A story?
+I've been talking about how to ask help, right?
+Tell your story, Adil.
+Let's go.
+You're not even part of SF2.
+Oh, yeah.
+I did SF1, by the way.
+I was talking to another SF1 dude, one of my buddies.
+Sous-Sumi.
+Okay.
+And he's asking me for all this help at the startup.
+And I'm trying to just listen.
+I'm not offering help or anything.
+He's just trying to get my take.
+And in the corner, we're in the gaming room, I think.
+And Furkan and Shreep are just playing Smash.
+And I keep telling Supi, I'm like, why are you asking me for help?
+Furkan and Shreep are right there.
+He's like, oh, they're busy.
+I'm not playing Smash.
+They're playing Smash.
+And it's just like, I don't know.
+For me, that was more on to not be scared of asking for help.
+Yeah, while we're talking, they're like listening to both of us. Yeah, and every time they like pause the game
+Like make menu select and for a copy like actually don't want to do that
+You want to like do this and like just like so he's like yeah busy. Yeah, really
+They're like so interested in sui's problem that they like actually yeah
+They're like so directly clickable like what he wants and he's like scared to talk
+Yeah, yeah for context Subhash was SF1 very
+Great great hacker very shy guy and he would be scared to even ask Amit for a new
+code to the building if it expired. So it's like, it's like yeah, it's yeah it's
+tough you have to understand that that that's like where you got you got to
+like find something within yourself to be like it's alright like I'm not gonna
+ruin the other person's life by asking for help. Worst case they say no. I think
+that's hard to get your head around but as you do it enough it becomes real.
+Cool.
+My moral of the story was like, yo, that was a great moral though.
+Oh yeah?
+My moral of the story was like, yo, people like, that's what I've done before,
+but really want to be involved with people
+who are doing it right now.
+You said earlier, but like,
+WorkOn's literally pausing the game to help this kid.
+You know?
+They truly love the other people.
+They'll be happy to help.
+Cool.
+All right, cool, thanks.

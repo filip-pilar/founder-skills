@@ -1,0 +1,175 @@
+All right, so it's new for a lot of people,
+I'll slow down then.
+So chats, right?
+Basically, the C in chats stands for color and contrast.
+Simple, right?
+Let's just, and again, this is like more,
+you have a useful and usable design,
+let's just make it aesthetic,
+just follow this framework to make it that.
+Color contrast, what does that mean?
+Who likes this?
+Why?
+Contrast.
+It's hard to read, right?
+Anyone actually likes it?
+We had a couple of students, I fucked with it hard.
+I was like, chill.
+How about this?
+So one thing that I've observed is like,
+with our gen, like we're so internet native that,
+you know, like a lot of people ask me,
+Stamon, how do you develop the design eye?
+where I think so many of us are spending so much time like consuming content like we all have a
+pretty good fine tuning on what looks good versus what is shit right so it's like just be intentional
+and anytime you come across like a good piece of content that's like catching it's like stopping
+your scroll obviously there's a lot that goes into it but just take like a moment of like
+self-reflection as to like what it is about that that actually got you hooked and then continue on
+your journey of like doom scrolling but like that moment like do not rob yourself from that moment
+of self-reflection all right so in this both the color and contrast is fucked and this the color is
+okay the contrast is what's the main issue so we can just quickly fix that right just like upping
+the contrast and this is a whole lot better than this right so it's like and then you can like then
+you can like really play around with it you can kind of like increase contrast and then you have
+a pretty good palette to like fuck with.
+Cool?
+All right, H, hierarchy.
+Super simple, read this.
+I don't know where that goes.
+Yeah, so it's like,
+if there's no obvious guidance for direction,
+the viewer is going to go top to bottom,
+and in most cases, left to right.
+Right, in Arabic countries, it's right to left.
+So, simple to fix, just make it,
+it's as if you're feeding a baby, you know, like mush carrots.
+Like, all right, read this one first,
+and then read the rest, and they'll be like,
+I bet, I'm gonna do that.
+Make sense, super simple?
+All right, A is alignment,
+just align your shit, super straightforward.
+This is a bad example of it, obviously.
+You guys can all look at it as like, you know, trash, bro.
+Even though this is meeting all the color,
+all the contrast, all the hierarchy,
+shit's just not aligned.
+So, simple, align it.
+You can also center, you can like then fuck with it,
+like a little bit.
+But like once you, like again, for next time,
+I'm gonna do, like it's chats with like an asterisk, right?
+Because like once you understand these principles,
+then you have like full autonomy to fuck with those, right?
+But it's like, if you don't understand those fundamentals,
+then it's like, you're just like,
+you're just like throwing stuff at the wall
+and seeing what sticks.
+Cool, makes sense.
+T is typography.
+This is important, but not that important.
+But like, again, the goal here is to not do stuff like this,
+where you're just using like three different things,
+even though everything's aligned, hierarchy is there,
+color contrast is there.
+It's like, just make intentional choices
+about the things you're doing.
+In most cases, we use one, at most,
+like two different typefaces.
+Another bad example.
+So yeah, just stick to something that you've, yeah.
+What's the build-based font?
+It's called, it's Manrope.
+Manrope, yeah, but we're changing.
+Anyone figured out the new font yet?
+Custom font.
+It's, I chilled, he, custom font.
+We've dropped it actually.
+So like me with like all this is my art right? So like I drop hints everywhere.
+They're sprinkled in. Even before the houses were released, the houses were out in the wild.
+It's just like because I'm always looking for that cracked fucking person right?
+Where who's gonna like like decode all of it.
+a little bit.
+Haven't found them yet or her yet, but they're all,
+the sprinkles are always going to be there in my work.
+And finally spacing.
+This is both letter spacing and line spacing.
+And I'll talk about both.
+In this case, what do you guys think is wrong with this one?
+In the middle, right?
+So like essentially the line spacing
+and this is just atrocious.
+So pretty simple to fix.
+It also like allows you to like break apart
+different components where you want people to focus on this,
+but this is just like a tag.
+So again, line spacing, letter spacing,
+there's fancy words for it, right?
+Design school, they're like leading and kind of like,
+just make it simple.
+Line spacing and letter spacing.
+Letter spacing is a space between the letters.
+Line spacing is the space between the lines, that's it.
+All right, what's wrong with this?
+This is almost there, right?
+Pretty good for the most part.
+Right, it's just like give things space to breathe.
+This is too much space to breathe.
+Right, but again, just like be intentional about it.
+And finally, just try to be consistent
+because you want people to like associate
+whatever your art is to you.
+There's so many times I get tagged
+and our team gets tagged on Twitter
+with like random black side slides
+with like white text in the middle
+because that's so iconic to us.
+And we're like, bro, that's not us at all.
+But it's like, that's what you're trying to get, right?
+It's like that level of consistency
+where people see something really immediately,
+ah, build space.
+They just know it.
+And first it'll be like in smaller
+and smaller circles, obviously.
+Like I'm sure even the way the logo was designed,
+even a lot of the merch that you guys are wearing,
+there'll be people that kind of recognize that immediately
+just because they've seen it.
+And that's all done by design.
+So yeah.
+So once you have this, right?
+This hits all of the different checkboxes.
+Then you can like really kind of like go around
+and just like play.
+So these would be like the four different colors,
+for example.
+This was season four, where again,
+meeting all the different things,
+but then you can really like have liberty
+to like play with it.
+Make sense?
+Yeah.
+This is Rolexes.
+I just put it in here for reference
+because now that you understand chats, right?
+And I'm just gonna quiz a couple.
+What does H stand for, Michael?
+Hierarchy.
+Hierarchy.
+C, color, contrast, and consistency.
+A, alignment, T, typography, S, space.
+Super simple.
+This is like literally a semester's worth of shit.
+But just, it's easy.
+Do not overcomplicate it.
+But once you understand that,
+you'll start seeing it every time too, right?
+And again, that moment of self-reflection
+where you go and be like, ah, okay.
+They fucked up on the spacing here.
+But like, that's kind of like what's building that
+and training that I essentially.
+Cool?
+Another one.
+So like, if you saw this one and this one,
+and be like, okay cool, it's still Rolex.

@@ -1,0 +1,1547 @@
+What's up everyone? How's it going? You guys doing all right? Yeah? Yes? No? Maybe?
+How many days into Buildspace SF2 are you? Lost count? 57, 58. Is that accurate?
+Okay. And then how many days does it feel like?
+30 days? So it feels less than that? Okay. Or does it feel like more? Like does it feel
+like 100 days or 200 days?
+Hundreds.
+Hundreds, nice.
+You've been able to compress like a few hundred days
+into 50 days.
+That's awesome.
+All right, so what are we talking about here today?
+I think there's a few topics that were flowing around.
+We're going to try to come up with something great together.
+When you joined BuildSpace, what was the first lesson
+that you learned?
+What was the first thing that was ingrained?
+Maybe day one, week one?
+I'm just over here thinking, man,
+I hope they remember that lesson.
+I hope they remember it.
+What was it?
+Ship a toy version of your product.
+All right.
+All right.
+And who shipped a toy version of their product ASAP?
+All right, all right.
+Most hands are up.
+And why was that important?
+To get it into the hands of your version ASAP.
+All right.
+All right.
+So we're really trying to build this feedback loop, right?
+So we're building something.
+We believe it's going to be valuable for other people.
+So we want to make sure that we start seeing that evidence.
+So this is the origins of a lot of stuff here at BuildSpace,
+here at Founders Inc, where I work,
+as well as everything else that people are doing
+on the entrepreneurship side, on the creator side,
+on the business side, kind of whatever.
+You're trying to create something of value.
+You're then trying to understand what that value means,
+and you're trying to make sure you can drive that.
+And so it's one of the most important lessons I learned.
+It took me a long time.
+I did it accidentally early on in my career.
+I was kind of a young teenager and early in my 20s.
+And then I got too smart for myself
+and I thought I was a genius.
+And it was like, nah, I'm too good for this.
+I know what I'm doing.
+I'm gonna sit here and build it.
+And I built a startup where, you know,
+14 months as a company, I spent 13 months building,
+not shipping anything.
+And then in month 13, I'm like, holy shit,
+we got no money left.
+We gotta figure this out.
+And in that month, we did more than the 13 months.
+And then forever, I got this car right here
+that's like, I will never do this again.
+And that's why whoever I talk to the first moment,
+like what have you shipped and has gone so far that we got catch phrases like
+GTFOL and you know these things that's where kind of the origins start from and
+so I think it's really important and for many of you now that you've shipped a
+toy version all right what's been next right that's kind of the big question I
+think that's what we'll talk a little bit about here today I'm gonna sit down
+because as far as I said I should sit down and so we'll do that we'll try to
+keep it a little bit open in terms of participation so I'll ask you guys stuff
+I want to see if we can kind of get some of the things that you're thinking about and
+talk about some of them.
+So this loop, right, building something, shipping it, sharing it, it's really, really important.
+I think every person here, I've gotten a chance to learn a little bit about the variety of
+things.
+But really quick, if you're building something, give me a sense in one word of what kind of
+thing is it.
+And I want to hear some of the variety of the kinds of things that you guys are building.
+So just shout it out really quick.
+Software.
+All right.
+We covered software now, so all the tech people off the table.
+What else are we building?
+Data.
+Data.
+Music.
+What else?
+Content.
+Content.
+Great.
+So we've got a good one.
+What is it?
+Service business.
+Service business.
+Awesome.
+All right.
+We've got some variety here.
+These things sound different, but the loop is very much the same.
+We're going to create something that we believe
+is valuable or interesting.
+Maybe we started because we enjoyed it,
+and that was something that we felt like we wanted,
+and then other people might want it too.
+For other people, it might be a passion thing.
+Like, I just want to do this my entire life.
+For other people, it's like, I have a great idea.
+I think this can be really big.
+However you get there, you're really
+trying to create that same loop.
+And we really think a lot about this kind of flywheel
+between me building something, somebody else validating it.
+I think it's really, really important,
+at the surface level, to know the things you're thinking
+that sound good in your mind, are they really good in the market?
+And when you ship a toy version of it,
+it's not meant to cover everybody.
+Maybe 90% of people will find it broken.
+They say it's a toy.
+It's not ready for serious business yet.
+That's OK.
+What we're really trying to understand,
+is there anybody that gives a shit?
+Is there any single person that does?
+Because once you find one, then you can find five.
+When you find five, you can find 10.
+And what are we really trying to find?
+And so we'll kind of get into that.
+In terms of how you get here, I think for some people,
+there's some differences, right?
+So like, again, it might be passion.
+For me early on, my life plan was very simple.
+I love tech.
+I actually had these two passions life growing up.
+It was computers and cars.
+They sound different, but they're the same.
+You take things apart and you put them back together.
+You try to make it faster.
+You try to make it look better.
+Cars, you know, you make your engine go faster.
+You make it look nicer.
+Computers are the same thing for me.
+Turned out computers were a little bit more valuable,
+so I picked that one.
+It kind of worked out nicely.
+And my plan was I will just do my fun as long as I can,
+and then I'll become an adult later.
+Like, that was my entire plan early on.
+So I just drove it from I would rather do this
+than a normal job, than kind of other things.
+That was my starting point.
+My sustainability goal was like,
+just can I pay my minimum bills?
+And again, that was a great, great starting point.
+But then over time I learned, actually,
+if I am creating something of value, maybe it's unbounded.
+And tech and software taught me a lot of that,
+but also other things I did in my career showed me that,
+that hey, there's a really big world out there,
+and the things that I find valuable,
+at a minimum there's a thousand people in the world,
+but there might be a million people in the world
+or a hundred million people in the world
+that wanna do the same thing.
+And so I worked at some companies like Twitch
+where I got a chance to see creators kind of do this.
+At that time there was somewhere between
+50 and 100,000 creators that were making a living US wage
+by streaming games on the internet every single day,
+which 15, 20 years ago sounds like a crazy concept, right?
+Like I'm gonna play video games,
+I'm gonna entertain people on the internet,
+and I'm gonna get paid for it, this is my job.
+And so over 100,000 people do that now,
+it should just show all of us that
+there is a huge opportunity in our passions
+and maybe the market's there today, maybe it's not,
+but it's our job to kind of bring that value.
+And so kind of, you know,
+that's a little bit about kind of the passion side.
+Why do we care about the user value?
+Like what is it so important
+that we need to kind of focus on this.
+Why can't we just come up with our own idea
+and just say, this is great.
+I'll just sit here and build this.
+I'll make it perfect.
+For the musicians, you could just sit there
+and produce the whole album in a vacuum.
+Nobody ever hears it.
+And one day, you're a creative genius.
+You get to launch it, right?
+Like, you throw that out into the world.
+Why is that not the plan that here at Build Space
+and kind of, you know, when we think about it,
+founders think, like, why do we push against that?
+Does anybody have any ideas here?
+Because if at the end of the day, if what you're working on, you want that to be your career, you have to get feedback.
+And if you don't get feedback, then yeah, you're wasting time and energy and you're not going to get paid to do what it is that you claim you want to do.
+I'm not sure about music, but in the software, when I'm approaching production, usually there's a bug that happens or something like that.
+And if I just kept on building, I would never acknowledge the market responding to that
+publishing.
+Yeah.
+All right.
+So we heard maybe things are broken and you want to see if it really works.
+Do people care about it?
+Right?
+Like is it something that they want?
+Yeah.
+Just people have different perspectives.
+So you just always for yourself.
+Like you can think always in the same box.
+But maybe you find different use cases or other things that you can do.
+Yeah.
+
+We'll go one last one here in the back.
+I think feedback after you move after.
+Sorry, what was that?
+You got to say it a little louder.
+Feedback after you move after.
+It's like you just get from zero to one
+on the right walk after.
+Yeah.
+Yeah.
+We'll start with that,
+but we'll get some more questions out here.
+So all good points.
+I think the most important point for me
+is we lie to ourselves.
+Each and every one of us in our heads,
+we create these truths about things
+and they're lies.
+And we kind of know it,
+but we really want to do it.
+And sometimes we do it
+because we're trying to motivate ourselves.
+We want to believe this really well.
+And I think it's more about believing what your input is,
+like the input into the thing
+instead of forcing yourself to believe the output.
+And the way I've seen this happen is, one,
+I sit in a room, I come up with an idea.
+Maybe it's the Buildspace folks in that room.
+They sit there, they think of an idea.
+You write it on the whiteboard,
+Stubbin and Farza high-five each other.
+We came up with the best idea in the world.
+And what ends up happening is this idea lives in your head.
+You glorify it.
+You start thinking about it.
+You say it to other people, and then you start speaking of it as if it's a fact.
+And yet you have zero evidence it's a fact.
+And then maybe a week goes by, a month goes by, you're making secondary, third, fourth,
+fifth decisions based on this fact over here.
+But what if it goes wrong?
+What if I was slightly wrong, and instead of going left on this path, I had to go right?
+And now I'm like four or five levels deep.
+I've spent maybe months or years on this.
+Like for me, that example I gave you in my company, that was 13 months.
+Like I was just lying to myself and I was totally comfortable with it
+And so for me that's kind of the main purpose is to don't create these kind of hard facts in your mind
+Unless you really know it the thing the answer to how do you know?
+It's a hard fact or not you don't have to question it. It's so obvious that nobody's talking about it
+And so I always use this kind of analogy with folks
+It's like when I'm coming up with an idea when it's early in an idea
+We're just ideating, we're brainstorming, we're telling ourselves about it, telling our co-workers, people we're working with.
+You're pushing this boulder up a hill.
+The idea should feel like a heavy weight on you.
+So you're pushing this thing, you're pushing this thing, you're pushing this thing.
+And every day it feels like, man, I'm really moving this boulder up the hill.
+When the idea is working, you've kind of crossed the hill.
+You're nowhere near the ball.
+You have to actually run to even keep it in visibility.
+And so it took me probably 12 years of building stuff
+in an entrepreneur to get myself in an environment
+where I finally saw something that actually worked.
+The crazy thing is, is those first 12 years,
+I thought everything was working.
+And then the moment I saw it, I was like, holy crap.
+Like nothing I ever did worked.
+That's what it felt like.
+Because most things you do will work a little bit,
+and that's great, but you're really,
+everyone here is looking for something
+that's going to work a lot.
+And that's, it becomes ridiculously obvious.
+And so I always think about like, hey, did I wake up and this thing's just running away from me?
+If I'm a musician, I'm waking up and my stuff is out there, the feeling of it running away from me might be like,
+holy crap, I didn't realize 5,000 streams happened overnight.
+Like, you know, another 4,000 people played it.
+Somebody posted my song on TikTok and now it's grown.
+Like, these are the feelings of like, I couldn't contain it if I wanted to.
+And I think that's what we're seeking.
+So when people tell you, especially in tech, you'll hear product market fit.
+these words that kind of don't mean a lot to us.
+But to me, when something's like,
+this is working whether I was doing anything or not,
+that's the feeling that I'm hunting for.
+And I think for each person here,
+as you've now gotten that toy version out,
+you're starting to get feedback,
+this is the thing you're seeking.
+Calls that you can go into, that you talk to somebody,
+or you share something with, and they get it immediately.
+They start saying it better than you, back to you.
+They say stuff and you're like,
+It sounds better than what I even said to them.
+And so that's kind of what you're seeking.
+It's a challenging thing.
+It's hard.
+It's not meant to be easy.
+If it was easy, we would all be musicians that grow.
+We would all be entrepreneurs.
+We would all build giant companies.
+But also, that's why we're here.
+We've chosen that challenging path.
+We've chosen that hard path.
+And I think it's really important to know which stage
+you're at.
+When you're in the toy stage and you're just getting it out,
+you're pushing yourself to get the idea out of your head.
+Once it's out there, it's now time to be measuring that.
+And so I love this framework, build, measure, learn.
+If I could keep running through these loops,
+I build something, I find a way to measure it,
+and then I learn from that, take those learnings back
+into the build loop, this is a cycle
+that I want to keep going through.
+And so you get that toy version out.
+That's your build step.
+For some of you that have done that,
+how are you measuring your thing?
+What's something?
+So let's say a musician over here.
+If you put your toy version out there,
+How are you measuring that today?
+Streams, great.
+And so when you put something out there,
+how long does it take for you to get some of these measurements
+so you can learn from it?
+Yeah.
+So one week is a great timeline.
+I love it.
+And I love it because it's a natural built-in container for us.
+It's not so short like it's a day.
+Like, man, I can't do that much in a day.
+It's not so long that I'm going to spend a whole kind of month on it.
+And the way I look at a year is you have 52 weeks.
+You're going to take a few weeks off, maybe two to four weeks,
+because it's kind of natural to take some time off.
+Now that's 48 weeks.
+You're going to be sick a few weeks.
+That's 46 weeks.
+You deserve a few bad weeks because life sometimes hits you.
+Maybe you've got 40 great weeks in a year.
+So you've got 40 iterations now in a year to try to get that measurement loop going.
+And so it's really, really important that you scope down your build processes.
+You make it tight.
+You get it out there.
+And in that week that you want to measure, there's enough velocity behind it so you can get your answer.
+And I think that's a part that people forget.
+Especially, you know, the software folks, the engineers, maybe even the musicians.
+You do something, you put it up.
+Well, I measured it for a week, but I couldn't learn anything because I didn't get enough users on it, right?
+I didn't get enough people to hear it and listen to it.
+And so I think it's really, really important in these loops that we set ourselves up for success.
+And one of them is, am I going to have enough of a measurement in a short enough time to learn?
+And then am I able to take those kind of measurements and learn honestly from it?
+And how do we kind of do that?
+I think every business is different, and so we're not going to kind of dive in into one business type
+and talk about maybe software KPIs or music streams, because I think the loops are very much the same.
+And so I think important point number one for measurement is make sure you have enough distribution
+so that you can learn in the week's time, right?
+And the building loop is keep that building loop tight so you can get it out very quickly.
+You spend a week building it. You spend a week measuring now your third week
+You can go back into the learn phase and you can go from there, you know
+And so in build quick to build measure make sure you have distribution and learn this is the honest moment
+You got to get out of your head here
+You got to get out and think about hey this stuff. Is it real or not?
+You got to question it you got to find the people around you that could help question it
+I think this is one of the most powerful thing about build space is
+is everyone here while they're going through something different is a person you can bounce
+that around under.
+Is it true?
+Is it a real thing?
+Is it interesting?
+Is it worth me doing this more?
+Is it, am I going right in this path now or left?
+Am I going deeper?
+Am I ejecting out?
+These are really hard, complicated questions.
+And if you only do it in here, you're going to run through these loops and you're never
+going to get that true answer.
+So the learn step, the most important part, is not a timing thing, not anything.
+Make sure you get outside of yourself.
+Make sure you find somebody.
+Farza told me you could call him 24-7-365.
+So just text him.
+He'll be available enough for you to kind of talk about this.
+You good with that, Farza?
+All right.
+He gives a thumbs up.
+So everyone here, take advantage of that while you're here.
+But I think that's the simple loop for me that I think about.
+Build, measure, learn.
+You go through that process.
+OK, great.
+We do this 100 times.
+Has anybody gone through a loop like this already here at Build Space?
+Some sort of a set of stuff.
+I've shipped something, I've measured it, and I've learned it.
+Is anyone here at that stage right now?
+All right.
+So tell us a little bit about what that loop looked like for you.
+OK.
+I'm a musician.
+And I put out four tracks over the course of the whole Build Space thing.
+And one thing that I strongly realized was that my shorter songs work much better.
+And the songs that have a really strong hook in the first 10 to 15 seconds are impressing
+people more.
+And that I tested on quite a few people here.
+And that I tested with a small audience that I have on Instagram as well.
+And yeah, that is one thing that I firmly realized.
+Yeah.
+So great.
+So you put out four tracks.
+You measured it here, Instagram, talked about small audience, maybe 30 people here.
+Some number of people on Instagram and then you got this learning right? So there's kind of two spots here one is
+How strong is this learning? So you said firmly believe right?
+So firmly believe if we created a ratio out of this is that 80% certain?
+90% certain 40% certain 99% certain like like where do you think this is in that kind of stage?
+At this stage of my career, 80%.
+80% you believe that, hey, this insight lets me go.
+So let's say you go down this rabbit hole, right?
+You're like, OK, I'm going to make shorter songs.
+I'm going to move the hook up front.
+This is something that I believe.
+One out of five times of a decision like this,
+you're going to have to step back, right?
+So today, we believe 80%.
+That's why we're going to go down here.
+We're going to do it more.
+Maybe you produce another eight tracks.
+You try all of this.
+There is a 20% chance, which is pretty high, by the way.
+Like, if there was 20% chance I could get hit by a car
+by crossing the street, or is anyone crossing the street
+here?
+No, right?
+Like, it's pretty high, right?
+So just remember this.
+Even in your own estimate, one out of five times,
+you're going to have to step in there and go, wait a minute.
+Something was not happening.
+So this is part of learning that you need to keep.
+Now, we typically take the positive part of learning,
+something we identified, and use that
+to drive our motivation towards it.
+We don't keep the negative side of learning
+because it feels like almost a lack of confidence,
+a lack of push.
+But it's really, really critical to keep along with you
+because you might need it.
+And you're going to need to recognize that.
+And you already identified that I may have this problem.
+And so when I go down something, not only
+do I think about why is it interesting,
+I think about what is the risk of it.
+And my first step is to de-risk that.
+So if I've tried this with 30 people here
+you know let's say a small audience on Instagram what is it gonna take for me to take this from 80
+to 85 percent to 90 percent and this is what I think about like what's next right like I've done
+one loop I've done two loops I've created something but now what's next if the idea is gonna work
+we're trying to push this percentage up we're trying to get become more confident and not for
+ourselves it's just gonna be a overall thing and at 95 percent it becomes ridiculously obvious right
+and you know I think the 80% is pretty good I think we also overestimate how
+accurate we can determine things it's probably more likely a 60% and it's not
+a bad thing like you know I think 50 50 decisions are actually more common than
+people realize it's like sometimes I'll be right sometimes I'll be wrong because
+I don't have all the intuition I'm running fast and I'm trying to catch
+these things at once and so I think in the learn step especially thinking about
+about what's next, lean on your learnings,
+take those, drive those through motivation,
+but then also don't forget the risks
+that you identified yourself.
+And if you ever believe that learning is 100%,
+you need to talk to more people.
+It's really, really, really hard in any business
+to know anything 100%.
+And you look at the biggest companies in the world.
+Facebook is an example of this.
+They have many times been wrong,
+and they've had to correct themselves.
+I would say there's probably 20 or so decisions they need to make in their history of their
+company at the Facebook level to progress forward with something that felt like it was
+working and might have been really working.
+But because they were really honest with themselves, they could shift strategies and do something
+else.
+Part of it was buying Instagram.
+They totally were winning the world at Facebook.
+They were on web.
+They were bringing it to mobile.
+And while the world was telling them they can't do it, they were one of the biggest companies
+in the world.
+And yet they still went out and bought Instagram and WhatsApp.
+And their strategy became very different.
+Instead of one big app, we're going to be the biggest kind of entity because we have
+this collection of apps and we target every user type.
+If Facebook is not afraid to change their decision making, we definitely should not
+be.
+They have like, you know, maybe a thousand people thinking about this.
+We have a few, right?
+So we really need to think about things in ratios and not absolutes.
+my learnings. It's really, really, really hard to get 100% learning, especially at this stage.
+To me, 100% feels like I don't even need to think about it. It's already happening, and whether I
+wanted to try to go against it or not, that's there. And so that's sometimes what you're really
+seeking. In the history of Buildspace, Zip, Homeschool, I think this has happened twice to
+Farza. There were things that felt like they were working, and yet Farza kind of knew internally
+this is not the end state. This is not the thing that we're going to keep doing. Even people on
+the outside, even in the conversations with me sometimes, I'm like, hey, I think this is working.
+Are you sure? And he's questioning it. And literally the numbers are growing four weeks in a
+row, like 50% growth, 100% growth. And it's like, yo, this is working, but something wasn't right.
+And you got to kind of seek that. And so you're really using that learning to drive motivation.
+You don't want to slow down and question yourself so much. Just bring along a little bit of that
+risk with you. It's one of the most important things and you know blind faith is something
+that we really don't want to do here. I think it's going to let you either lead you straight
+into a wall. We're really trying to navigate around this. We want to see the wall so that
+if it starts coming up I can go to the right a little bit and adjust and get around it.
+And so I think you have this loop build measure learn. We talk a lot about building. That's
+where we start from. The measurement is something you know be honest with yourself. Do it in
+in an aggressive way, the learning.
+Take the things you have.
+Go down the loop fast.
+Don't take a long time to make decisions.
+Decision paralysis, we all have it.
+We run into it.
+Every single company I've been a part of, it happens.
+It's there.
+We want to push against that.
+So quick decisions is important.
+The key thing is, is can I step back?
+Can I take a walk back to figure out, hey, actually,
+you know what?
+We went down this way.
+It doesn't look right.
+Let me take one step back and go this way,
+and I think it will save you a lot of pain in life.
+And so that's something I wanted to kind of talk about.
+There's one more framework I like.
+I think a lot of us also do this.
+I've seen Farza do this.
+I've seen myself do this.
+I call it the two miracle problem, right?
+And so this is something where we tell ourselves,
+I'm going to go do this first.
+And once I conquer this mountain, I'm going to go do that.
+And it's like, wait a minute.
+You're going to perform one miracle.
+And after that miracle is done, you
+to go perform another miracle, this doesn't seem right.
+I'm literally multiplying my problem.
+I'm exponentially making it harder.
+And sometimes it's like, why don't you go do this?
+Great.
+But I got all these reasons why I could go do this first.
+And it's much easier.
+But it's actually taking you away from your path.
+So you want to climb Mount Everest,
+and you're going to go climb a mountain that's maybe
+3 quarters of the size that's over here.
+And then you've got to go back down and climb this other one,
+and you don't think about it.
+And so it's really important that we create one target
+and one straight to it.
+If we find ourselves saying, I'm going to go do this one thing,
+then I'm going to build this giant business over here,
+and then I'm going to go get all these customers,
+that's something that we've got to be careful of.
+For a musician, it's like, I'm going to go write all the songs.
+I'm going to go do everything.
+I'm going to go put it here.
+I'm going to curate this community.
+I'm going to do all this.
+And then once I have this one giant thing,
+I'm going to go do the exact opposite thing.
+I'm going to go get signed by a label.
+It's like, no, that's not going to work.
+If we want to be winning online, let's go do that.
+If we want to go the traditional path, let's go do that.
+Let's go figure out what that path is.
+That path has unique challenges.
+And we need to go tackle that.
+And so I see this a lot, especially with founders
+and entrepreneurs.
+We convince ourselves.
+And this is the same theme.
+I'm lying to myself again.
+I'm creating these false truths in my mind of things
+that I want to do and what I believe the story could look
+like.
+I made a great narrative.
+Narratives sound awesome.
+We love movies because they have great narratives.
+Our life is not a movie.
+Our life needs to have some practicality to it.
+It needs to have some steps that we can run down.
+It needs to have guards against ourselves.
+And again, this is why this group is crazy important,
+because most people build in a vacuum.
+And that's what takes them away from their success.
+I think here, you'll have the people around you.
+You can get accountability.
+You can build some of those routines.
+And you're going to have to figure out how,
+when this program ends, you have the same thing in your life.
+So it might be some of the people here.
+It might be some of the frameworks that you've learned
+and you've created.
+And it might be something else that you need to create.
+But you need to create the structure for yourself.
+And you need it always.
+I ran a company, Bebo.
+This was kind of in the mid-2010s, from around 2013 to 2018.
+And we were kind of an ideal lab at first.
+We were building consumer apps in a variety of industries.
+Chat apps, live streaming apps, video game streaming apps,
+a variety of other stuff.
+And every time we entered a new industry,
+I worked with this guy, Sean.
+He was my co-founder there.
+And he had this thing where whenever we were doing something
+slightly different, immediately he would go find five
+or 10 people, a few entrepreneurs that had done it before,
+a few people that are doing it now in that industry,
+and he would invite them for dinner.
+And I was like, hey, why do you do this?
+What is the benefit from this?
+And he was like, look, it's really easy.
+For people that have tried this before,
+and they're not doing it anymore, they will tell me
+like it is.
+They don't care anymore about this.
+They'll tell me all the problems of it,
+everything they dealt with.
+I'm getting free learnings for the people in the industry now.
+I want to keep them kind of close to me.
+I want to keep them around me.
+I might want to have some of that insight.
+And so it was a way of getting insights and seeking answers
+in an industry so you're not walking into it blind.
+You're creating these structures around it, right?
+And so I started doing it.
+We were using technologies like in WebRTC or computer vision
+or ML.
+That's actually how I met Farza because Farza put this blog
+post about machine learning and games.
+Guess who was doing machine learning and games
+in computer vision.
+We were.
+And so the purpose of reaching out to somebody like Afarza
+was to connect with somebody that's in this industry,
+in the thing that we're thinking about,
+and kind of finding some shared space.
+And so you can create this for yourself wherever you are.
+The internet is vast.
+Use it.
+People do respond to DMs.
+Don't be afraid.
+If you're not getting no's, you're not doing it enough.
+You should target 50% no's as a ratio.
+That's a good rate.
+That means I'm providing a pitch that some people
+are going to accept, and I'm not doing it so little
+that I'm getting yeses everywhere.
+It's really important.
+I still do this today, by the way.
+Whenever I see a project that's interesting,
+I DM the person.
+Probably about 50% or 60% of people respond,
+and that's a good ratio.
+It means I'm reaching the level of people.
+Many times I run into people again in the industry,
+and they kind of go back and remember, like, oh,
+you did reach out to me.
+And it's just a second starting point that we can go from.
+And so the point for me is seeking the people around me
+that I need to learn from.
+It could be industry specific.
+It could be stage specific.
+It could just be people that I find useful to have a counter
+perspective to mine because it's a counterbalance to me.
+So it's really important.
+I think there's a theme of us lying to ourselves,
+us creating false truths, us creating this narrative
+in our mind of how the story should go,
+when the reality is we don't know what's in front of us.
+We know a little bit about what's behind us.
+And so we have to use this as a learning exercise
+to kind of create that.
+And so one of the most important things I learned in my life, probably took me about 12 to 15 years to get this.
+I hope everybody here, because of these structures, can do it a lot faster.
+Actually, I'm not hopeful.
+I know that's going to be true of this group here because you're doing it right now.
+You're compressing that, right?
+That first question I asked you, 50 days feels like 200 days.
+You are compressing those learnings, and you want to kind of take those with you.
+And so when you leave here, make sure you create some structure around you.
+Make sure you put yourself in an environment that can do this. Again, you have this group.
+This is gonna be really easy for you to kind of pull your friends from here, your close circle from here.
+I see people sitting in different pockets. Maybe these are already the circles that are forming, you know?
+But then how do you find the next group of it? And you get a lot of benefit for being the person that kicks it off.
+There's a few different groups that Farza had kicked off.
+Founders Inc. literally started as eight people in a discord that were founders, that were doing stuff,
+and that was what turned into kind of the lab and this whole thing. Like that's
+where it started. We had a shared problem. We all wanted to talk about it. We had
+one session on Mondays called Ship It where we would say what are we shipping,
+what didn't we ship, and what do we want to do next week. Beyond that was you got
+to see what somebody else did and there was these moments of like fuck I'm not
+doing enough. This person's crushing it. I'm really not putting that energy in and
+for some people it made them question am I doing the right thing? Why can't I put
+the energy in. Is it me not coming at it with the right vigor, right energy, or is it somebody else
+that's maybe doing it further, or there's some other roadblock? But it really was a highlight to
+kind of have that. And so, you know, it's very easy for people to feel like these are competitions.
+They're not. There's a lot of people out there that want the same accountability. It's critical
+that you create one for yourself. And if you could all walk away with one thing, it would be build,
+measure, learn. Take that. And then I would add a little side note of like, you're going to need a
+group to do this with. And you may have co-founders, you may have people in your company, sometimes
+they're part of the thing you've got to learn about. So you need kind of a little group
+outside of that. You don't need a board of advisors. You don't need to give anybody
+equity in your thing to advise you. You need people with shared problem space. They more
+look like people that are in the same stage as you or maybe one or two steps ahead. And
+actually the people that are way ahead are actually the least useful for you. They did
+it before and their perspective has changed. They're on top of the mountain and be like,
+Yeah, just come on up, it's great up here.
+It's like, damn, you gotta climb this whole mountain, you know?
+Like, they're not telling you how to climb the mountain,
+they're just up there waving at you.
+And so you'd rather have the person that say,
+I just went across that turn.
+The person coming down the mountain,
+and you're walking on the other way,
+you're like, hey, what's ahead of me?
+They have a great perspective.
+The person that's a little bit in front of you,
+right next to you, can share in that learning.
+And so this is one of the most important things
+you can take away as you kind of leave here.
+And so these are a few of the things
+that I wanted to talk about.
+We have a little bit more time here,
+and so I wanted to find another topic
+that would be relevant.
+And so for everyone here,
+is there something that you're worried about,
+that you're thinking about, that's consuming you,
+something that we can dive into
+that you have kind of on top of your mind?
+If you have one, just raise your hand.
+Nobody's worried about anything here.
+Nothing, huh?
+No stresses, everything's working great, right?
+So I'll talk about a worry like this. It's not that you don't think that you can
+solve it. You probably will, but it's a boulder in front of you that you may still
+need to move and so you had a thought.
+Yes, so to me it's
+I have some products ready,
+and I have some products, so we work.
+But I'm worried about getting it actually scaled,
+or not people that want this.
+So the question is, are there enough people that want the thing that you're building?
+And what are you building?
+I'm building an AI study set.
+AI what?
+An AI study platform.
+Study platform, okay.
+And so how do you go about understanding people want something, right?
+So first, there's an idea.
+Well, there's a lot of people who study in the world.
+Two, you start looking at all the different platforms of studying.
+Three, you're like, there's a new AI thing.
+These platforms look old.
+There's Kaplan.
+There's all these other things.
+So here's where you create your kind of thing.
+That was pre-build, measure, learn.
+You take that into the build loop. So you started with this learning exercise. It's just use a market identification
+You kind of get there and then you ship it. So your product is it out live? Is that correct? How many people will use it in the last seven days?
+Hundred people used it and what does it mean to use your platform?
+Some of the practice material
+Correct, and then how many people love your product?
+None?
+And I've had some very exciting people.
+Okay.
+So some people reached out, they said very exciting stuff.
+So let's say out of the hundred, how many would you say loved it?
+Maybe ten.
+Okay.
+And how do you know they loved it?
+Because they sent something.
+Cool.
+Where did they send it?
+Discord.
+Discord, great.
+So you have a Discord for your product, they tap a button, they get to it, they told you
+they loved it.
+And so this word is really important because kind of somebody who tries your product, they kind of don't count.
+Early on, we're just trying to build this loyal group of users who love it.
+And an example of this is we built, I don't know, who's familiar with like OBS here?
+All right, we got a bunch of hands here.
+That's great.
+A lot of content creators.
+I love it.
+We actually built a tool that was a competitor to OBS.
+It was easier.
+It didn't look as rough.
+It had a lot of the nice buttons, you know.
+And so that's one thing we were building.
+and this was a market of streamers.
+And so we're like, okay, how do we figure out
+that this is useful and that we have a way to do this?
+And so that same analogy to climbing Mount Everest,
+you kind of, when you think about climbing Mount Everest,
+you have some steps to go through.
+Obviously you prepare before you do all these things.
+You get there at the bottom
+and the first thing you do is you climb to base camp, right?
+That's kind of the starting point.
+There's a bit of a climb, there's a place,
+and then you go up from there, right?
+Now what's that base camp?
+It's a good starting point and there's Sherpas and that's what you actually find there
+You find that guide up the hill and so when we were building this streaming app
+We were like, how do we know this is useful for people?
+People love OBS and it looks like crap and it's hard to use great idea, right? This makes sense
+But how do we prove that and so get a thousand people could try it?
+We could do a bunch of marketing we can go viral on something we could do all these things
+but if we don't have people using this every single day and they love it then
+it's gonna be a problem and so we created a metric for ourselves we're
+gonna get 1,000 streamers who love our product some people might call it a
+power user we call the people who love our product they would use it every day
+so if they're a streamer they probably stream at least three days a week that's
+what a real streamer looks like so we qualified it even deeper it must be a
+real streamer multiple days a week and like they stream for six or eight hours
+at a time so like if they do this and we can create the secondary thing where we
+can engage with them we could consider that they love it and a thousand was
+again I like round numbers so it's like one ten hundred thousand ten thousand
+hundred thousand pick a round number for your industry if it's a consumer product
+you're a musician and it streams it might be a little bit bigger if it's an
+enterprise product for B2B it might be something smaller but you're trying to
+get a non-trivial number so that you're not lying to yourself and it's obvious.
+If you shut it down and a thousand people were screaming at you, you had
+something, right? And so only people who love something that wanted a lot will
+react like that. The people that were in the other bucket that tried it, they're
+like, okay, whatever, I'll just move to the next thing. They don't even care. They
+might not even notice you shut it down, is what it might feel like. And if you're
+counting that metric, it wasn't worth it. And so we created a metric for us. We
+one of the 1,000 streamers that love us.
+Once we reach that, we now have the Sherpa,
+and we have this group that can guide us up this mountain.
+They're all streamers.
+They are my audience.
+They know my thing.
+For a musician, it might be my real fans.
+The fans who love me, they will come out,
+fly out to kind of meet me, right?
+Like, they'll come to a meetup.
+They'll buy something that I sell.
+They'll tell me if they love my song or they hate it.
+They'll promote it.
+That's what it looks like.
+And I think that's the most important metric
+at this stage to find.
+And so you're climbing Everest,
+whether you know it or not,
+you gotta prepare yourself for it.
+You need a guide up this mountain.
+And honestly, as many frameworks as we could give you,
+it won't help you.
+Those people, that Sherpa in there with you
+is the one that's gonna help.
+And so for you, you have 10.
+And if you think about how big the study market is,
+you gotta go find hundreds and then thousands of people
+that love the product
+and put a really aggressive qualifier on it.
+And again, maybe it's school, maybe it's high school,
+maybe it's some other kind of studying.
+Whatever it is, you've got to contain it towards that.
+But you could create something there,
+and once you have that, you'll actually
+have this guide up the mountain.
+And then you won't have to ask other people
+about what's good or not.
+And then you release something, and you push a new thing out
+every week, and you're going to send it to them,
+and immediately they're going to tell you it's amazing
+or they hate it.
+And that's going to be your loop.
+That might be your beta loop.
+That might be your alpha loop, and it
+be your live loop that's going to give you the signal to go over and over again if you can't
+build a group that that loves it of any size that's your first signal and then is there enough people
+out there that that love it or not or is it nobody needs the value of it and that's okay i've probably
+built over 100 things guess what most of them nobody wanted that's the truth of it right the
+90 80 it's the opposite 80 of people don't want the thing i'm building that's kind of the default
+state. 10% kind of want it, not really, and only a few percentage of things you find that people
+actually love. And it's hard, and that's what we're really seeking. And so for you, you're at 10,
+you need to get to 100. I'm going to come back in two weeks, and I'm going to ask you how you're at
+getting there, and push the boundary. If you build something, let's go get the value of that.
+Anyone else have something that they're thinking about? I think there was another hand that went
+I don't know if you had a...
+It's free somewhere.
+Like I have a few users.
+How do I get the like...
+Yeah.
+So I'm a little...
+Okay.
+I think there's a few...
+So if you're looking at something, if all the time, because they've been learning things
+you do, and you've been trying to do a lot of things that you're learning, all the things
+you could do, do you have your career for some kind of time to think what's the best
+you can do with them?
+Yeah.
+So the question is you could do a lot of stuff. How do you figure out the best thing?
+Is that is that is that kind of the thing and then is it towards growth is it towards product or is it just any decision?
+Yeah, so first thing is you have to decide fast
+Like you know if you're thinking about a decision and a day or two goes by
+It's unlikely that you're gonna create a new condition out of thin air
+That's gonna give you a lot more info so you got to make a quick choice
+That's kind of the first part of my framework.
+And I use this in the same way I think about the weeks and the year.
+I only have 40 loops.
+I only have 40 iterations.
+So I'm maximizing each one.
+The second framework I think about is your product or your company or the thing you're doing is kind of like a river and is blocked by a bunch of boulders.
+And every week you get a chance to move one boulder.
+That's kind of the framework.
+So some people call it A-plus problem, like do the most important problem.
+You can think about it as boulders in the way.
+Your job is to get the river flowing as much as possible.
+So if every week you could move one rock, which rock do you move every week?
+The biggest one, right?
+The biggest one I can move, that's the one.
+So first thing is, can I make quick choices?
+Second, can I identify the A-plus problem or the biggest rock in my way?
+And now I've scoped my decision-making to some process.
+So if it's the study example, today we have a product, 10 people love it.
+the biggest rock in the way is I need 100 people to love it and how do I go find the 90 people
+well where did I get the first 10 from well I literally just called them all and I asked all
+my friends and that's who they were well it's hard for me to repeat that so the biggest rock
+might be I got to find a distribution channel that goes beyond that now once I've scoped that
+my decision making is much tighter and then it's a different framework for starting kind of that
+that thing. And so one, scope the problem to something that you can decide fast and scope.
+That's really, really important. And multi-day, multi-week decisions typically aren't a benefit.
+Likely, it's probably a 50-50 choice either way. So you'd rather do it in one day and then three
+days in realize I made the wrong 50-50 and get back versus think really hard for three weeks
+and then do it and then pick the wrong 50-50 and now I wasted three weeks, right? So we're just
+We're trying to get reps.
+We're trying to get that quickly.
+And so fast decision making and scoped is going to give you that.
+After that, there's a lot of intuition you've got to gain.
+I think a scoreboard is really, really important.
+So for you, you said your scoreboard is streams.
+And I think about it as playing basketball.
+Like if we all went, there's a few basketball players that think here at BuildSpace.
+You played a game of basketball.
+You ran up and down the court for 48 minutes.
+We look up at the end.
+There's no scoreboard.
+Who won?
+A bunch of, you know, everybody made shots.
+I made shots, you made shots, who won?
+We don't know.
+So if you have a scoreboard,
+that's gonna be the starting point.
+So for Uviz streams, great.
+Now when you make a choice,
+is it gonna impact that or not?
+That's gonna help decide, is this an A press problem?
+Hey, I might do this thing
+because it sounds like a great idea
+and it'll save me a headache in three months.
+Guess what, it's not gonna help my scoreboard right now.
+It's a three month later problem, we'll deal with it then.
+So you're really getting rid of a lot of things
+that you don't wanna be doing
+because they don't impact you right now.
+they're not gonna impact your scoreboard.
+So you scope it, you choose click,
+and then you localize that problem space
+to something that lets you win today.
+And every stage of the company has a today moment
+of what helps you win, and it's just finding that.
+And whether it's a company or a project
+or whatever, it's the same thing.
+There is something I need today.
+For the study thing, he's gotta get past 10.
+He's gotta get to 100.
+We gotta add a zero here.
+And I don't say 12 because you're not gonna do
+the right things.
+two more I can brute force it if I brute force 10 I don't know if I can
+brute force 90 more so my a plus problem might be figuring out what is it gonna
+take to get me 90 what how do I create that visibility how do I create that
+scope what is that gonna do and then you get into the tactics thing and you will
+become the best at your domain as you go through this process you should be
+thinking about things that worked and didn't you're adding things to your
+tool belt yeah I did this strategy went really viral but the product was useless
+and didn't have depth, guess what?
+I can probably keep that in my tool belt for next time.
+Because it's some skill I gained.
+And so you're going to be stacking these things.
+You're going to be learning with these things.
+And you'll build up that kind of tool belt, tool chest of stuff
+that you can use.
+And I would also kind of have that.
+And so tight, quick decisions, scope the problem space,
+localize it to your win condition,
+are three things I would think about.
+so i have some people who like my products
+but i'm at that stage where i'm trying to figure out what i should do better
+for people to absolutely love my product not just like my product so say for example like 300 people
+are using my product like every day it's it's not like i mean what incentive do they have to like
+really love what i'm doing yeah in a way yeah well one if somebody's already consuming your
+product or using it they've already shown that there's something there then two did you ask them
+what they love about the product some of them yeah so when you ask them what do they say
+that it's new and it's fresh and that they haven't heard something like that before,
+so they like it.
+Yeah.
+So this sounds like a relationship, right?
+It's like I met somebody early on.
+You don't say you love them on the first date, right?
+That's not what happens.
+They're like, oh, this is new.
+This is something interesting.
+This is something fresh.
+They haven't declared love yet.
+But if they're saying that we haven't gotten that signal from them yet,
+now what is it going to take for them to love it?
+Is it something that I need to do over and over again?
+Or is it something that they should have gotten right away?
+Something to think about with your product.
+And every product type is different.
+For an artist, the first time I'm going to start, let's say,
+loving their music is I find a song that I like.
+And then love is the song on repeat, right?
+Like the person that's just streaming it over,
+They're just putting it everywhere.
+They're sharing it.
+It's on their radio over and over again.
+You've got to find the folks like that.
+So if you're building a music, let's say, album,
+you're building music, that's what you're doing,
+that's something.
+If it's software, it's probably something
+you can measure deeper.
+And so you can use a combination of data and conversation.
+With something like music or something creative,
+you might use social.
+Hey, if nobody is tweeting about it, literally zero people,
+Well, a person who loves this will probably share it.
+And if that's not happening, maybe that's a signal
+that I need to find.
+Maybe I haven't given them the opportunity to share it.
+Maybe it's not a shareable piece of content.
+So there's many reasons why you can get there.
+But you're first trying to identify what is the stage.
+So I have a bunch of people using my product.
+Some have told me they like it.
+And then these folks are obsessed with it, and they love it.
+And these are the stages that we're going through.
+And the most useful thing is find a way to talk to them.
+It's very surprising.
+People who try your product and don't like it may still talk to you.
+They may tell you what they tried and what was useful for them.
+And many won't, but you're just trying to get that answer.
+And if you don't have the answer, you need to talk to more users.
+And you're like, well, I don't have one.
+Then you need to get more users so you can talk to more users.
+But you have to just push that boundary.
+And it's not a little bit.
+It's a lot.
+Like you should have a day or a week where it's like, man, my schedule is the 15-minute blocks over and over again.
+Because this week I'm really trying to gain that knowledge.
+And the words they use are the most important things you'll hear.
+So, oh, I listen to your music when I'm on a long drive.
+I love it when I'm scrolling through a feed or I'm doing something else.
+You're trying to identify the word, the condition, the environment, the mindset that they told you when they liked or loved your thing.
+and you're trying to aggregate, is there a trend of these?
+Is there a pattern of these?
+Is there something that we can pull out of that?
+Because once I keep hearing the same thing, then I can work on that.
+That's a signal for me to kind of go find.
+And so enough people, so you get the opinions,
+and then a mass of them saying a similar thing is a very obvious answer, right?
+And so I think that's what we're trying to seek as we get down these loops,
+is do I have enough of that?
+That's also why we talk a lot about distribution.
+You can't get the mass of people if there aren't enough out there using your thing.
+And if you don't have that loop, it's going to be a challenge.
+And you have to kind of solve that, because otherwise you won't get on enough conversation.
+It's a lot of hard work. It's really annoying.
+But it's something that's probably the most valuable thing, is going and talking to users.
+And we've believed and lived this.
+And so at that same company, Bebo, we pivoted out of the streaming app.
+And we're like, you know what, the streaming space isn't working.
+The mobile streaming space is starting to get interesting.
+We're going to take this app.
+We're going to turn it into something.
+It kind of looked like House Party before House Party came out.
+That's what we were doing.
+Very different audience.
+It went from like 30 to 40-year-old streaming online
+to teenagers kind of using the app on their phone.
+And so we're like, OK, we've got to go find people.
+All right, now there's a bunch of people here in San Francisco.
+How do we find teenagers to talk to?
+So we come up with all kinds of ideas.
+And some guy goes, let's just go to the mall.
+Let's just walk down the street and ask people.
+We're like, OK, we're going to go to the mall
+and how we're going to get people.
+So he's like, oh, buy a bunch of burritos from Chipotle.
+And I'm going to make a sign that says, free burritos
+if you try my app.
+And we did that.
+And then within five minutes, the mall security guy's
+like, you got to get the hell out of here.
+And then we're outside the mall now,
+on the street in San Francisco on mission and whatever,
+with a sign that says, free burritos if you try my app.
+And actually, five people tried it.
+Seven people tried it.
+It was kind of interesting.
+We had a bunch of ex-married us.
+Then we're like, okay, this is there,
+but the mall, the security guy, this was kind of a challenge.
+Let's just go to the high school.
+So we went to Mission High School outside,
+stood there at Dolores Park, and we're like,
+all right, try our app.
+And actually had a bunch of people try it.
+And then my friend was a teacher at a school,
+and I was like, hey man, can we come to your class
+and we'll give them some startup lessons,
+but we really want them to try our app.
+And he was like, sweet, great.
+So we go down to the school in San Jose,
+And we get in this classroom.
+First of all, this classroom was absolute chaos.
+Like there was no control in this classroom.
+And the first thing that happened is that school
+has terrible cell reception.
+So not a single person could use our app.
+The second thing we realized, every single one of their
+phones is a really shitty, broken looking phone.
+And we're all sitting in San Francisco with the latest
+iPhone, building it on the fastest Wi-Fi in the world.
+And so the first thing that hit us in our face was like,
+We're not even ready for that market.
+So we went back very quickly.
+One week later, we fixed all those problems.
+We found another school.
+We got a bunch of pizza.
+We're in the parking lot at school.
+Sounds a little weird, I know, but that's what we did.
+And within five minutes, a teacher comes out.
+And she's like, hey, what are you guys doing?
+We're like, oh, we're these startup founders.
+We're building this app for high school kids.
+We just thought we would do that.
+We're like, OK, we're just going to do our walk
+of shame back to the car and move on.
+And she's like, oh, this is great.
+You guys want to teach a class?
+And we're like, yeah, yeah, we'll teach a class.
+And so we would actually go to schools and pitch them on a class that would teach kids about entrepreneurship and startups and then get them to try our app.
+And our goal was if we could get four classes in a high school to use our app and it was great, it would very quickly take over the school.
+Because that's how apps work.
+When Snapchat first came to your school, when Instagram first came to your school, it felt like one kid got it and the whole school got it.
+That's what we had observed before.
+and that's what we were seeking.
+Turned out our app was not that great
+and that's not what happened.
+But we did find different avenues to go from there.
+It gave us a strong aspect.
+But the point is, you've got to go to kind of any lengths.
+We have a person in our studio building an AI teddy bear
+at Founders Inc.
+He's in the machine shop.
+And the first few weeks, we're like,
+you've got to go find users.
+He's like, where do I find them?
+I'm like, where are our kids?
+And he's like, playgrounds.
+He's like, yeah, go to the playgrounds.
+Again, sounds weird.
+Don't be creepy.
+But there's a way to do this.
+You have to seek your audience.
+He found the parents at the playground.
+He's like, hey, I'm building this thing.
+Would you be interested in trying it?
+He didn't go to the kids directly, right?
+So let's be cautious of what we're doing.
+Let's be smart.
+But you've got to seek your audience.
+And you've got to be willing to get out and do that.
+And it's that important that you have to take it to that level.
+And it doesn't end.
+Today, I run a company called Third Web.
+So kind of a large web through development platform company.
+I still join sales calls.
+I still will go talk to a random engineer on a different team.
+I still will end up in our customer support channels,
+and our GitHub, and our Twitter responding to a user of like,
+hey, this is a problem, and going and doing this.
+I will still try to find 30 minutes to use my own product,
+because it is that important to get the feedback,
+and you have to continually seek it.
+You've got to get really, really great at that now
+and really comfortable with it to succeed.
+Nothing happens in a vacuum.
+And so it's ridiculously important to go and create
+and craft that.
+And so if you don't have enough users telling you
+the 10 people using the study products,
+or hey, I got a few people telling you stuff, go seek more.
+Go do it one by one.
+Don't be afraid of how to do it.
+Just go figure it out.
+And one by one, you could cross stuff off that doesn't work,
+but a few things will.
+And so yeah, a little bit around getting
+the users and stuff like that.
+I think we have one or two more.
+Is that good, Farza?
+You good?
+All right.
+Yeah, so my main problem right now,
+I think it's more like trying to understand who needs my app.
+Because it's like a pretty general tool.
+And so my question is basically
+a common extension that adds you to read articles faster online.
+Everyone can read articles.
+So the question is more how do I go about finding who
+needs a video because there is a niche that
+needs a video and .
+So the first statement, one of the first statements you said, everyone can read articles.
+Okay, it's passive, it's soft.
+Who reads articles?
+And not who casually reads them.
+Who's a power reader of articles?
+Because we're looking for people that really, really want our product, right?
+And so if you just pull the room here, who's a power reader of articles online?
+Who can read articles online?
+right so this is your difference your own statement you've created a wider net when you
+need to get more specific so the first thing I would do is figure out to go from can to need
+you're looking for people that really need your product and a lot of people have talked about hey
+your first product should kind of be embarrassing right like you've heard this phrase should be
+rough the thing is if if I need something and it's ugly or rough it doesn't matter I need it anyways
+If I can do it, but if it doesn't look right, like whatever, you know?
+Like if I have to drive from here to San Jose and I need a car to get there, I don't care what car it is, right?
+But if I just want to drive around town and I could Uber, I could not, I could whatever, it doesn't really matter, right?
+I may need it, I may not.
+If it's really nice, like you can bring over like a Rolls Royce or something, let's go.
+But otherwise, maybe the Waymo or Uber is a little bit more convenient for me and I don't know.
+So let's get really specific about that.
+Let's dial in to kind of figuring out who really, really needs it.
+And so if we took that one step in, find one type of customer, one type of user group that is a power user of that thing and start there.
+Get removed the word can do the thing and replace it with needs to do it.
+And now you're starting with an audience that's there.
+Most products in the world are not that general.
+Amazon, the giant e-commerce company that probably everybody here uses, only like 40% of people use it.
+Even then, not everybody needs it.
+Many people just go to the grocery store, they go to Target, they go to Walmart, they don't need it.
+It's not relevant for them.
+So even the most general company in the world isn't that.
+So we've got to dial in very specific.
+And I think the language is really, really important that we use for ourselves.
+You told yourself a lie.
+The lie was my product is general
+Because everybody can do it
+That's a lie
+Correct
+Correct
+So now we're getting specific, right?
+So if we get into tech
+If you're an investor, you're reading about teams
+that are getting fundraising and new technologies coming out.
+If you're a scientist, you're maybe reading articles about this.
+If you're a doctor, you're reading articles about this.
+So you start writing down these personas.
+Okay, here's a venture capitalist.
+Here's a scientist.
+Here's this.
+Here's this.
+Here's this.
+Here's why they need it.
+Then you go, okay, I can't actually solve for all of these.
+If you think about you got five boulders of people who need it,
+you can't move all five of them.
+Which one do you move first?
+I guess the one that I can feel more confident about?
+yourself paralysis anybody could do it now let's get to something really
+specific and then from there we could build on it and don't be worried if for
+a little while it'll look too specific but we want to find any group that loves
+it and needs it is gonna be the starting point and so you've got to go two layers
+deeper from where you are to start and then we got to find an opportunity there
+So just in the same way, you're basically saying that narrowing in and getting more niche gives you more leverage.
+We've got to find somebody that loves it.
+And the thing is, if I serve everybody, I'm likely not doing a good job for that type of person that wants it.
+Now, when people say niche or narrow in, how narrow, how niche?
+It's like ideally this is still big now. It doesn't have to be my final size
+But it's big enough where if I just did this I'll be it'd be like a fuck-yeah excitement like holy shit
+That's still pretty massive like you know
+I got tens of thousands of people doing my study app now right same example
+It's like it's got to be big enough so that I can get runway through it, but they gotta need it
+And so I gotta find some specificity to get to them right and so if you think about music
+like let's say even house music, there's like 50 subgenres and then 50 subgenres under that.
+By the way, the sub subgenre probably has a million people or a hundred thousand people
+that still love that thing and then yeah maybe the artist goes mainstream and went wide but they
+had to find somebody to start from to then get their creativity to get out there even further.
+Most people we live in the sky and we're not really trying to be honest with who specifically
+I'm building for. And so somebody asks you who you're building for, you need to be able to recite
+one, two, three types of people that are fairly specific. And if I take Founders Inc. as an example,
+we are not for everybody. We are not a place for everybody. We're not a venture fund. We're a very
+specific place. We're a specific place for people who want to build the future of technology that
+are going to do it anyways, whether we help them or not. And they're going to kind of create this
+opportunity set that it needs to be large. Our outcomes need to be ventured. So if you're somebody
+who's going to do it anyways, and you're doing something really interesting in emerging technologies,
+but your goal is not to make it a giant entity, you want to make it a solo business, that's great.
+We're probably not even the right fit for you, right? So we get very specific on that. We learn.
+At the start, I didn't have this idea. It was just people that I felt like, ah, these kinds of people,
+like Farza and Sharif and Johnny and it was just people that I knew that I could
+reach and I'm like hey I think you all need this day great now we got one group
+of it and then we're like okay this worked well this didn't work well these
+other people also needed it and we didn't include them or these people
+actually really didn't need it like we would invest in a lot of people at seed
+stage or further down and I'm like they don't need our help we can't apply our
+learnings they don't need to work here their team's too big to work here like
+The whole thing we're creating isn't useful for them.
+So while we can invest in things outside of that,
+they don't need it.
+Let's do the thing that people need really, really well.
+And some of the people we invest in,
+they even need the lunch.
+Like, you know, if we have an event,
+there's extra food, they're like, yes.
+I've also seen that here, by the way, right?
+We went to a dinner and I was like,
+Stubbin, can you take this back?
+They're like, Bill Spacers, love this.
+They need it.
+So that's what need looks like, right?
+And that's why these products end up
+being a little specific to start.
+And then you iterate and you learn,
+but you do it with people and a user group
+that actually has that.
+And that gives you a lot of momentum.
+And it's not confidence, it's evidence.
+And that's the difference that we're looking for.
+Confidence is for you internally
+and evidence is with you externally.
+And I think that's what we're seeking kind of all around.
+Let's do one last one.
+There's another.
+So, right now I'm in a space where I feel like I've been working on a project because
+I really felt like it's on to something, the idea of it, but maybe the way I've been going
+about it isn't really the best way to do it.
+I was wondering if you could maybe reflect on if you've ever realized that you really
+feel like you're on to something, but you haven't figured out the way to do it, and
+kind of figuring out that.
+Yeah.
+How do you know you're on to something?
+I feel like I get a lot of positive feedback from projects. I get people not just like kind of glazing their eyes over, they feel like captivated by the topic.
+In short, it's about polarization and, you know, having bridging divides and kind of hinting at touching about, you know, moving past cancel culture and aspects like that.
+And so I feel like the way I'm going about attacking that subject might not do events and things like that might not have been the right way.
+But I do feel like there is something about the topic that still captures people and that they want to be involved in somehow.
+Yeah.
+So a lot of ideas have legs, right?
+They've become a thing.
+When some new thing comes out, there's always 80 people that are like, I was doing that in 2002.
+I was doing that in, you know, whatever.
+I had this idea.
+If only I had done that idea, I would have built Uber too.
+It's like, there's a lot of ideas, right?
+So first, if you're onto something,
+it's other people that are kind of like
+forcing you to push that versus you're like,
+I think they kind of like it.
+That's something that's probably not as substantial
+as you want it to be.
+So how do we take, I think people like it, well, why?
+Well, when I tell them, they didn't glaze over.
+It's like, that's, I think, minimum.
+But a maximum is like, yo, like,
+You need to run another event.
+Like you need to do your thing.
+Like when is the next one?
+Like, come on, man.
+I really, this is important.
+We need to do this.
+Like that's what I'd be seeking.
+And so, you know, without knowing too much
+about your product, you gotta get out
+from the minimum requirement here
+towards the maximum requirement.
+Even at the maximum, that still may not be a thing.
+And you may do it and realize this is either
+not the package, not the thing.
+The idea still may have kind of legs and mirror,
+but it may not be there.
+But to me, it's like getting outside of,
+I think people might like it.
+How much are you gonna bet on that statement?
+Are you betting all your funds and everything into this?
+Probably not, it's very soft.
+Versus, look man, I'm not even,
+people are just coming to me.
+I can't deal with it.
+Look at all these text messages.
+Look at all these messages.
+That's what that thing looks like.
+And so you gotta take it from,
+I think this might be interesting,
+to I know and you know and none of us can deny it.
+And how you do that is probably getting it out
+from some place and doing the thing.
+So if you did something, you said you did an event
+that may not have been the best format,
+well great, find the five other best ways to do it
+and do that over and over again
+until literally people are begging you about this thing
+and it's no longer I think they might like it
+to there's no doubt from all of us
+that people really, really want this.
+And the only question is I have 500 people
+I really want this and I gotta get to 5,000, right?
+And so we gotta make that leap.
+And today, again, without too much detail,
+it sounds like you're still on this side of the line.
+You're still on the internal, I think they might need it.
+And they're just too passive.
+We're not gonna get our answers like that.
+So we really gotta push the boundary,
+cross the line over and get to something
+that people straight up like,
+I did an event and nobody showed up.
+Or I did it and the few people, eh, kinda whatever.
+Or like, no, no, no, they literally need it, right?
+And you think about build space itself,
+like nights and weekends was the proof in many ways
+of starting that people really need this.
+And the proof wasn't that 10 people did it
+or a hundred people did it.
+It was that every time another one happens,
+there are more people, the Twitter timelines are flooded.
+People are crazy excited
+and they're spawning really interesting projects.
+They're talking about Farza,
+like he's the greatest thing since sliced bread.
+Like all of those things, you know,
+Like that's what that felt like.
+And then it kind of pushed, okay, maybe they need more.
+Well, what have we all gotten to San Francisco for three days?
+And man, just seeing the bonds happen and the statements,
+you didn't have to talk too much about this.
+You could just walk around and like these people craved it.
+They flew from everywhere all around the country
+and all around the world to come here for three days,
+pay the San Francisco rates of living,
+live multiple people in a one bed, you know, floors,
+just to do this for three days.
+And then he got even further where, hey,
+40 people wanna be here for three months.
+And again, they will, you know,
+I think everyone's here probably from somewhere around.
+It's like a big ask to move somewhere,
+maybe defer school, maybe defer the job,
+maybe defer my plans, leave my family.
+That's part of that, right?
+And it didn't just start at this stage,
+it was a buildup of these things.
+people really, really needed this thing
+and it didn't really matter a lot of the little details.
+And there's a phrase, I don't remember it exactly,
+but it's something around like,
+when you build something great, it doesn't have to be good.
+And it's a weird statement, right?
+And it's a weird statement because if it's great,
+it's great at the promise and at the thing
+and people really want it and no matter what,
+if it's good or bad, they'll use it.
+And there's many things that people build
+that are good and they kind of inch their way there,
+but it's not great because people don't really,
+really need it.
+So you could build a really good thing
+and it could kind of get to some size
+and most businesses or most opportunities can get there,
+but to build a great thing,
+you have to feel a really massive need for people.
+And if you're doing that, there is no question about it
+if you're doing it at the size and visibly.
+If you're doing it internally,
+we will never get the answer.
+If you're doing it externally, we will for sure very quickly get the answer if they really,
+really need it.
+They will declare it.
+They'll tell you it.
+And if it's slightly different, they'll tell you how you're doing it wrong.
+And you should do it like this.
+But that's part of that.
+And so I would really think about, are we getting those signals?
+Have we pushed out from internal?
+Are we saying, I think I might?
+Or are we saying, I know?
+And this to me is a big thing.
+I think to I know is a very powerful feeling.
+that I know is unquestionable, I think, is what most of us live.
+And that's our job.
+We really got to get out of this bucket,
+and we got to kind of get to the next step.
+And so, yeah.
+Appreciate the time here.
+Hopefully this was useful a little bit.
+You guys want to ever talk about anything, find me.
+Fairly busy, but I'll make some time.
+Feel free to corner me.
+Everyone does it.
+It's not a big deal.
+Again, enjoy your time here.
+This is a special place.
+I hope you guys get a lot out of it.
+Think what Fars and team have built here is really awesome.
+Think you all feel a little bit of that.
+This thing should springboard you in many ways.
+Maybe you go do something different in life,
+but you'll look at this moment back
+as something that did really accelerate things
+and use it for that.
+Take every moment here and expand on that.
+I think you're gonna build a lot of friendships,
+you're gonna build a lot of bonds,
+but most importantly, you're gonna have a lot of fun,
+and I think that's a lot of why we're here.
+And so hope you all enjoy it and take care.

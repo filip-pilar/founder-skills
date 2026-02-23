@@ -32,6 +32,10 @@ git clone --depth 1 --sparse --filter=blob:none https://github.com/filip-pilar/f
 
 Replace `<skill-id>` with a skill name like `copywriter` or `growth-playbook`.
 
+## Sources
+
+The skills were built from 24 [buildspace](https://buildspace.so) lectures — transcribed, processed, and distilled into the reference material each skill uses. The [`sources/`](sources/) directory contains the raw transcripts and structured knowledge files, along with links to the original YouTube videos.
+
 ## Skill Format
 
 Each skill lives in `skills/<skill-id>/` and contains:

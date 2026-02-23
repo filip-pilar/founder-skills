@@ -1,0 +1,187 @@
+Welcome again to Writing 101 and Feb 14. Hope that everybody is having a good day so far.
+And I want to cover something about writing. And I spent some time thinking about this.
+And this is something, a framework I wanted you to start thinking about.
+That is that writing is not just words on a page. Writing is more holistic than that.
+And I want you to start thinking about what writing really means.
+Personally, I think it's the most powerful way to shape the world.
+If you think about Buildspace at the end of the day, for the longest time we're really
+just people who put words into email, words in a tweet, and then words into a video, right?
+And you're literally inviting people into your mind, your stories, and your view of
+the world.
+I'm telling you this because I get a sense from most of you that you're actually creators
+at heart even though you're building different things so anybody seen this particular phrase
+if you if you know about this don't don't don't tell the rest right what those of you don't know
+what comes to your mind when you see the just one sentence i'm glad my mom died psychopath
+that? Stupid? Maybe the model is abusive. What else? Resilience. What are some emotions
+that go through your head? So when I see this, actually one of the emotions that run through
+me is less of a judgment, more of a, that's really sad actually. And I'm showing you this
+because immediately you're like invited, you're actually completely consumed by this one sentence, right?
+But I want to show you something more.
+Don't ever separate visuals from writing.
+It's part of a greater whole.
+So this can have a psychopathic tone, can have a very sad tone,
+but if you pair it with the, it's actually the title of a book,
+I'm glad my mom died.
+So suddenly like the color palette and
+This picture makes it funny, right? So it's like no longer just something that is a sad or psychopathic
+You think it's still psychopathic
+I just don't understand the contrast there
+The title by itself is sad has negative tones, but then this is bright and I still don't associate
+the entire whole or something like, right?
+It's still weird.
+Yeah, so this particular book actually blew up.
+And it's meant to be a comedy.
+But it's actually about a, she's actually an actress,
+and kind of talks about her mom in a comedic way.
+But actually, the meat of the story is rather sad.
+So I talked to quite a few of you.
+And I know that many of you want to know how to,
+this is the biggest one, write a good hook.
+Tell a story
+Write a cold email
+Better landing page copy
+The list goes on and on and on
+And if you recall
+Stavon had a mental model
+That was a baby bolt
+Looking at some of the stuff that you guys have posted and written
+I think it's better if we just kind of look at
+The overall process first
+I think it all starts with knowing what good writing is
+If you recall from the design lecture
+good design is actually what's good design according to Stalin you guys remember
+usable useful and beautiful yeah there's something similar to writing it needs to be clear
+meaningful and persuasive and we'll get to what each of these mean and how we will do that
+so clear this is something that I see a lot if people don't even understand what you're trying
+to say, they won't even care. And the worst case scenario is that you put something out into the
+world, people can't even say yes, and they can't even say no. So they just scroll right past,
+right? Or they don't even read it. So here's a tweet, and I'm using a lot of examples, and I don't
+actually want to show who did them. This is not from SF2, this is from online. And if you want to
+look at really bad writing examples,
+oftentimes you could just look at crypto Web3 type stuff.
+So if you do a quick scan, what is this tweet about?
+Anybody tell me?
+It's really small.
+It's a little bit of coins.
+Yeah, it's very hard to tell exactly what's going on.
+So chances are you're just going to scroll past.
+Interestingly, this account is actually rather big.
+So you need to have people understand you first.
+And the second thing is, I say meaningful,
+because I want you to communicate something of value.
+And the value actually can come in all kinds of forms.
+For a lot of you building SaaS,
+it could be saving time, saving money.
+And for some of you content creators, making them laugh.
+That to me is like the pinnacle offering somebody value,
+because laughter can transcend many things.
+and or interesting information, et cetera, et cetera, et cetera.
+So I'll give you an example.
+This is a very popular example of a cold email
+that somebody sent to Sean Perry.
+Let's just take a moment to break this down, right?
+I made an irreversible decision.
+So this particular email is because Sean Perry
+was kind of looking for people to hire, right?
+So let's just look at this.
+Hey, Sean, I made an irreversible decision.
+just 30 days in i quit some job the opportunity cost of not being full-time in crypto was too high
+right lucky for you this means that i'm on the market i think you should hire me and you don't
+even have to read the rest he already bowled what he should read i quit this job i think you should
+hire me i love to run nft experiments for milk road right so already it's like if when sean got
+this to him it was a very meaningful it's also understandable what this
+person wants right and before I get to this last bolded part I want to talk
+about persuasive if you recall from the marketing lecture we kind of talked about
+marketing ultimately is you want somebody to take action it could either
+to buy your thing sign up for a subscription or adopt your point of view
+And what I mean by my point of view is that you're convincing somebody that what you're offering is a value or convincing somebody that your point of view is actually like the right way.
+If you look at Billspace, right, the 2424 lecture, sorry, not lecture, the live stream, we spend a lot of time telling the audience our view of education, how we could do it better, right?
+So if you come back to this example, it's very persuasive for Sean to at least talk to him, right?
+Because he ends with, I got two ideas, one for Milk Road, one for MFM, want to hear them.
+So it makes the reader's life really easy. It's a yes or no, right?
+So I want to break down how we start from all of them.
+Any questions so far?
+Cool.
+So, I was looking at a lot of examples.
+I think the most important thing you need to start is work backwards from intent.
+What do you want to say to people?
+I think that's actually a really difficult thing that I have seen in a lot of the examples.
+It's very unclear what is it that you actually want to say to people.
+and even our own content team, we oftentimes struggle with this.
+And this is what I like to think about a lot.
+Keep shooting and figure out your target.
+Now, this is actually really important.
+You need to keep on posting because this is the only way you can get feedback
+whether or not you are finding the right target
+or even if that's the target that you want.
+and think of this as a process and the most important thing is uh you how many of you like
+write on a regular basis during sf2 not not for your stuff like you write for yourself
+yeah quite a few of you i highly recommend that that if you're not doing that take some time to
+do it, our entire team spend time writing about all sorts of stuff so that we can actually wrap
+our heads around what we're trying to build. So let me give you an example. We went off grid for
+basically a month and we're figuring out what to build. But the forcing function that's really
+good for us is anytime we're coming up with something new, we immediately think about how
+will we communicate this to our audience? How will we communicate this to the world?
+and it's oftentimes a messy process,
+but it's something that you can just iterate
+even within yourselves.
+So this is from my app, Ulysses.
+Farza and I, we started jamming about
+what's a message we can send to your audience, right?
+So if you look at this,
+there are four versions of this.
+It actually ended up being like six to 10 versions
+of just all these different drafts.
+You can see a title.
+We shut down our company for a month.
+I became a monk for a month. I don't know how many of you read BillSpace emails, but eventually the landing title would always change.
+How many of you read this or received this? Yeah. So this was one version of our message, right?
+And we really thought about our intent. Our intent was, one, we want to tell people that we're doing something different this year.
+Two, we want to tell people that we have the same mission, right?
+To build a world where anyone with an idea can turn into reality.
+And then the third thing is there are different segments of our audience.
+We need to address questions, right?
+So this one would be Wednesday nights and weekends S5.
+And those of you that hit this email is probably because you were in S4.
+Actually, all of you are in S4.
+That's why I got the email.
+And then this is another iteration of the same message, right?
+This one is more personal to Farza.
+Most of you are probably familiar with founder stories plus cliches.
+Steve Jobs finding himself in India while doing OSD.
+Phil Knight traveling the world before coming up with Nike.
+But this message again is all tying back to our intent.
+And our intent is to be clear about what we're doing next
+and also provide something meaningful.
+and then lastly, persuade them to come to 2424.
+How many of you read this?
+You can go check it out.
+It's billspace.so4.hyper.
+It's a very long read.
+If you really want to understand where our head is at,
+this is actually a pretty good read.
+Again, same message, but now in a 10-minute format, right?
+You guys all know that we're building software now.
+So for a month the whole team would jam about different ideas. I would jam about all of the ideas
+And then I made it down to a pitch deck to myself again
+I need to I need to first figure out what the hell am I'm trying to say to the audience, right?
+So to me, you know, I was like, okay, how do people connect with each other?
+So I started breaking down to myself, you know, they're ancient forms of connection modern forms of connection
+contemporary forms of connection how can build space elaborate or build upon that
+now all of this building into a grander narrative even things like this we'll kind of talk about
+this deeper this is like this is the map for the entire live stream and josh and i are thinking
+about you know there are different moments that a person experiences in a one hour live stream or
+or even a one hour film, you know,
+when is the audience happy?
+You know, I put a smiley face.
+When are they dipping down?
+You know, I'll say, you know,
+when they figure out S5 is going to be delayed,
+they're going to be sad as fuck.
+We got to bring them back up, make them happy.
+So we really have to communicate
+why S5 is delayed, right?
+So working backwards from intent
+is probably one of the most important things.
+That's going to start to make everything else really easy.
+But figuring out a antenna is actually very difficult.

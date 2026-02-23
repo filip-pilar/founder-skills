@@ -1,0 +1,976 @@
+Can everyone hear me, all the way in the back?
+Yes.
+All right, back.
+So, yeah, welcome.
+Welcome to Class Zero of DMW.
+Introduction.
+A lot of you guys were also parts of Nights and Weekends Season 4,
+so you saw a lot of the stuff that I'll be covering,
+but it's just good to go over a lot of the logistical things first.
+And, yeah, we'll open it up for questions in the end.
+But, yeah, feel free to stop me at any time, too.
+So, I'm stubborn.
+A lot of you guys know what I do at Buildspace, but I'll just recap a little bit.
+I do everything that hits the user.
+So basically any designs like the hoodies that you guys are wearing, the stickers you
+may have on your laptops, the operating system you may have as your Chrome new homepage,
+to the website that you applied on nights and weekends, and even SF2, all of that comes
+through that little desk all day in the end.
+And I'll be teaching majority of, or I'll be teaching almost 50 to 60% of DMW and the
+rest Jeffrey will be teaching.
+So Jeff.
+Yeah, so I do a lot of the story at Bellspace, a lot of the writing stuff.
+So any kind of narrative stuff you see kind of gets to you, but we, that's a very tiny
+room and we kind of do everything, all of us, we jump in on everything.
+So yeah, welcome to DMW.
+All of you guys know what it is.
+I hope, design, marketing, and writing.
+We truly believe that these are some of the key ingredients for you to get your story out to the world.
+No matter whatever it is you're doing, right?
+You could be making music.
+You could be making films like some of you guys are doing here.
+Making apps.
+Making a new channel on YouTube for X, Y, and Z things.
+All of that benefits greatly from just having a simple understanding of the basic principles of what all you need to know in terms of design, marketing, and writing.
+And the good part is even some of the basics will take you so far in getting you to close the gap between how you want to be perceived versus how your audience actually perceives you.
+Right. And that's extremely important when you are in the stage you guys are in, whether you're starting out, whether you're just kind of have a product and you're trying to tell your story out to more and more people.
+And you just want to make sure that everyone's aligned and everyone's kind of like having a good time.
+So just TLDR and what these sessions are. Basically just throughout our experiences,
+right, I've been in education now for almost a decade now. And these are some of the things
+that I've picked up along the way. A lot of lessons and learnings, mistakes I've made
+in the past. So just things that we have done in the past. So hopefully you can take them
+and learn from them and ideally not make the same mistake. And even if you do make the
+the same mistake, the time to bounce back is much, much shorter.
+So every week, again, we'll just come up, we'll do these sessions, and we'll kind of
+like tell you how to do them.
+And just for, like there won't be as much as hard skills, so like I won't go down into
+like how do you actually use Framer or Figma, or I think Josh is doing a session, I don't
+think he'll pull up Adobe Premiere and show you how to do it.
+more so conceptual, but we can also, like, we'll have a couple sessions where you can
+bring, you know, hey, I'm working on this and how do I actually do it better and we
+can show you guys how to do that too. And again, we're open books, so anytime you have
+questions about how we are doing certain things, so maybe you see an asset that we made or
+maybe you saw a site that we made and you want to see how that works under hood, we're
+again, always open to answer those questions for you and maybe even show you how to do
+it. So yeah, balance of soft and hard skills.
+and an example of this, I've talked about this before, but I'll talk about it again.
+Right. One of the key things that you can do is to incorporate the fact that inspiration is
+literally all around you. Right. So I'll walk through an example of how I do it. This is just
+one model. Who's seen that? Everyone's seen this before. Anyone who hasn't?
+All right. I guess a couple of people. So basically the way I think about it is like
+any time I am, like I'm always surrounded by inspiration, right? And so even when I used to
+go to Equator to get coffee, right, the hats, I'm like, okay, cool. These hats are pretty cool.
+I'll just take a picture of them. Similarly, this coffee bag was cool. I was like, there's a couple
+things I'm thinking when I'm looking at this. Okay, art is cool. It's catchy. So it stands out
+amongst the other bags. And there's a couple of mistakes that I don't want to make. So such as
+like this little text right here, there's better ways of doing that. So I was like, okay, cool.
+Every time I look at this picture, I see the composition and I'm reminded of that. But okay,
+these are the mistakes that I shouldn't be making because it's very easy to.
+Even when you're browsing TikTok, Twitter, Instagram, again, taking screenshots, maybe
+saving videos, a lot of you guys probably already do that. But the reason why I take a lot of
+screenshots is ideally well even in videos right so I was like I was watching this liquid death
+how the hell they got so big and I was like okay this is this was a really cool shot I was like I
+just saved it because again imagine right if you walk in to grab a sparkling water or regular water
+and amongst all the plastic bottles you see this fucking can or this box of can that just stands
+out to you, right? Again, it's contrast and we'll cover a lot of that stuff but again,
+you guys are pretty good at that already purely because a lot of you guys are internet natives.
+So it's like just every time you stop at something after you've been scrolling for a while, ask
+yourself even subconsciously as to what it is about this video or this post or this tweet or
+this image that actually got me to stop. And it's just building that muscle day in day out.
+Another reason for doing that is just because if you take a lot of screenshots in Apple,
+they just indexes you. So every time I'm designing hats, for example, I'll just type in hats and just
+quickly go through all the... There's 892 screenshots of hats that I've taken over time,
+right? So it's like it just makes it so much easier for you to reference back. So even with
+the hoodies, right? I'll look at all my screenshots. Even when I was designing these, right? I think
+this was a 24-hour effort end-to-end where I looked at... I started with all the screenshots I had,
+picked the color, and then got references from the screenshots, my Pinterest boards,
+and things of that nature. So again, this is my workflow. Figure out a workflow that works for you,
+and we'll just make it better. And again, mine's a lot more visual, but it applies to even artists
+that are like musicians, like songs that really gravitated you towards that album,
+and things of that nature.
+So yeah, even with hats, these are some of the screenshots that I've taken.
+And even this one always stands out to me, which is like, even to this day, I'm like,
+yo, that kind of hat for houses would be fucking fire.
+It's a trailer reaction.
+It's not even the guy promoting the hat or anything, but it's just keeping your eyes
+open at all times.
+ultimately we landed on these. But yeah, so eyes open. So these are kind of like the concepts that
+we'll cover over the 11, 10, 11 weeks we have. The biggest one, again, I want to give you this
+again, day zero is eyes open at all times. Like do not let inspiration not be gathered around you.
+As far as the curriculum, how does this go? We're going to keep it pretty flexible. And after the
+first three weeks, we'll learn a lot more about you. Like you'll be posting, you'll be kind of
+doing a lot of shit on all the different platforms that you'll be telling us ideally.
+So that way we'll identify like the challenges you guys are facing week over week, right? So
+maybe you'll have a string of tweets that you put out that no one really looked at. So that way we
+can be like, okay, let's break that down. Let's actually see how we can improve that. I'll show
+you some examples towards the end too that we did last time. So just scheduling wise, next week,
+we're going to start off with marketing 101. That's with both me and Jeffrey. The week after
+After that, Writing 101, and we'll do design the third week or your fourth week at that
+point.
+That's 2.14, Valentine's Day.
+Special.
+DMW4 onwards, we'll freestyle it.
+So, like, again, based on what we're learning about you, whether it's how to tell better
+stories or how to get seen by more audience, all of those things we'll kind of, like, start
+to cover.
+So, yeah, pretty flexible.
+We'll also discuss and break down what worked and what didn't, ideally from your examples,
+but even if we find something that's really cool, we'll kind of like show it to you guys
+as to why that worked, why that didn't.
+A few examples of that would be like if you come across something that went extremely
+viral, like why did that go?
+And just have like open dialogue about it, right?
+As to like why do you guys think?
+And we'll do a couple in a bit.
+Or why did something not work, right?
+It's like, let's say Rohit has put five videos about his films and like literally seen by
+hundred people. Like, okay, how can we collectively come together to use our brains and brainstorm
+ways to make that better? And that's where the power is in many ways. This is eye mouth
+eye experiment. I think I've talked about this. I have. Everyone knows this, right?
+Now? No.
+No? All right, cool. I'll just, so this is an experiment I think 19 kids, like ranging
+16 and 21 did almost two years ago now on twitter where they all changed their profile pictures to
+imouth well bios and profile pictures to something mysterious right and it this was the age when
+clubhouse was blowing up tremendously so everyone's like yo all the vcs are like what's the next big
+thing i can invest in and be like yo these 19 kids are up to something and all of a sudden they all
+like they put up a donation like if you put if you donate to these five or six
+causes that they had listed on that waitlist site will bump you up the
+waitlist and essentially what ended up happening was all these VCs donating
+hundreds of thousands of dollars to get pumped up and then they kind of like
+just be like oh it's just we're just trying to raise money and we want to
+show you how crazy the world is where you'll be donating a hundred thousand
+dollars to a random like to a cause with an app attached to it but as soon as
+like you realize that oh it's just a bunch of us that have changed our Twitter names and they posted
+up a couple screenshots too but really fun experiment to look back to because they generated
+so much hype because people legit thought that me changing my bio to iMouthi is going to get
+me higher on the waitlist. It was just this viral experiment that they did. So yeah timing was
+perfect and people at that time were really like on eBay selling their clubhouse invites for $800
+So they really capitalize on that, that time specifically.
+The other one that had happened recently, uh, who hasn't seen this?
+You have no idea what that is?
+Uh, looks like a rabbit.
+Wait, who knows what it is?
+All right, cool.
+Can, so, uh, can you tell me what is that?
+This is like an AI-powered tool, like the one that is supposed to replace the icon
+to be the next icon.
+Yeah, so essentially it's a handheld pocket device which you can just talk to and it has a camera so it does like GPT vision stuff but you can ask it anything that you would ideally ask like chat GPT for example.
+It also has like cellular connectivity so you can order DoorDash by just like using your voice.
+and I'll cover more.
+So they posted this keynote on their YouTube channel,
+but I watched the keynote that had 2,000 subscribers
+and maybe 100,000 views, which was like the first day.
+But today it's at 29.1K subscribers
+and this has been seen by 5 million people.
+But what's more interesting is if you can actually like go
+and look at their social blade,
+you can see exactly that they didn't have much except that product on that keynote, very well
+flushed out. And now everyone is talking about it after CES. And even if you go to the founder's
+Twitter, he was like, oh, we would have been happy if you got 500 pre-orders for the Rabbit
+R1. I think they're at 60K pre-orders right now. So why did that work? Well, one,
+the timing is crazy right now all the ai stuff is getting a lot of traction especially if it's
+a good product this was and most of the time it's like ai software this was like one of the few like
+indie companies that was doing ai hardware and how it worked and there was also like a couple other
+elements to it like large language models is one aspect but like taking an action based upon a
+large language model was what they called the large action model that was also something like
+new, something innovative. And it looks cool. The Teenage Engineering designed the physical product,
+which just got more and more people to share, talk about it. MKBHG talked about it.
+All of TikTok was talking about it. Tech, TikTok and things of that nature. And finally, it's $1.99
+to pre-order and there's no subscription, right? So in a world where so much of it is SaaS,
+They were like, no, it's just $1.99 one-time payment, and you're good to go to use it forever.
+So all of that kind of played a part in them having the success that they did, along with the
+fact that they did have a lot of money to go through and wait to really fully unveil the product.
+Any questions here? Anyone pre-order it?
+No.
+Where's that?
+But yeah. So we'll cover these kind of things. So even if you find something that you feel is
+interesting and about how it works just send them our way and we'll kind of like talk about it
+the other part of dmw is mental models and stories so we'll cover a lot of these just based on our
+experiences uh so one of them is for example chopping wood collecting sawdust does anyone
+know this mental model no not a single one so basically it's like as you're working as you're
+like cutting wood there's all the sawdust that's around you what's a way to actually like gain
+audience by just showing them the sawdust. So showing them your process. So in this case,
+like if you're making music, if people, like just be as authentic, but like I'm making a beat
+and just live stream that. You're already doing that. So it's like, what's there to lose, right?
+I'll talk about my barber's dilemma. I recently met up with my barber after I came back from India.
+And he's like, bro, all these Gen Z barbers on TikTok are blowing up because he's getting all
+them. He's seeing them on Instagram as well. He's like, what should I do to like make business flow
+into my establishment? So I kind of like walked him through like very simple things. It's like,
+so can anyone tell me what can he do before I tell you what I told him?
+Okay. So that's a perfect example of like, he's already cutting people's hair.
+Just put a fucking camera and let people watch you cut people's hair. There's nothing to lose.
+at most you're still at zero with having not done anything what else can you do
+hairstyle advice on youtube okay so like i'll kind of like comment on that a little bit so
+that's not like truly chopping wood collecting sawdust but it's like with all that experience
+you can still grow an audience so i'm thinking like why the person i saw this uh uh youtube
+like while the person's like having a conversation with the barber about their hairstyle,
+they record that part of the conversation and just record it. So it's still kind of a-
+Perfect, perfect, yeah.
+Before and after.
+Before and after, yeah. So basically, yeah. So he's cutting hair for 10 hours a day,
+just for more context, right? He does not have time to grind on socials. He just doesn't.
+So I was like, okay, it's like, can you incorporate content into your existing workflows?
+So what does that look like? You make it interactive. So kind of like having stories
+with the chat and then doing live streams based on that.
+There's many people already doing that on TikTok.
+You can do a before and after.
+Or it can just be like, yo, I'll give you a five,
+like, you know, people may be like, oh, why would I do that?
+But like, I'll give you a $5 discount
+if you just let me do a before and after shot.
+And people are like, oh, I save five bucks right now.
+What's the big deal?
+I would do that every single time.
+The other things, like, it's like as,
+and then if people are watching
+and you're like just being consistent with that,
+You can do things like Barber Reacts, which is what you were saying.
+It's like you have people tag you.
+Anytime you see a shitty haircut, just at me, right?
+So then I can react to that.
+You see a lot of that stuff as well.
+I'll do what the comments say.
+This one is massive, actually.
+You wouldn't believe it on Barber Talk, where you have shit like you'll spray water on their head without stopping.
+So I just keep spraying water on the kid's head.
+and the videos are literally comedy goal and really get into the stream or like randomly start
+spitting the chair without stopping right so it's like i'm getting kind of dizzy it's just really
+funny content that you can just like incorporate uh so yeah be creative but ultimately like just
+make it fun for yourself because if it's fun for you the people will see that yo this guy is
+actually having such a fucking great time doing this there was another kid who was
+he had a cam on and he was literally live streaming all of not live stream but making
+videos but also live streaming sometimes all his doordash deliveries because on his bike
+has anyone seen that yeah so like those are also like extremely extremely like interactive and fun
+so it's like again you're already doing the job which is like delivering doordash to your customers
+can you add this layer which can actually just make it easier for you to grow your audience
+without really doing that much work because yeah, social, like grinding on socials is, uh, in fact
+like very difficult if that's like the primary goal. A lot of times like I see like stuff like
+coding week, marketing week, but it's like okay can you just make it so that it's not that much
+work for you to like have to completely separate out those two things because it requires a lot of
+context switching as well. Uh, another one, uh, another kind of like story I guess is do not be
+afraid to do cringe shit. A lot of times, like, you know, we want to be like, excellent, we're
+also culprits of this. I'll use an example of Drew Walls. Is anyone familiar with Drew Walls?
+Mike. Oh, yeah. So it's basically target run. You know what the target run is on TikTok?
+So it's literally you put a video. Can we show one? Let me show you guys one.
+We should be able to get our audio.
+So like this is one of the tamer ones, but imagine right every time he's setting up his
+tripod and doing the activity again and again, there's like again shots of him like setting
+up the tripod, taking the car out and then backing it up so that he can get that shot.
+And then on the other side you have people doing, seeing him do this shit and also posting
+you like hot through walls.
+again, I think someone said, this is so stupid, which was the criticism he got for the longest
+time.
+Yo, why the fuck would you spend this much time to do this?
+Right?
+And again, like the entire, or a part of the internet was literally like shitting on this
+dude for months for setting up the tripod again and again and again and again.
+Till the point this happened.
+Anyone seen this one?
+Oh my god, we need a DMW culture class.
+All right.
+Drake Walls.
+Let me just see if I can just get it on here.
+But it's like an entire 30 to 40 second video of Drake kind of showing you his knight.
+the funniest shit.
+So they kind of validated this guy, right?
+And it's, again, it's really funny,
+you should go check it out.
+But after that, he got signed with ESPN and NFL.
+So essentially,
+you have the Baltimore Ravens
+and whatever the fuck the other thing is,
+the Houston Texans.
+That I think...
+Why did he get signed?
+Well, because he's blowing up.
+He's, again, commanding attention right now, right?
+And a lot of it is, again, it's like...
+The best way of explaining this is Super Bowl's coming up,
+there's playoffs are going right now,
+and a lot of people don't know
+that these things are happening, right?
+And he's part of culture right now,
+So for them, it's like pretty cheap, like $140,000 was the deal that he signed to just get him to create this content.
+And again, 20 million views on this.
+It was literally like him putting on or getting ready for the game, kind of like Day in My Life, getting ready for the game.
+Kind of like Drake's was getting ready for bet, right?
+And he's continuing to do that.
+And you had a lot of other creators, also big creators, come in.
+There's many Day in My Life Drew Wall-style videos now.
+So it's just, again, cringe shit can actually, like, if you have that much conviction in it, it can lead to something much bigger.
+So you do have to do things which people will think, oh, it's stupid as fuck, or, yo, it's so cringe.
+Why are you spending so much time?
+But, yeah, stuff like that, like, we'll try to cover over weeks or weeks.
+So keep at it.
+Again, finally, I don't think finally, open dialogues.
+So these are going to be, again, as you guys go out into the world, maybe do cringe shit,
+or maybe post stuff, we'll capture a lot of that stuff
+and we'll just have open conversations about it
+and maybe how you can improve it
+or what worked, what didn't work
+and how other people can probably take the learnings
+that you've had into their craft.
+So this one was Mylene's last time
+where she tweeted that,
+yo, I'm going to create this new site
+where people can get letters from a stranger.
+So you, as a stranger, you write a letter, it's kind of shown to a random person.
+And it did pretty well.
+It got 14 comments, 3 tweets, 151 likes at the time, about 10K impressions.
+How can you make something like this go viral?
+Let's just kind of like brainstorm here.
+Any ideas?
+Make it a real.
+Make it a real?
+Okay.
+Yeah?
+Get influencers to write letters.
+Get influencers to get letters, OK.
+Well, like she said, if you could write a letter to a finger,
+what would you say to encourage comments?
+Mm-hm.
+Of the .
+Maybe writing a letter to someone who comments.
+OK.
+Yeah?
+What time could have been more, I think,
+I decided to focus more on shipping things that bring me joy.
+Yeah.
+Maybe I could just learn later.
+And then maybe I could just have a .
+Yep.
+Setting up a camera for going to Target.
+A letter.
+Before you stop writing it.
+Yeah.
+Or just printing out the letters and just dropping it in cars.
+This was a letter from the street.
+There's so many things you can do with this, right?
+I think the things that we talked about last time is like on my Instagram or one of my Instagrams,
+I have all these kind of like posts that come up, right?
+It's like people just reading their poetries.
+Anyone seen those?
+Anyone get those?
+So it's essentially like people just reading poetries to you.
+And it's a pretty big community.
+all of them like Akira poetry, Leslie poetry, they've all garnered a lot of
+attention from it and this is like also one of the things that you can do where
+you essentially take all of the letters, print them out and just read them to
+the audience. So someone said, someone mentioned make them a reel, right? So
+there's many ways to kind of like go about it rather than just like visual
+text to attach yourself to. You can also, like as you build your audience you can
+funnel it to that book, letters from a stranger book that you can essentially
+go through KDP and have it delivered to people's Kindles or in physical format.
+And that's also an avenue for monetization. That's what a lot of these
+kind of creators do on Instagram where they'll be literally be
+reading pages from their books but you can also buy the entire book on Amazon
+for yourself. So funnel is pretty straightforward. This was Subi Tech. He
+He had made this Twitch, which essentially you can ask questions to, of Paul Graham.
+And he used the Wave2Lip syncing model.
+It's just a video with the Wave2Lip where any time Paul Graham says something, it seems
+like his lips are moving accordingly.
+And he's answering the questions in Paul Graham's voice, which was just done through
+via 11 labs.
+And how do you make something like this go viral?
+It actually did pretty well.
+had about 25, 30k views.
+And we actually used it, maybe if you saw AI Drake
+on Buildspace's platform last,
+that was done using Subitech's tech.
+So what else can you do to make something like this go viral?
+Or just get it seen by more people?
+Make the actual Paul Graham retweet.
+Make the actual Paul Graham retweet, yeah.
+So if you look here, right,
+I think the real Gary 10 was commenting here
+and asking Paul Graham questions,
+they're just hilarious, right?
+and that was actually a tweet that he did as well.
+What else can you do?
+Go and ask people real life,
+and then livestream it.
+Yep.
+Make him take off something controversial.
+Make him say something controversial, cool.
+Shop for Chris family.
+Yeah, 100%.
+Like there's so much content here.
+And you see so much of that even with like a lot,
+like now the problem that I face is like
+anytime I come across a Rogan video,
+I don't know if it's actually from the podcast
+or if it's AI generated, right?
+Because it's kind of like taking over in many ways.
+So yeah, in this case,
+like I would literally just spin up four other bots,
+like not Elon, not Zugg, not JRE, not Uberman.
+Or I would do like, if I'm trying to get
+a completely different audience, right?
+Because even this kind of audience is like
+just in this bubble of tech.
+So just go not I show speed, right?
+Where it just hits a completely different audience.
+And then you can really do like speed saying
+some controversial nonsense.
+So that would blow up.
+And you have one kind of like repost or something from speed.
+They add and say that.
+You can really kind of get people to attract to this.
+And then you can, how would you productivize this?
+Just allow service for anyone to take their YouTube channel
+end our podcast and make it into a 24-7 stream
+that you can ask questions to.
+Any other ways you guys can think of that you
+can productivize this?
+I would like to have you talk about really, really
+mundane stuff.
+Like, I like to cook ramen noodles with, I don't know,
+70-degree water.
+And you just have a bunch of random clips of Paul
+saying this stupidest thing that aren't necessarily
+controversial because I think like controversial would be like a way to get a lot of attention
+but I feel like some of that may not be as fun you know might get really upset so that
+could generate attention but it might not be like full of money. Yeah. I've seen this
+new trend of like uh most like shopping network style TikToks that are selling all these products
+you know all grams selling like toilet scrubbers and stuff.
+Yeah, 100%.
+You could offer us, are we doing our product size
+or go in the title?
+Anyway, either, either.
+Another product would be people who have a lot of articles
+or posts from 10 years ago and saying you can convert it
+into a bunch of YouTube videos for them.
+Yeah.
+Take their actual words and just put their names in points
+and post them.
+Yeah, so many of TikTok is doing that now, right?
+It's kind of crazy.
+You know how parents want their kids to read more?
+Most parents spend a lot of money hiring people to read to their kids.
+Just do that. Any book, any reader gets your kids to have them.
+Like Drake reading to you? That's fucking fire, dude.
+Can you do the same thing that Otto did where it just turned into a TikTok?
+An NPC, yeah. So basically that's what he did.
+He used Subi's tech for it, yeah.
+But yeah, there's so, again, it's so open-ended, right?
+Yeah, go ahead.
+Oh no, no, I'm discussing that.
+I'll bet.
+Yeah, you can also do like AI cameos
+for like, you know, ask Taylor Swift anything
+or ask BTS anything.
+There's so many ways of kind of like turning this around.
+And yeah, like Prady actually,
+another student in SF1 built on top of it
+and he's just like, oh, here's the same video
+but with a better lip syncing model.
+So now it's actually like indistinguishable.
+So it's like composable, right?
+having your shit be composable
+so other people can build on top of it.
+And I think there's a lot of composability
+even amongst all of you, right?
+Like Kareem built something, Person X
+kinda like builds on top of it.
+Just like to get attention at the end of the day
+that yo, I'm a builder, I'm building some cool shit,
+I'm building it here.
+Also cover some lessons and learnings as part of DMW.
+The first one is don't overcomplicate shit.
+A lot of times I personally get so many questions
+this right should I use framer or figma should I use Adobe Premiere Pro final cut
+pro should I be more active on Twitter or Tik Tok I'm like at the end of the day
+just pick a path and go like as simply as that and I'll use a very simple
+example but ideally you want to just optimize for the time to ship and how
+long it takes for you to like either learn a tool or get familiarized with
+it so that you can ship right so for me I don't know if you can see that can
+Can you guys see that?
+Can someone tell me what that is?
+Yeah, basically, right?
+It's the Buildspace landing page.
+I legit went from this to this.
+So it's like, again, just get the concept here
+in your head and just go.
+And to me, yeah, I could have taken this to Figma,
+but again, I know what my level of skill is
+and how much it would require for me to go from A to B.
+And for me, going from here to here
+was not that challenging,
+so I just went and did it.
+It's not that big of a deal.
+So it's like figure out those thresholds for yourself,
+and again, optimize for speed more so than anything else.
+Did you use Webflow today?
+Framer.
+Framer.
+Cool.
+Lesson number two.
+We'll go over this again,
+because I don't think people understand
+how much of an impact this has had on many different lives.
+But a lot of people don't see that how much
+the internet has changed the landscape
+for builders and creators, right?
+So even something as simple as like doing a thought exercise
+for yourself and your domain and seeing that,
+yo, if I was reaching out to food trucks for my company,
+how much different would it have been 20 years ago
+or 25 years ago, right?
+if I'm selling music or if I'm making music, how different would it have been for me to
+distribute music 20 years ago, 25 years ago? And a lot of us, I don't know if there's
+anyone here in the mix that will not benefit from using the leverage of the internet to
+some fashion for whatever it is that you're building and putting out in the world. And
+it does not need to be perfect. There's only very few people, we were talking about this
+the other day in the office the lab where someone like Christopher Nolan can get away without putting
+something out for three four years and then he just drops a trailer and we'll all flock like
+chicken to watch Oppenheimer four times right but like most of us are not in that shoe and it's
+actually beneficial for us to like just tell people because you may have a one true fan or
+ten true fans that are looking up to you for inspiration as well so just kind of like showing
+them the process, telling them what's on your mind just authentically creates a lot of just
+trust. So again, music early 2000s versus now where you have literally people hustling
+on the streets 10 hours a day distributing CDs versus now you can literally just, you
+have so many ways for you to get your music out there. Like who's familiar with the story
+of lo-fi girl yeah well if I girls really interesting if you go look it up it's
+just we actually still don't know who makes it it's just this online presence
+called Dimitri and he just started this in his dorm room apparently and over
+time he just keep posting the faceless lo-fi girl channels but what has become
+is that lo-fi girl now has his own merch store which is not that interesting
+really but it has a lo-fi girl record and if you go on lo-fi girls site you will find all of these
+lo-fi artists that have signed with lo-fi girl so it's actually like not it's actually kind of a big
+deal to be signed with lo-fi girl records and lo-fi albums but also are just by some random person
+just like grinding to make this place this channel how many of you been on lo-fi girl like the
+channel yeah yeah yeah even like just getting your song featured on a stream
+is a big deal because there's like 12,000 fuckers watching that shit at the
+same time right it's like all of a sudden you went from zero to 12,000 and
+again all started by a kid and now has that much distribution all because of
+the internet
+that MTV were a huge fan.
+Yeah?
+For a certain job.
+Yeah.
+Because you used to get on MTV
+to write them a big deal.
+And now there's literally,
+like there's Hindi lo-fi.
+What was the one you showed me today?
+Catholic lo-fi.
+Catholic lo-fi.
+There's all sorts of lo-fi, dude.
+It's like, if you're a musician in the lo-fi,
+you find your niche and hit them up.
+You're like, yo, I'm creating some banger tracks.
+Feature me, bro, for free.
+And I won't hit you with a copyright.
+What makes Lo-Fi Girl also very unique is that when Lo-Fi Girl came out, it took a stance.
+I believe that I found out a lot of conviction.
+You can repurpose all the Lo-Fi Girl music without any cost to you.
+You could stream an hour of video and use all Lo-Fi Girl's music.
+They even tell you that you can use it, and it's all for free.
+And a lot of people, if you look at the history, a lot of people are like, this sucks.
+but it's a great distribution for many of these
+lo-fi artists.
+And I think some of them have gone on
+I don't remember a name to make music with gaming
+because lo-fi music and gaming kind of mesh as well.
+Yeah, many opportunities for sure.
+Even on TikTok.
+But have you guys seen these kind of channels?
+That's how I find new music nowadays, right?
+Because that guy has a Spotify playlist, but I'll literally just go through his videos, 15 to 30 seconds, to see if it's a banger or not.
+That's how I found Zurb's Mwaki, and then also like CK's Lovantiti, right?
+Even this one was made six years ago, and it blew up on TikTok last year, or the year prior, and just took over.
+Changed his life.
+It's like, you don't know if you put out a song today, it may blow up tomorrow, it may blow up, like there's no fucking downside of putting out a song.
+like legit. Yeah like even Zurb for example has like now like if you look at even the first few
+videos like for musicians especially but even for everyone like you'll see how much of those one or
+two inflection points just completely changed his life. I think there's one video where he was just
+listening to BBC Radio 1 and his song popped up like that's such like a feeling of achievement
+for him but again he's if you just scrolled you can see like he was just grinding putting out
+songs. The last thing I want you guys to take in, like, and there's many examples here where
+don't try to put out like a perfect piece, just kind of like put out something every day. It's
+kind of like the lottery in many ways. You get unlimited tickets every single day,
+but you cannot, like, the more tickets you buy increases your chances of winning the lottery
+at some point. Actually, here's a question. Any of you guys in the little group in which you
+you will share these things with each other
+and analyze what works, what doesn't.
+If you're not in a group like that,
+just start forming a little group.
+Like we have, well, man, we have too many little groups
+where we share very specific TikToks.
+A lot of us is just goofing around,
+but we will also sit down, you know, like,
+oh, why did this work?
+Why did that work?
+Or so it's really good to have like two,
+just two or three other people to be able to share
+all of this funny stuff or whatever that works
+really like analyze and bounce ideas off of it.
+Is it important that it's a group or is it important that you have two to three people
+that you can share stuff with?
+It doesn't really matter.
+I mean, it starts with yourself, right?
+Don't just mindlessly watch TikTok, like analyze like what works.
+And then the second thing is if you have another friend that will do this with you, that's
+really helpful.
+Yeah.
+It also like kind of like decentralizes your workload a little bit and just like making
+sure you're like caught up, right?
+I know like none of these guys would send me like a drew wall stuff. So I'd like a different group for that
+I'm like, yo, this is this is happening. We gotta figure out what the fuck is going on here
+Yeah, it works for anything
+Yeah, so anytime like you like again, all we want you to do is even if you're spent
+I don't care if you spend 10 minutes mindlessly scrolling or an hour or 10 hours
+But just convert it into like intentional scrolling where you're actually getting something of value out of it
+And that often starts with just the basic question of asking yourself, in this sea of
+videos, why the fuck did I stop here?
+What was funny about it?
+And that'll kind of like get you to understand yourself better and then you can trickle that
+out to larger and larger audiences.
+Even as organic, like my brother and I, he's an artist and we just organically started
+doing this.
+Like, they're tired of hearing this.
+I've been playing GTA V a lot.
+because I'm so fascinated by GTA 6 trailer and the impact on its fans.
+So I play that game, but now my brother and I are just sharing constantly like,
+whoa, like why did this game hit for people?
+Like what's the story structure of this game?
+And then just organically now we're just sharing a lot of these things.
+So it's great for, you know, building a relationship with your families.
+That's strange as well.
+so yeah like at the end of the day like what remains consistent is all of you guys gotta get
+your shit seen to some extent is there anyone that believes that yo i actually don't need to
+get my shit seen not a single one all right so yeah get your shit seen be consistent get your
+I put up this picture often is because,
+you know, I was recently rewatching
+three billboards outside Ebbing, Missouri,
+where the power that a billboard used to have, right?
+And even I think that's in New York,
+where you just see all these different like ad spaces,
+where when you actually like trickle down
+where attention is, like why would someone like,
+why are billboards in Times Square so fucking expensive?
+because they have so many, a large volume of people, and they believe that, again, we're
+competing for attention space. That's not that much different now, right, which is like we have
+this, but even if you take this one step further with Reels, like that's where most audience is
+engaging with the platform. So figure out where your audience resides, whether it's on Nextdoor,
+right, so even if, I'm going to use Nextdoor as an example, but everyone knows what Nextdoor is.
+So Nextdoor is a neighborhood app, essentially.
+Right?
+It's like micro-communities, essentially, of neighborhoods.
+So it's like, think about how people are using a Nextdoor.
+And if your audience is on Nextdoor, how are you going to make sure they find you?
+Same thing with like a Facebook group is a great example of that.
+Reels is a good example of that, too, because for a lot of people now, like using Instagram is 70% scrolling Reels.
+Right?
+Before it used to be the explore page that you see here.
+So it's like that's where attention has shifted even within the app.
+So it's like how can you beat that, like how are you competing in that space?
+Because that is where attention lies.
+So figure out your audience, figure out where your audience resides,
+and what are the avenues of getting attention of your audience on that platform.
+That's very important.
+A lot of us don't use Twitter now because we legit, like,
+do not find that much value from it, right?
+So it's like, how, how, we still have that time.
+Where is that time now going?
+Probably on TikTok, probably on Instagram.
+Maybe on Hacker News.
+For a lot of you, Hacker News may be a really, really good option.
+So, yeah, figure out ways to stand out.
+Figure out ways that you can stop people's scrolls.
+Again, I feel like beating a dead drum, but it's free.
+You do not get charged to post on Instagram, TikTok, Twitter, Hacker News, whatever the
+fuck.
+They do not penalize you for posting more than once a day.
+Why would a platform, let's say if I'm building an app, a social media networking app, why
+would I penalize my users for coming more than once to my app and posting shit?
+That does not make any sense.
+And they want you to be consistent.
+They want you to add value to the network.
+And all of you guys here can add value to an existing network.
+I'm 100% sure of that.
+The algos are really good.
+Like, is Amit here?
+He showed me Mini Katana.
+You want to tell that story, bro?
+Yeah.
+So basically, this guy started a company called Mini Katana.
+It's made small swords, like two years ago in LA.
+And he just found a really interesting, inclusive strategy
+where he's got these eight or 10 content creators
+to put out a video every day.
+And he would just send a script at 8 AM,
+just approve the scripts that he liked, kill the rest,
+those people would make videos, and just put them out there.
+So if you like this factory of content coming out,
+just approve the scripts, you'd be like, that's it.
+Put them out, do that every single day.
+That was the entire marketing strategy.
+No, the only money he spent
+to a solo operator, and that company
+made like hundreds of millions of dollars.
+This shit?
+Yeah, I'm just like super niche.
+Who the fuck would you think is buying this?
+But yet, millions of, because it captures that niche.
+Go ahead.
+It's really cheap as well, like it's like $2 or something.
+But it still made like six figures like profits per year just from doing this.
+And now actually if anyone wants to, they have a Discord group as well, but they have a big
+bunch of the time, you're going to do this and get, and like you can kind of just sell
+them, send them your product and they do this for you, like, and you do this for you.
+Beautiful.
+It comes so much to the video, I think, like, you can come to the place to the end.
+Love it.
+Dude, there's—
+It reminds you of one—go ahead, Jeff, as I show this one.
+This brings up a good point.
+I think it's just kind of a good practice.
+an unlock would be, especially if you're doing like content
+or art is to take time to figure out how,
+let's just watch this first.
+Oh, I have like 10 of these saved bro.
+Everyone's seen this?
+This fucking guy is making a fillet in his dorm room.
+And all of it is essentially just him doing it
+using that one tool.
+and he has hundreds of these.
+It's called the lazy pot.
+Right, he has a link to buy it.
+Gordon Ramsay fucking restitches his TikTok
+and reviews his filet mignon.
+It's like, imagine, right?
+It's like, okay, you have this one product,
+and if you're like, no one's confused when they come here.
+Then what is it this guy is doing?
+Right, so it's like, if I look,
+if you, the way I explained to you and Josh this morning
+was me scrolling here is no different
+than me watching a trailer of your movie, right?
+It's like, if the trailer's not good,
+there's no fucking way I'm gonna watch the movie.
+Mylene's another great example, actually.
+Let me just pull her up.
+So she was at like 580 followers not too long ago,
+but if I scroll down a little bit,
+you can exactly pinpoint where she started to blow up.
+It's not that she was not making content before.
+right but then she kind of like started doing something else which was hey i'm gonna share
+23 lessons from 2023 by a 20 something year old and one of them blew up which was the one she has
+pinned uh it was less than six i believe this one and people like yo lesson six was banger can i
+just quickly go to her page and she's like yeah the trailer had less than five less than four
+less than three and they all just watch it and over i think i don't even know how long it took
+her to get to one okay 108 k followers but it was like two to three weeks
+so again just make it very simple and obvious for people to understand what are you doing man
+do not be nolan day one
+So, yeah, algorithm's really good. If your content is good, it's going to surface it to the right
+people. Being authentic is rewarded. So, again, and there's billions of eyeballs. Just show up
+every single day. And, again, make it easy for your audience to understand what you're doing.
+So, yeah, keep your eyes open. Inspiration's all around you. Identify your openings. Shoot.
+it's okay if you miss shoot again finally some logistics these will be
+every Wednesday at 2 p.m. I think historically three is probably better
+because everybody eats between 12 to 2 right does to work for everyone cool
+we'll do two maybe three but two yeah so with SF one especially as it went on we
+saw what was happening and we covered it live and it became like so much more
+interactive uh an example of this is proddy's tweet right everyone's seen this tweet by proddy
+or a lot of you it blew up but even when he was making this tweet we like we were literally working
+on the tweet together before he shipped it he's like bro i think i'm gonna put it on out on sun
+on monday because monday is the best time to post on twitter and i i it was like friday i was like
+what why the would you wait till monday to post it and he's like you know weekends ain't it right
+It's like people don't like, like Twitter doesn't like it if you post it.
+I'm like, okay, so you're telling me that there's less people posting on the weekend.
+Doesn't that mean it's even better for you to post on the weekends because you're competing
+with a much smaller audience of people that are creating content?
+And he went back and he posted this on Sunday.
+It did really well.
+Again, to prove that, again, like your timing's not really going to make or break the video.
+The video's got to be good to some fashion and hook the audience.
+So again, we'll cover a lot of these as we go through.
+So, and again, he got 3 million views from this.
+He had 800 followers at this time.
+So again, a lot of you may think,
+oh, he blew up because he had 10K followers.
+Not true, right?
+The video's good.
+People are finding value.
+Again, are they sharing?
+Are they engaging with it?
+Are they commenting on it?
+Is there some value that they're getting out of it
+and some wow factor that's going to get you
+at least much farther than you think?
+So yeah, we broke this down during class.
+So again, urge you guys all to do shit.
+Next week when I'm giving this talk,
+I wanna use some examples from shit you have done.
+I wanna pull up one of your videos, Rohit.
+Or Matei, I wanna see your product.
+Something that we can work with that'll help not only you
+but also the larger group here.
+We'll find it.
+Don't you worry.
+We'll find whatever it is you're doing online,
+whatever it is you're sharing to the role
+and we'll figure out ways how you can improve it
+or pat you on the back three times.
+I don't know. We'll figure that out.
+Also, if you come across something interesting in
+your journey of intentional scrolling,
+please share either to Jeffrey or to me.
+Just DM us on WhatsApp.
+And again, just look around, right?
+Everyone here has something to offer to you,
+and you have something to offer to them.
+And I talk to a lot of SF1 students even to this day,
+and this, what was Andy seen from The Office
+where he's like, yo, the good old days
+where I wish I knew them when I was, this is it.
+Make the most of it, and make the most of these three months.
+We fully believe you got this, and welcome to SF2.
+Questions?
+Any questions?
+Yes?
+Is there a limit of how much you get posts in a day?
+Did you send more than one?
+Yeah, no, there's no limit, man.
+I mean, just don't bot it, right?
+Yeah.
+Like, as a human can actually out for like, just, yeah.
+But the fastest way I've personally grown is between three to five posts a day.
+A great way, you could probably do three solid posts.
+You have 24 hours a day divided by three.
+That's how much you wait to post in between.
+You know, just, yeah.
+You post three to five times a day?
+Yeah.
+That's why I'm not.
+How transferable are those skills from one platform
+to one medium or more?
+Very transferable, yeah.
+Well, asterisks, massive asterisks.
+But yeah, again, don't overthink it in the beginning.
+As you do more of it, you gather the data that's like,
+Yo, people are not fucking with this kind of content
+and they change it up.
+Even with every video you post also,
+it's like rather than you having to wait one week
+and post that video and then learn from it
+and wait another week to post the next,
+like yo, just learn every single day.
+What's the best way to do that?
+You're gonna get discouraged if you feel like,
+I need to try to go viral.
+It's more like you're trying to understand
+who's interested in your stuff.
+That's the most important thing.
+And it doesn't matter what you're doing.
+If you're an artist, you're doing content,
+or if you're building a software product,
+you're still doing the same thing.
+You have to be out there to figure out
+who's interested in your stuff.
+What do you do with finding out who's interested in your stuff?
+We can cover that more, but on a very quick one,
+if you look at Prady's, right?
+Turns out what he built is very interested
+to a super large group of people, right?
+Everybody's interested.
+But let's say today you put out something,
+and only 20 people liked it and commented,
+but let's say those 20 people are all from
+a very niche influential crowd,
+why would you care somebody else likes it?
+You know what I mean?
+Yeah.
+Yeah, I think Jeffrey said something important, right?
+Which is like, do not align yourself to the outcome
+before you actually start to do the work.
+Like, oh, I don't want,
+like fetishize over the goal
+of just fucking going viral, right?
+Like that's not the point here.
+It's like just showing up consistently
+as if you're showing up to the gym.
+And just learning and evaluating,
+how is your content doing?
+Are people liking it or are they not liking it?
+Thankfully a lot of these tools provide like deep insights
+for you to actually just like see.
+Yeah, the only Buildspace video that truly has gone viral
+is one that's nothing about Buildspace.
+It's Alec and Ahmed reviewing a fucking app.
+Which one? Apple?
+Yeah, the Apple one.
+The one with the screen sharing feature.
+Yeah.
+Yeah.
+Let me show you guys.
+We're hyping it up.
+I'm sorry.
+host whisper oh so cool yeah you get the point but you'll figure that out over
+time
+that he matched it together and he turned it into this,
+he told me to do this finger thing.
+That finger thing is not a real feature, not a lot.
+He's like, oh, you do that, and then it becomes smaller.
+And he saw that as a piece of information,
+and he was like, wow, people would be really nice about this.
+Wow, that's a lie.
+That's a lie.
+Like, even that in itself, right?
+It's like, you got all these homies at home
+trying this now, right?
+And now they're coming back and commenting, bro,
+it didn't work, it didn't work.
+It's like engagement.
+Like figure out those kind of like...
+Now Apple's gonna make it.
+But all I'm trying to get at is even genuine...
+I think that video works really well
+because it's a very genuine feeling like,
+wow, this is incredible.
+So if you can capture literally anything you're doing
+while you're walking outside to,
+holy crap, I just made the sickest beat ever
+and you pull out your phone and it's recording playing it back,
+like that will come up very genuine
+to people that are watching the videos.
+All right, that's it.
+Hey guys, before you go, oh you can clap first.
+So, I thought of five things we could do to make the kitchen like 99% better.
+I'm going to post in the Whatsapp group and I'll put it out there.
+So, I'm just going to tell you the first time.
+So, don't wash anything by hand unless it's like shared use.
+So, the milk frothing, the hot pot, the blender.
+Wash those by hand.
+Wash it right away and then dry it and put it back
+Don't put those things in the dishwasher cool
+Second thing rinse the coffee equipment, but don't use soap and don't put the dishwasher just use water rinse it put it back
+That's it okay
+Anything else always put it in the dishwasher
+Cups on top plates on the bottom
+But and use these you know the green glass cubes use those to keep the cups from falling over they fall over and they break
+So that's kind of like a weight and then only stack the dishwasher
+You don't need to turn it on or empty it ever just stack
+Okay, and if it is on there will be a sign so you'll know if it's on to not stack it
+That's all you have to do and then just like wipe any spills and stains on the counter
+That is it that is all the dishes
+What do you do? Oh, just put them in the sink. Yeah
+And one more thing, the last thing.
+I just want to ask you guys all to post stuff, send it to him.
+You're likely to share things with each other as well.
+As you do things, as you post them in the real world, your tweets, your TikToks, whatever,
+just go in the group chat.
+Please, don't say nonsense like like, comment, retweet, okay?
+Just say, shipped, colon, and then the link.
+And if we want to see it, if I like the thumbnail, I'll click it.
+You don't have to get the people around you here to watch it.
+If you want to click it, don't click it.
+I don't want that little chat becoming an engagement group.
+Just make it like a...
+Just put it there. It's almost to watch it.
+But we'll be watching that group though.
+As you do stuff, as you put things out, we're always watching that group.
+Thank you.
+Cool.
+Thank you.

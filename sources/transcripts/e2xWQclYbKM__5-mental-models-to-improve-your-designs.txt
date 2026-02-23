@@ -1,0 +1,442 @@
+and yeah improve it over time all right yeah finally some mental models yeah these are just
+tools don't fall in love with the tool would you fall in love with a fucking pencil no right
+it's the same thing please know who you're building for so this is kind of cool where
+what is this app right everyone knows this is netflix this is again like for a very
+like straightforward like and defined set of audience and what is this app well i've written
+it down it's it in china but like a a north american audience would probably be like what
+the fuck is going on here there's live comments share to earn prices a way to screenshot a way
+to record gifs you can literally like you can buy dolby atmos for a video just for that video for
+like pennies on the dollar, right?
+But this is, again, in China,
+they're really used to microtransactions,
+like hyper use, like they don't mind.
+Like for example, you can read 70% of a book for free
+and then you can pay for every thousand words, pennies.
+Like it's like shit, like we would just win the note,
+like how many times we just buy books and never read.
+So it's like, this was their effort
+to get more people to read.
+But like one, the infrastructure is not there
+in the United States with like the large banking systems
+to like allow for like transactions under a penny, right?
+But that's possible in China.
+So it's like, again, know the audience,
+who you're catering to.
+This is also like why I asked you
+the audience question yesterday, right?
+Is my audience Indians?
+Is my audience Indian Americans?
+Is my audience third culture kids?
+Like who is my audience and who am I writing to?
+And over time, you can define that further and further.
+And that's across the board, right?
+Like I used to have this one creator I was incubating
+where she, one day she would sell Pantene ads,
+the next day she was doing head-in.
+I'm like, dude, what are you doing?
+You're losing, your audience is losing trust in you
+because every day you're pushing a new product.
+Right, so it's like just be consistent
+about what it is that you're trying to do
+and know your audience
+because they can also like
+slip through the bullshit pretty easily.
+And the easiest way to do that is just being authentic.
+Yeah, and don't aim for perfection, aim for iteration.
+This is from, I think it was at Stanford, I'm not sure, I don't recall.
+But in some college class, a university, it was a photography class,
+he essentially segmented off his entire class into two audiences.
+One, all they had to do was take one incredible photo for the entire semester,
+and they would get an A.
+and the other is like over the next 100 days they have to take 100 photos and if they did that no
+matter if they were trash they would get an a which group do you think produced far better
+like pictures right they just got better at because just putting in the reps
+so another one yeah don't aim for perfection now let's aim for iteration i also have two
+kind of like sneak peeks at new mental models that I'm working on.
+But let's review your shit.
+This is...
+Whose is this?
+Where is this guy?
+Oh, right here.
+All right.
+Real talk.
+I didn't read a fucking word.
+But, but...
+Keep going.
+I bookmarked it, lads.
+Right?
+I bookmarked it.
+I was like, yo, there's some knowledge in here.
+I will get, and that's what he was going for, I think.
+And again, like this post is incredible.
+But again, I think you said that
+you didn't spend much time on it.
+I wrote it like a month ago.
+And then like, I just kept procrastinating,
+trying to like edit it and perfect it.
+Cause like clearly it's very long.
+So I kept trying to cut it down.
+And then I was just like, just post it.
+And then I just posted it.
+Beautiful, yeah.
+So again, like,
+will take me to one of my mental models later on,
+but love it, dude.
+I bookmarked it.
+I did.
+People bookmarked it and liked it.
+Yeah, and that's, with posts like that,
+like that, like, you know, even like being intentional,
+but like, and me and Jeff used to game this a lot
+back in the day, we don't do social stuff anymore,
+or that much, but we're like, okay,
+this one, it's for bookmarking.
+it would get like 20, 30 likes,
+but then you would have like hundreds of bookmarks.
+It's like all by design.
+So this post, when I look at it,
+it's designed to be bookmarked,
+whether intentional or not, but it's, it did its job.
+So yeah, the primary action that you want a user to take
+when they come across this post,
+they're gonna book, because there's free value,
+free information, let me just say that.
+And did really, really well, dude, good shit.
+All right, who's this?
+Everyone saw his new landing page? Any thoughts on it? Any suggestions for our friend?
+It feels like unbalanced.
+Sorry?
+It feels like unbalanced to me. I wouldn't use to see, for example, the deep pre-order button in the middle.
+Like 99% on the left in this case because the text is left aligned.
+So, yeah.
+So now even just learning the stuff that you learned with chats,
+you can make this so much better, right?
+But the other thing, I think this is still a lot better
+than the one you showed me, right?
+Where this one's like, okay, cool.
+I think it's a physical device that I just tap, right?
+Because not everyone's going to watch this video.
+No one's got time for it.
+Because they're transacting with you at this stage in time
+and then money, right?
+You're asking them to give 15, 30 seconds of their life
+from what in return, right?
+So it's like, just being explicit about this
+will take you a lot farther.
+I also went ahead and just did this for you,
+where it's like, you can just like simplify it a lot.
+Beautiful.
+It's the same shit that you've done, right?
+That's it.
+But it's just like making, like give an audience a way
+to like just attach themselves to a few things
+and then be like, okay, cool.
+There's a hundred units, it's shipping in March
+and I can block anything with a tap.
+And it's an NFC device.
+And then just describing it.
+It's an NFC device.
+I did it in two minutes, so excuse my typo there,
+but it's an NFC device that lets you block any distractions.
+What I showed you, it had like designed against addiction,
+which doesn't mean anything.
+And you're like, what is that?
+Cool.
+Good stuff though.
+Appreciate you just going out and shipping it though.
+All right, who's this?
+Oh, that's a...
+Want to talk about it? You shipped this, right?
+Yeah, yeah, this is my podcast.
+And basically, I just interview people that are building stuff with no code.
+The main chunk of the podcast in the middle is just like a demo.
+So we're sort of building some product or side project together.
+And I just ask a lot of questions.
+I fucking love this dude.
+I really did.
+I saved it to a playlist.
+And it's an extremely high value video for people that are just trying to ship a no code.
+So how can, another one that I saved to watch later, but how can we blow this to 10x views?
+Any feedback?
+The starting picture, like it's not.
+Maybe you start with a thumbnail, right?
+Yeah, that's what I was looking for.
+It's a thumbnail, yeah.
+What do you mean?
+The title?
+The title?
+Like, the thing that captures the audience's attention, like that doesn't particularly.
+So change, add a thumbnail.
+Yeah.
+Yeah, yeah.
+That is like you want to watch it.
+Yeah.
+And this is really high intent because it's like,
+people are searching for bubble apps, right?
+So again, that's your audience.
+Okay, just gotta funnel them in.
+So they're gonna mostly come through from YouTube search.
+What's the first thing they're going to see?
+Your title, description, and the thumbnail.
+Cool.
+And just another easy one is cross-posting.
+Just there's so many different ways.
+And I don't see a lot of you guys doing this, hence,
+and yeah, hacker news, but hence, okay.
+I'm jumping ahead a little bit,
+because I want to talk about my mental model.
+It's fucking great.
+All right, so yeah, we can use it in cross-post,
+on bubble, low code, no code, all these different places
+where you already done the work, bro, right?
+You've already made the video, posted it on YouTube,
+you'll fix the thumbnail, adjust the title,
+you can A-B test there as well.
+So now it's like, okay, let's just get,
+let's get as many different, like you have built this house,
+let's create more doors for people to come in, right?
+One door is YouTube search, can Reddit be another?
+And it's fine if only one person
+or no one walks through the door, it's okay, right?
+It's just the amount of time and effort it took for you to make that video versus the amount of time and effort it'll take for you to make that one door.
+It's like it's nothing, right?
+So why not do that?
+Hacker News is another place.
+The worst case in this is like no one walks in through that door, which would be the same as if you never posted.
+But now you're at least giving it a shot for anyone to walk in through the door.
+And what's the best case, dude?
+Just asymmetrical upside.
+The Internet's just a crazy fucking place, right?
+where one tweet of yours can blow up
+and you have all of a sudden a thousand people
+coming and checking out that video.
+It's like, don't rob yourself of that.
+You can also like cut up the best parts,
+work with someone like him.
+And just be like, all right, let's just ship them out.
+Again, more doors with even like hiring.
+I can't tell you guys how many times
+I've seen like a podcast clip
+or a product clip on TikTok in short form
+and then went to YouTube.
+Like again, exited the app,
+went onto YouTube, searched for the podcast,
+and then watched it.
+Right, so it's like, again,
+don't rob yourself of those experiences.
+Okay, perfect.
+So how are you doing it?
+Shit, bro, leave the lecture, who cares?
+All right, and now, beautiful.
+So this, again, finally, fuck.
+All right, the variable lottery tickets mental model.
+The first time I'm presenting this,
+because it's like, it's super important for you guys
+to kind of like understand this.
+So imagine a one billion Powerball, right?
+Pretty big Powerball.
+And you have two options.
+Option one is you buy one ticket for $2.
+This is a standard price for a Powerball ticket.
+Or I can get you eight tickets for $5.
+What do you pick?
+Everyone here?
+But even though like you're spending three extra dollars.
+Yeah, but you can, so I can get that out of my friends.
+Right?
+I hope so.
+Makes sense?
+Anyone else, anyone here gonna go with this one instead?
+Hmm.
+Yeah, yeah.
+All right.
+All right, so most of, in many ways, the internet is just this giant fucking problem, right?
+That's all it is.
+So, you posting on the internet, it's like buying a lottery ticket.
+So, right, so for example, you post it on YouTube.
+posted on YouTube, you could stop there, right?
+But three extra dollars, you cross posting on
+Hacker News, Reddit, you can get 10 more tickets
+for very little effort.
+So place your bets accordingly.
+I have a little disclaimer, we do not endorse
+gambling or betting.
+Please gamble with what you can offer.
+But again, it's like barely anything, any effort
+for you to like just do, like, if you're posting
+on SoundCloud, also post on your Instagram story,
+also make a reel on it.
+Also post on TikTok.
+Just get your bets in order.
+I mean, I imagine that framing also
+applies to whatever product you're distributing,
+making the audience feel as though they're missing out
+if they don't get the best off.
+Yeah, so that's kind of like the scarcity model, right?
+I think you did that this week as well, where you had 10, 12
+spots or 10 spots, 12 spots. And you're like, okay, only 11 out of 12 gone. Right? So it's like,
+okay, only one spot left. I'll just pull the trigger. Who else did that? Someone else did that too.
+I'm blanking. Anyway, but yeah, as you start, I want you to keep one final mental model in mind.
+This is a crazy one too.
+This is a wild one.
+Is Baby Bolt mental model?
+The name may change.
+It's still a work in progress.
+But is a baby fucking Usain Bolt?
+Yes or no?
+Who doesn't know Usain Bolt?
+Everyone knows Usain Bolt?
+All right.
+So most of you are like a baby.
+Right?
+You're learning how to take your first step.
+You've mastered the art of crawling.
+But you look around and you see all these other people walking.
+And you're like, man, you think to yourself, shit, I could do that too.
+Right? You get up, you take your first steps, you try, but you fall.
+And you're gonna keep falling.
+But you don't go at this time and think,
+Man, everyone around me walk in and running and shit.
+Like no, right?
+Like you don't think like that.
+Imagine if you thought like that, if you were a baby,
+if a baby had context on Usain Bolt
+and he just taken the first few steps falling,
+be like, look at that guy, bro.
+Just like running at 9.8, what the fuck?
+How am I ever gonna get there?
+You see how crazy that sounds,
+but you see how all of you guys do that.
+So you gotta not care what others think.
+It's okay if they laugh at you if you fall,
+it's fine, not a big deal.
+You gotta just get back up, take more steps,
+lean on others that can help you,
+and use the support till you can string
+that first few steps together.
+And all of you guys here are there to support each other.
+We're here for you to get
+and string those first few steps together.
+And in an alternate universe, I believe that if a baby had full context and understanding
+on a person like an Usain Bolt, like they would take 10 times longer to just get their first step.
+And in many ways, that is you guys. So you guys have full context on what it takes to be great,
+all the good and bad that comes with it. You have full context on your idols. You want to be like
+Jobs, Gates, Swift, Drake, whatever the fuck, right? And you want to achieve the great heights
+or records that they have set, but just try not to think about that, because that will
+prohibit you from you in stringing those first few steps together.
+I'll paralyze you.
+For now, just go and take your first few steps.
+Stop overthinking, for baby is not bold.
+All right?
+Finally, assist of the week.
+Thank you, Kat, so much.
+Appreciate you.
+And thank you, Kiran and Somaya for the main experience.
+Cool, that's all. Thank you. Any questions?
+Looking back at the video, what do you think like did not go too right?
+Ah, good question, dude. I think the video in itself, everything was as expected for the most
+part. And we like obsess over the chat too. And how people, like there's an audible gasp that you
+here when the first time all the people popped up, people stopped typing. And then it's like,
+oh, that's, so it's like all like, we couldn't have anticipated a better response from the video,
+but it's like, we're back in the lab again. Just kind of like do the next ones and things of that
+nature. But yeah, not much. I like, yeah, there, because there's so many constraints that were
+placed, right? Like time as a constraint, resources as a constraint, so many other things to do as a
+constrained, right? So it's like, it's fine. We walk three steps, we didn't fall. Great.
+We continue walking.
+Okay, how do you balance like consistency in design with kind of like iterating
+by like what your design is in a way?
+Yeah, so that's why I've put consistency at the last, purely because like you go through so many
+the iterations till you find something that works for you
+and then figure out ways to be consistent.
+So in the beginning, it's very exploratory for sure.
+Yes.
+I just want to expand on that or ask that.
+So that kind of goes into every element
+of developing a personal plan in terms of maybe a landing page
+or what kind of content you like to produce.
+You're experimenting until you're like, oh, OK,
+I'm trying to get the hang of this.
+This is me.
+and then you go to optimize for production?
+Yes.
+Okay, cool.
+I was actually curious,
+so I know you spoke about the process a lot.
+So I was curious, how do you audit that process?
+How do you figure out,
+okay, this may be where problems are there?
+Yeah, so basically, for me,
+it's very subconsciously I'll do that,
+but now, having even gone through the last week
+or 10 days working on this,
+the next time you make,
+I know I'm going to optimize the process.
+There's lots of little tweaks that I can make.
+So for example,
+just making sure the script is actually done one step prior.
+Yeah, I think I'm more curious about
+when you first approach something that's new.
+You know, when you have some sort of process,
+let's say for content creation,
+but let's say for me, I'm going from now,
+I've been writing on Twitter for a while,
+and I wanna start making more short form video content.
+So I have a process for content creation,
+but that process isn't gonna be great for Instagram,
+same as what I use for Twitter.
+So how do I maybe make that shift?
+How do I know what's important in the process
+that can carry over and what doesn't?
+So again, the first few times you just create three shorts
+and just figure just how you would do it normally.
+So like maybe ask each or someone who's already done that.
+That's kind of like the benefit you have
+because some people here already are making
+short form content, but it's like, okay, cool.
+Even if you didn't have that, for example,
+like, okay, use a tool that you're familiar with.
+Maybe you've used CapCut in it before.
+Maybe when you were 70, you fucking turned up iMovie, right?
+So like just use whatever you have and then just post it.
+And then again, you can still work on the narrative.
+You can still work on the script.
+And then you can like, again, look at the feedback, right?
+It's just like, hey.
+What I'm hearing is like, just,
+you audit the process by doing.
+Well, the first thing you learn is like,
+how long does it fucking take for me to make three videos?
+Right?
+If it's taking you three days to make it,
+be like, okay, can I get it to under a day?
+What do I need to introduce in my workflow
+that I can get it under a day?
+Things like that.
+And then over time, you can keep refining that for sure.
+Yeah, the question about branding.
+So I'm considering maybe renaming the predicted ad,
+just because there's like a, in the same space,
+thing with the same name.
+And I'm sort of stuck between
+for something completely imaginative,
+like Ruby, for example, or more descriptive.
+Like there's, for example, a domain .
+And I'm considering.
+I don't know whether you have any thoughts about what.
+How long have you spent on it?
+15 minutes.
+Not really?
+Just pick one and go for it.
+Yeah.
+Just pick any, whatever feels, think about it.
+The best thing I do is I'll take a problem to bed.
+Right, and I'll just wake up and I'll have clarity on it.
+So pick a few names that you kinda like fuck with,
+and the domains are available, the handles are available,
+and then just go with it.
+You can always rename.
+Facebook McKay meta after God knows how long, right?
+So it's like, doesn't matter.
+All right, thank you so much.
+Was this fun?
+Thank you.

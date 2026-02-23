@@ -1,0 +1,223 @@
+This is what you can boil it down to in many ways, right? The best designs are one, useful,
+two, usable, and three, beautiful, right? And there's weightage associated to each of them, but
+by itself, it's kind of like it's still incomplete, right? You can have a design that's just useful,
+but hey, maybe it's not that usable. Hey, maybe it's not that aesthetically pleasing to look at.
+So all three of them, it's kind of like the holy trinity of design that you have to keep in mind.
+But first and foremost, before you actually, there is a process to this, you have to start with it being useful.
+It should solve a problem for the user and it should meet a need for them.
+And this can, again, be connected back to the ideas you guys are building and what problem is it solving, what need is it solving for the end user.
+and if it's not useful, it does not matter how useful or beautiful it is. So you have to like
+just nail that part first. Once you have that, then well, it's pretty simple from then on,
+just make it usable. A person should not have to work a lot in order for them to understand what
+this is. Like who's in Da Vinci Code? Yeah, they're not here to solve a fucking puzzle or
+mystery, right? They just want to, they found something useful, now they just want to use it.
+Do not make them work extremely hard to figure out how they need to interact with it and things
+of that nature. And a lot of the things that I talk about may be taken into context of like
+actual web design or app design, but it can be applied to everything. So like think about how
+that, how usability applies to you and your domain, whether you're making music or videos
+or films or art.
+All of these things are extremely important
+in every single domain.
+And if it's difficult to use,
+they'll just churn.
+And we see that.
+The easiest is you can just look at your analytics
+and they'll just fucking churn.
+If you put out a trash video
+that you think is aesthetically pleasing
+but no one interacts with it,
+that's your sign that, hey,
+maybe they didn't find it that useful.
+Maybe there weren't enough insights in the video
+that they can walk away with.
+So it's, again, a culmination
+of all of those things together.
+And yeah, finally, this is obviously,
+like all of us know what good design looks like.
+And I'll talk about that briefly.
+But yeah, just make it aesthetically pleasing.
+Yeah.
+Which would you say is the most important?
+Like, is it useful now?
+Like, which?
+Have you seen the slide deck before?
+Damn.
+We'll get to it.
+But I'll answer that in just a second.
+Yeah, but at any point, feel free to ask me.
+These are like very abstract concepts.
+So feel free to ask any questions, man.
+One example of that term that you just went through
+before, say, you can look like an out-view
+of what's I do.
+Picking what, bro?
+Or like a trail.
+Picking?
+I said picking an outfit.
+Outfit.
+If I'm wearing an outfit, how do I design that outfit for myself
+so that it meets those criteria for other people?
+What does that actually look like in practice?
+Yeah, so, well, it depends on what the film is about,
+depends on how the story goes.
+Are you talking about films?
+I will, I first mention that,
+but the second thing was film,
+because it seems like I wasn't communicating.
+Also, basically, what are you trying to communicate?
+What's your story?
+How do you want people to perceive you?
+How do you want yourself to be perceived by others?
+Right?
+I wear the same outfit every day,
+every single fucking day.
+There's, well, there's many reasons for that,
+but again, at the end of the day,
+it's like, it's an intentional choice I make, right?
+So, and that answer is different for everyone, right?
+Where a lot of people are extremely vocal
+about how they want their personality
+to be projected by the outfits they wear.
+And then how you can meticulously iterate
+and cater that to the audience and your needs
+and use feedback, right?
+So yeah, finally, make it pleasable, enjoy,
+And just make sure that in your efforts
+to make it aesthetic and beautiful,
+do not sacrifice on usability and usefulness.
+Make sense?
+So, Brayden, what's the most important?
+Again, useful.
+For most of the work here, it's gotta be useful.
+Right, in some cases, those things are figured out for you,
+but you can still experiment.
+Like Ryan's a good example, right?
+can go out and reinvent apparel from the ground up but hey maybe his version of the t-shirt is
+not that applicable to like the ones that we are all like familiar with so he can iterate on that
+but that's a good starting point that hey just a t-shirt as we know today so useful
+then make it usable and finally focus on making it beautiful
+So this at the bottom is the most important. Please start there. Do not start here.
+Starting here is no different than the shitshow we see on Dribbble.
+Right? To me that's no different than just being a snake oil salesman. Yeah.
+If you nail the first two, do you find that the third one happens on its own kind of?
+or do you have to like really put a lot of that weight into the content?
+Really, really good question and that's kind of like you know when even in the beginning when I
+started that I've done this like half a dozen times like I kind of want to walk you through
+a process so that you can understand because in the pursuit of making it useful and usable
+there'll be so many ideas you already get on how to make it usable right and a lot of you like I'm
+sure like some of the musicians here as you're kind of like crafting your your first beat and
+you're adding lyrics to it. You kind of already are picturing some version of like the aesthetic
+music video that's going out. But do not rob yourself of this process.
+All right quick disclaimer on tools because I see a lot of people in this boat.
+People here and just people that have gone through this presentation a few times.
+do not focus that much on the tool. They're great, but only if they push you forward.
+Oftentimes we spend so much time just overthinking what tools and you're rather
+off just kind of starting and it's like recent it's a similar tweet that I did I think this
+week I can't even remember where just started a similar place and then you can kind of like
+figure out where to go from there.
+But do not like wait six days evaluating
+the best fucking framework,
+should I use Premiere Pro or DaVinci Resolve?
+Like stop, right?
+Just start somewhere familiar and go,
+it's okay if that place is Canva,
+it's okay if that place is CapCut, right?
+It's completely okay.
+So I get that a lot where people are just obsessing
+about hey Stavan, Framer, huh?
+That's the move now.
+I go, what do you use right now, right?
+Is it going to take you two months to learn Framer
+and then two weeks to implement?
+Like then you're robbing yourself
+for essentially 10 weeks worth of time.
+Whereas you could have had 10 weeks
+worth of feedback in that time.
+So does not matter, but again,
+as long as you have something to start with,
+just go from there.
+Yeah, so start with something you're comfortable with,
+ideally one that you already know how to use.
+For me, a lot of times, that's fucking pen and paper, baby.
+Right, I just go directly in pen and paper
+and just like start ironing it out.
+And it's also really easy when you do this.
+Like this example was we were in Mexico City
+almost two years ago, well, 18 months ago,
+and we were figuring out the next chapter
+for Buildspace at the time.
+And we had like a good brainstorming session
+and immediately I like right then and there,
+I was like, okay, what do you guys think?
+Right, especially if you have like a team
+of trusted people around you,
+you can just be like, hey, what do you think?
+And then take that feedback.
+So essentially that was this, I just threw this out for them
+and I showed it to them, got some feedback
+and then just moved on with it.
+Again, all done within a span of 15 minutes
+after the conversation happened.
+I could have very well gone into Figma,
+spent two, three days on it,
+but again, I'm robbing myself of that.
+And I made that mistake a lot in my teens and early 20s
+where I feel like we can be better about this, right?
+I just don't want you guys to make that same mistake.
+Because I see that, right?
+Where so many times you guys are afraid to share with us
+because you want us to envision the final product
+that you guys are thinking about.
+But in the beginning, you kind of like, not just us,
+but even like you've robbed your audience
+of that experience because they're following you
+for the journey, not the destination.
+Right, imagine if I was making a film
+and I just showed you the final five minutes of the film
+where the hero's off sailing off the sunset.
+Like you'll be like, well, what's actually his journey?
+What's his ups and downs?
+And you guys are all like that hero
+and your audience at large is like, again,
+subscribing you to that film.
+So please, please, please just show them, like bring them along.
+So yeah, when you overcomplicate this,
+you create like these unscalable mountains in your head.
+So you just have to like break, like even if you look at the logo
+that's on a lot of your guys' chest right now,
+like the way that was designed was, hey, like we just help you
+scale unscalable mountains.
+We just make it so that the steps are there for you to kind of just
+go and achieve whatever it is that you want to achieve.
+And yeah, once you have feedback, you can improve it.
+So essentially I got this immediately.
+Then I was like, all right, let's not even go to Figma yet.
+Excalibur, let's rough it out.
+Let's see what it looks like actually, right?
+So this tool is called Excalibur.
+It's like just this massive canvas
+where you can just like start writing on it.
+And it feels like really like pen and papery,
+but it's still like there's a lot of different blocks
+you can use.
+and there's some flow charts there where you can kind of like see like okay user comes to the
+landing page to learn how to handle their username things of that nature and you can go from there
+and once I got feedback on this immediately again this is as soon as we came back this is half a day's
+worth of stuff there's a lot more to it obviously that I'm not showing but then you can kind of like
+focus so this was again the usefulness aspect the user bill like you know how are the interactions
+is going to be and then you can kind of like the one that we actually shipped out uh was this
+beautiful pages for like the all the user profiles all the company profiles things like that this
+idea of flop don't get me wrong it was trash but hey i we legit shipped it in a span of two weeks
+versus spending all this time making it pretty uh creating the perfect flow like interactions
+and figma and all it's like no just don't do that not worth it we learned a lot by just going through
+through this exercise a few times.
+Who's used this, by the way?
+Anyone remember?
+Rohit?
+Radin?
+You created a profile?
+I'm grateful.
+I got the email one day.
+Yeah, this is, I think, pre a lot of your guys' day
+at Bill's face, but it was fun.
+Any questions about this?

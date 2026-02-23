@@ -1,0 +1,1179 @@
+All right. We good, Josh? Cool. Welcome. I guess this is the third class, but we like to start
+with zero. So welcome to DMW class 002. Design 101. I preface it with a kinda because I've done
+this now half a dozen times and I've changed a lot of it for this time because I wanted it to
+be more focused to you guys. I look around and I've talked to almost all of you and there's a
+few faces that I still need to get to but we'll get there. So yeah this talk all I want to do is
+kind of just recap what Design 101 is. I'll give you the fundamentals. Again a lot of you guys have
+already gone through that through any of our past videos. Maybe we did that in nights and weekends
+season four for one of the sections. So, but irrespective of what you're working on, you can
+take these principles and start applying them today. And that's my goal. And that's why I don't
+kind of dive too deep into the tools. I'd rather more want you guys to focus on
+the lessons and concepts and start just using them day one. Also,
+when I was going through the review of some of the things that you guys shipped this week,
+there was a lot that kind of like I kept coming back to and even in the conversations I had with
+you. So there's a few mental models there too and we'll cover them. So cool, welcome.
+So what is design?
+Anyone wanna start off with what they think design is?
+Aesthetic.
+Okay, aesthetic.
+Like the experience that you go through
+and what do you think happens to them?
+The entire experience the user goes through, okay.
+I think it's how people engage with
+with and experience in such a,
+and do something very properly.
+Yeah.
+How does someone interact with what they're doing?
+Yeah.
+How intentional choices do they convey to you?
+Yeah.
+So it's like all of the above, right?
+But the one that I kind of associate myself to,
+and just for context, I grew up in a family of designers,
+So my mom and dad are both designers.
+And ever since a very young age,
+like it was instilled in me that it's the holistic experience
+that you can provide to someone end to end,
+no matter what.
+And they designed houses, communities,
+things of that, like physical spaces.
+But the amount of detail they showed
+to like every single meticulous thing that they crafted,
+that kind of like tells you
+that it's not just making it look beautiful.
+It should also be usable.
+and we'll kind of cover a lot of those things today.
+So yeah, it's not just what it looks and feels like,
+it's how it actually works as a whole.
+So this is what you can boil it down to in many ways, right?
+The best designs are one, useful,
+two, usable, and three, beautiful, right?
+And there's weightage associated to each of them,
+but by itself, it's kind of like,
+it's still incomplete, right?
+You can have a design that's just useful,
+but hey, maybe it's not that usable.
+Hey, maybe it's not that aesthetically pleasing to look at.
+So all three of them,
+it's kind of like the holy trinity of design
+that you have to keep in mind.
+But first and foremost, before you actually,
+there is a process to this,
+you have to start with it being useful.
+It should solve a problem for the user
+and it should meet a need for them.
+And this can, again, be connected back to ideas
+you guys are building and what problem is it solving,
+what need is it solving for the end user.
+And if it's not useful,
+it does not matter how usable or beautiful it is.
+So you have to just nail that part first.
+Once you have that, then,
+well, it's pretty simple from then on, right?
+Just make it usable.
+A person should not have to work a lot
+in order for them to understand what this is.
+Like who's in DaVinci code?
+Yeah, they're not here to solve a fucking puzzle
+or mystery, right?
+They just wanna, they found something useful,
+now they just wanna use it.
+Do not make them work extremely hard
+to figure out how they need to interact with it
+and things of that nature.
+And a lot of the things that I talk about
+may be taken into context of like
+actual web design or app design,
+but it can be applied to everything.
+So think about how usability applies to you
+and your domain, whether you're making music or videos
+or films or art.
+All of these things are extremely important
+in every single domain.
+And if it's difficult to use, they'll just churn NBC.
+That the easiest is you can just look at your analytics
+and they'll just fucking churn.
+If you put out a trash video
+that you think is aesthetically pleasing,
+but no one interacts with it, that's your sign.
+that, hey, maybe they didn't find it that useful.
+Maybe there weren't enough insights in the video
+that they can walk away with.
+So it's, again, a culmination of all of those things together.
+And yeah, finally, this is obviously,
+all of us know what good design looks like.
+And I'll talk about that briefly.
+But yeah, just make it aesthetically pleasing.
+Yeah.
+Which would you say is the most important,
+like, of the usefulness?
+Like, which?
+Have you seen the slide deck before?
+Yeah, we'll get to it, but I'll answer that in just a second.
+Yeah, but at any point, feel free to ask me any questions.
+These are very abstract concepts, so feel free to ask any questions.
+What's a one good example of what you just went through before,
+say, picking an out-
+You would work with what-
+Picking what?
+Or like a trail.
+Picking- I said, picking an outfit.
+Outfit.
+If I'm wearing an outfit, how do I design that outfit for myself so that it meets those
+criteria for others?
+What does that actually look like in practice?
+Yeah, so, well, it depends on what the film is about, depends on how the story goes.
+Are you talking about films?
+I will, I first mentioned outfits, second thing was filming because it seems like I
+wasn't communicating.
+Also basically, what are you trying to communicate?
+What's your story?
+How do you want people to perceive you?
+How do you want yourself to be perceived by others?
+Right?
+I wear the same outfit every day,
+every single fucking day.
+There's many reasons for that,
+but again, at the end of the day,
+it's like, it's an intentional choice I make, right?
+So, and that answer is different for everyone, right?
+Where a lot of people are extremely vocal
+about how they want their personality
+to be projected by the outfits they wear,
+and then how you can meticulously iterate and cater that
+to the audience and your needs and use feedback, right?
+So yeah, finally make it pleasable, enjoy,
+and just make sure that in your efforts
+to make it aesthetic and beautiful,
+do not sacrifice on usability and usefulness.
+Make sense?
+So, Brayden, what's the most important?
+Again, useful.
+For most of the work here, it's gotta be useful.
+Right, in some cases, those things are figured out for you,
+but you can still experiment.
+Like Ryan's a good example, right?
+He can go out and reinvent apparel from the ground up,
+but hey, maybe his version of the T-shirt
+is not that applicable to the ones
+that we are all familiar with.
+So he can iterate on that,
+but that's a good starting point.
+that hey, just a t-shirt as we know today.
+So useful, then make it usable,
+and finally focus on making it beautiful.
+So this at the bottom is the most important.
+Please start there.
+Do not start here.
+Starting here is no different
+than the shit show we see on Dribbble.
+Right?
+To me that's no different
+than just being a snake oil salesman.
+Yeah.
+If you nail the first two,
+do you find that the third one happens on its own kind of?
+Or do you have to like put a lot of everything into it?
+Really, really good question.
+And that's kind of like, you know,
+even in the beginning when I started
+that I've done this like half a dozen times,
+like I kind of want to walk you through a process
+so that you can understand.
+Because in the pursuit of making it useful and usable,
+there'll be so many ideas you already get
+on how to make it usable.
+Right, and a lot of you like,
+I'm sure like some of the musicians here,
+as you're kind of like crafting your first beat
+and you're adding lyrics to it,
+you kind of already are picturing some version
+of like the aesthetic music video that's going out.
+But do not rob yourself of this process.
+All right, quick disclaimer on tools,
+cause I see a lot of people in this boat,
+people here and just people that have gone
+through this presentation a few times.
+Do not focus that much on the tool.
+They're great, but only if they push you forward.
+Oftentimes we spend so much time
+just overthinking what tools
+and you're rather off just kind of starting.
+And it's like recent, it's a similar tweet
+that I did, I think this week, I can't even remember where,
+just started a similar place
+and then you can kind of like figure out
+where to go from there.
+But do not like wait six days evaluating
+the best fucking framework,
+should I use Premiere Pro or DaVinci Resolve?
+Like stop, right?
+Just start somewhere familiar and go,
+it's okay if that place is Canva,
+it's okay if that place is CapCut, right?
+It's completely okay.
+So I get that a lot where people are just obsessing about,
+hey, Stavon, Framer, huh?
+That's the move now.
+I go, what do you use right now, right?
+Is it going to take you two months to learn Framer
+and then two weeks to implement,
+like then you're robbing yourself
+for essentially 10 weeks worth of time.
+Whereas you could have had 10 weeks
+worth of feedback in that time.
+So does not matter, but again,
+as long as you have something to start with,
+just go from there.
+Yeah, so start with something you're comfortable with,
+ideally one that you already know how to use.
+For me, a lot of times, that's fucking pen and paper, baby.
+Right, I just go directly in pen and paper
+and just like start ironing it out.
+And it's also really easy when you do this.
+Like this example was we were in Mexico City
+almost two years ago, well 18 months ago,
+and we were figuring out the next chapter
+for Buildspace at the time.
+And we had like a good brainstorming session
+and immediately I like right then and there,
+I was like, okay, what do you guys think?
+Right, especially if you have like a team
+of trusted people around you,
+you can just be like, hey, what do you think?
+And then take that feedback.
+So essentially that was this, I just threw this out for them
+and I showed it to them, got some feedback
+and then just moved on with it.
+Again, all done within a span of 15 minutes
+after the conversation happened.
+I could have very well gone into Figma,
+spent two, three days on it,
+but again, I'm robbing myself of that.
+And I made that mistake a lot in my teens and early 20s
+where I feel like we can be better about this, right?
+I just don't want you guys to make that same mistake.
+Because I see that, right?
+Where so many times you guys are afraid to share with us
+because you want us to envision the final product
+that you guys are thinking about.
+But in the beginning, you kind of like, not just us,
+but even like you rob your audience of that experience
+because they're following you for the journey,
+not the destination.
+Right, imagine if I was making a film
+and I just showed you the final five minutes of the film
+where the hero's off sailing off the sunset.
+Like you'll be like, well, what's actually his journey?
+What's his ups and downs?
+And you guys are all like that hero
+and your audience at large is like, again,
+subscribing you to that film.
+So please, please, please just show them,
+like bring them along.
+So yeah, when you overcomplicate this,
+you create like these unscalable mountains in your head.
+So you just have to like, even if you look at the logo
+that's on a lot of your guys' chest right now,
+like the way that was designed was,
+hey, like we just help you scale unscalable mountains.
+We just make it so that the steps are there for you
+to kind of just go and achieve
+whatever it is that you want to achieve.
+And yeah, once you have feedback, you can improve it.
+So essentially I got this immediately then I was like,
+all right, let's not even go to Figma yet.
+Excalibur, let's rough it out.
+Let's see what it looks like actually, right?
+So this tool is called Excalibur.
+It's like just this massive canvas
+where you can just like start writing on it.
+And it feels like really like pen and papery,
+but it's still like there's a lot of different blocks
+you can use.
+And there's some flow charts there
+where you can kind of like see like,
+okay, user comes to the landing page
+to learn how to handle their username,
+things of that nature.
+And you can go from there.
+And once I got feedback on this,
+immediately again, this is as soon as we came back,
+this is half a day's worth of stuff.
+There's a lot more to it, obviously, that I'm not showing,
+but then you can kind of like focus.
+So this was again, the usefulness aspect, the user bill,
+like, you know, how are the interactions going to be?
+And then you can kind of like,
+the one that we actually shipped out
+was this beautiful pages for like the,
+all the user profiles, all the company profiles,
+things like that.
+This idea flopped, don't get me wrong,
+it was fucking trash.
+But hey, we legit shipped it in a span of two weeks.
+We're suspending all this time making it pretty,
+creating the perfect flow, like interactions and Figma,
+and all, it's like, no, just don't do that.
+Not worth it.
+We learned a lot by just going through
+this exercise a few times.
+Who's used this by the way?
+Anyone remember?
+Rohit, Braden, you created a profile?
+Yeah, this is I think pre a lot of your guys' day
+at Bill's face but it was fun.
+Any questions about this?
+All right, just fundamentals in five minutes.
+Again, this is gonna be fast
+because I think most of you have gone through this.
+Please correct me if you guys haven't
+and I'll pause and talk about it.
+I use a very simple model.
+It's my own trademark.
+Actually, it's not.
+It's not trademarked, but it is my own.
+It's called chats.
+Who's gone through this?
+Show of hands.
+Go ahead.
+All right, so it's new for a lot of people.
+I'll slow down then.
+So chats, right?
+Basically, the C in chats stands for color and contrast.
+Simple, right?
+And again, this is like more,
+You have a useful and usable design,
+let's just make it aesthetic,
+just follow this framework to make it that.
+Color contrast, what does that mean?
+Who likes this?
+Why?
+Contrast.
+It's hard to read, right?
+Anyone actually likes it?
+We had a couple of students,
+I don't know, I fucked with it hard.
+I was like, chill.
+How about this?
+So one thing that I've observed is like with our gen like we're so internet native that
+you know like a lot of people ask me Stephen how do you develop the design eye?
+But I think so many of us are spending so much time like consuming content like we all have a
+pretty good fine tuning on what looks good versus what is right so it's like just be intentional
+and anytime you come across like a good piece of content that's like catching it's like stopping
+your scroll obviously there's a lot that goes into it but just take like a moment of like
+self-reflection as to like what it is about that that actually got you hooked and then continue on
+your journey of like doing scrolling but like that moment like do not rob yourself from that
+moment of self-reflection all right so in this both the color and contrast is fucked and this
+the color is okay, the contrast is what's the main issue. So we can just quickly fix that, right?
+Just like upping the contrast. This is a whole lot better than this, right? So it's like, and then you
+can like, then you can like really play around with it. You can kind of like increase contrast
+and then you have a pretty good palette to like fuck with. Cool. All right. H hierarchy. Super
+simple. Read this. Yeah, so it's like if there's no obvious guidance for direction, the viewer is
+going to go top to bottom and in most cases left to right. In Arabic countries, it's right to left.
+so simple to fix just make it super like it's as if like you're feeding a baby like you know
+like mush carrots like all right read this one first and then read the rest and they'll be like
+i bet i'm gonna do that make sense super simple all right a is alignment just align your shit
+super straightforward uh this is a bad example of it obviously you guys can all look at it as
+you know trash bro even though this is meeting all the color all the contrast all the hierarchy
+shit's just not aligned so simple align it you can also center like you can like then
+with it like a little bit but like once you like again for next time i'm gonna do against chats
+with like an asterisk right because like once you understand these principles then you have like full
+autonomy to with those right but it's like like if you don't understand those fundamentals then
+it's like you're just like you're just like throwing stuff at the wall and seeing what sticks
+cool makes sense t is typography uh this is important but not that important but like again
+the goal here is to not do stuff like this where you're just using like three different things
+Even though everything's aligned, hierarchy's there,
+color contrast is there.
+It's like, just make intentional choices
+about the things you're doing.
+In most cases, we use one, at most,
+like two different typefaces.
+Another bad example.
+So yeah, just stick to something that you've, yeah.
+What's the Go-Space font?
+It's Manrope.
+Manrope.
+Yeah, but we're changing.
+Anyone figured out the new font yet?
+Custom font.
+It's, I chilled it.
+Custom font.
+We've dropped it, actually.
+Dropped it all in.
+So like, me with like, all this is my art, right?
+So like, I drop hints everywhere.
+They were sprinkled in.
+Even before the houses were released, the houses were out in the wild.
+it's just like because I'm always looking for that cracked fucking person
+right where who's gonna like like decode all of it haven't found him yet or her
+yet but they're all the sprinkles are always going to be there in my work and
+finally spacing this is both letter spacing and line spacing and I'll talk
+about both in this case what do you guys think is wrong with this one in the
+middle right so like essentially the line spacing and this is just atrocious so pretty simple to fix
+it also like allows you to like break apart different components where you want people
+to focus on this but this is just like a tag so again line spacing letter spacing there's fancy
+words for it right design school be like leading and kind of like fine just make it simple line
+spacing and letter spacing letter spacing is the space between the letters line spacing is
+The space between the lights, that's it.
+All right, what's wrong with this?
+This is almost there, pretty good for the most part.
+Right, it's just like give things space to breathe.
+This is too much space to breathe.
+Right, but again, just like be intentional about it.
+And finally, just try to be consistent
+because you want people to like associate
+whatever your art is to you.
+there's so many times I get tagged and our team gets tagged on Twitter with
+like random black side slides with like white text in the middle because that's
+so iconic to us and we're like bro that's not us I don't but it's like
+that's what you're trying to get right it's like that level of consistency
+where people see something really immediately ah Bill's face they just
+know it and first it'll be like in smaller and smaller circles obviously
+like I'm sure even the way the logo was designed even a lot of the merch
+that you guys are wearing there'll be people that kind of recognize that immediately just
+because they've seen it and that's all done by design so yeah uh so once you have this right
+this hits all of the different check boxes then you can like really kind of like go around and
+just like play so these would be like the four different colors for example this was season four
+where again meeting all the different things but then you can really like have liberty like play
+with it. Make sense? This is Rolexes. I just put it in here for reference because now that you
+understand chats, right? And I'm just going to quiz a couple. What does H stand for Michael?
+Hierarchy. C, color, contrast, and consistency. A, alignment, T, typography, S, space.
+Super simple.
+This is like literally a semester's worth of shit.
+But just, it's easy.
+Do not overcomplicate it.
+But once you understand that,
+you'll start seeing it every time too, right?
+And again, that moment of self-reflection
+where you go and be like,
+ah, okay, they fucked up on the spacing here.
+But like, that's kind of like what's building that
+and training that I essentially.
+Cool?
+Another one.
+So like, if you saw this one and this one,
+be like okay cool it's still Rolex all right so now going back to this question which is
+the art of design how does how do you actually kind of like go through this process so to me
+I've always struggled with this because I like again just grew up in it right I don't know a
+world where that didn't exist but the best way for me to show this is by just going through our system
+and then you guys can ask me any questions about it so i'm just yeah the system we talk about like it
+works really efficiently for us again we have a very small team that's doing all these things
+from the outside really go there's so many people but no it's it's because we have a pretty good
+system especially when it comes out to the content uh and visual style that we're putting out
+so we'll start off with the video that you guys just saw this week right and for the youtube
+audience that's watching uh we'll kind of pin it i think right there where it all started with
+that like this this is essentially like how my desk oftentimes looks but more importantly it's
+like, hey, just what does it even actually kind of like feel like, right? Like what's the video,
+what's the emotions that I'm trying to get out of it? And how do we make it so that
+the video at the end like leaves them through this like emotional journey, but like gives them
+the fact that, yo, fuck, dude, I want to try this like now, right? And essentially from there,
+we kind of like go and build out more of it.
+But like that, that paint right there,
+and you guys can maybe take some time to,
+you can see the entire entirety of it like mapped out.
+And that was last Sunday, I believe.
+As soon as we had our,
+this is like the promo that we're doing.
+We did most of it in just one week
+where I kind of just started drawing.
+I had Josh with me, Alex was there as well.
+And be like, okay, this is kind of like the concept
+that I'm thinking where we tie back
+some people from our community some videos that have already been kind of like shipped by you guys
+and kind of kind of show them and walk them through a process like a use case of what
+what it would be like to use our product so from there it essentially kind of like goes into
+this part where i'm just like mapping out the entire split of like a really rough script if
+you like zoom in here like it's still really really rough because i'm still figuring out
+out, okay, what elements can I add? What elements do I need to delete? Right? And once I have that,
+I just either go to Josh and be like, okay, Josh, this is like, this is where I think it's going.
+How does it feel? And from there, you go into even deeper. I don't know if I can zoom in here,
+but let me go and show you guys.
+so intro vid like again if you if you look here right kind of like start off
+with what i think the video needs to have and then essentially then go into hey how's it going
+right and this script is not even the final one but it's like it gives you it gives the team a
+really, really good feel of how it's going to flow from one thing to the next to the next.
+And after that, again, just iron out the entire script.
+And then, again, there's a few other technical challenges here where we did not want it to feel
+like a profile while it being a profile. And we wanted it to have this new fresh feeling,
+like you should not feel like you're using any other existing app.
+It should feel different.
+It should evoke the emotions that we're seeking even at this stage.
+Yeah, that's how it transpired.
+Any questions about this?
+How did you go from this is the emotion you wanted to reveal,
+to people want to show up?
+Yeah, so in my head,
+that entire journey map is where I map out a lot of those things.
+Because for the profile case,
+that's actually I had a lot of different versions of it,
+which felt a lot like the one that we had,
+but we wanted a more artistic take on it.
+So that's where I'm just experimenting a lot.
+I'm moving elements around.
+I am being ruthless with the content I consume.
+So I'll have like a lot of different like just hours.
+I think we spent eight to 10 hours
+just like looking at different commercials,
+different elements, different things.
+I can actually show you guys one
+that we all fucked with a lot,
+maybe towards the end if we have time.
+But that was Google Super Bowl ad, I think 2010,
+where they went through a journey of a person going abroad,
+finding love, then moving abroad,
+and all through just a search box.
+And I think I was like, okay, we gotta go with,
+like this is the emotion I'm trying to convey.
+Are you going with sound design?
+Huh?
+Like the sound design,
+do you like spend time on that a lot as well?
+In the end, in the end.
+And I'll talk about that too a little bit.
+So yeah, in this case,
+like we wanted it to be,
+again, going back to your question,
+we wanted it to be fresh and new yet familiar.
+So a lot of these elements you've seen across even our stuff,
+but this is just like that,
+like repackage into something that just feels so new.
+So something that I know musicians could do is use reference tracks.
+And it sounds kind of similar to how you're using your controls.
+Is that a common thing?
+And how often is it?
+I got the first part, bro.
+Musicians using reference tracks.
+What did you say after?
+We're saying that you really were inspired by the Google app.
+Yeah.
+This is the emotion that I want to track.
+I want to focus in the viewer.
+And so I guess what I'm wondering is how many references do you use when you are creating them?
+I got you.
+So in that case, essentially we looked at so many, but we landed on, okay, the Google one was really, really good.
+That's the emotion we're trying to go for.
+And then that was pretty much it.
+And they had one other version of that, which was essentially, and I'll send both of this in the chat after, or if we get to it here too.
+But just those two, man.
+That's basically it.
+Oh, and we had one other reference,
+which was essentially kind of like the first,
+which was the A24s loading animation.
+That was a really good reference point for us as well.
+So just mixing and matching a lot of those
+and then just going and applying
+our own artistic take on it.
+When you're like starting to design the thing,
+you're looking for like references
+and then you're trying to like consume this content,
+how do you find things that might be relevant?
+Or like, is it kind of just like you're doing scrolling
+or are you like intentionally picking things?
+Well, so that's like a background process
+which has like just developed over years
+that I've just taken so many screenshots.
+I've consumed so much content intentionally
+and I have a pretty decent memory.
+And we also have just Apple's ability
+to kind of like surface things back up to you
+that you can kind of just be like,
+oh, that, that, that, that, that.
+So for me, that time is still a lot,
+but it's not weeks, right?
+So for context, there's startups, companies,
+and even like the Apple keynote.
+Apple keynote is like the top of the line, right?
+They spent fucking six months working on that shit.
+There's like a team of like 60 people.
+We have two weeks.
+We've got five homeboys, right?
+That's basically it.
+So it's like you really have to find ways
+to like shortcut a lot of those processes.
+For me, like the work I've put in prior
+just helps me a lot.
+But I know if you're starting from scratch, like, but again, that's where it's like,
+like, just, you're already going to be scrolling a little bit, you know,
+already consume, just be intentional about it.
+And that's like, this was the culmination of all of those things combined.
+Right.
+So for example, actually let's take a detour lads.
+So if you go to, uh, this, this is a new font or one of them, by the way, anyway,
+Let's come back to this part.
+So who stayed till here?
+Fucking hell.
+So even this part?
+I mean like oh pretty simple right but like this was inspired by old boy
+where if you look at
+this was the so this so it's like kind of like just having that map in your head
+and if you're a visual person that just helps you a lot so if you look at how
+it started for example goes into black starts and then essentially pans out right so we took a
+version of that but this weird me and jeff have been talking about this for months right like
+yo we gotta have a video with the end credits josh has probably heard that like i don't know like
+hundreds of times so it's like just finding the best time and just storing them in in your in
+in your backlog is what's super important.
+Also loading and animation, that's in the finals.
+So we have a video now with again,
+Mylene's voice and Alex's voice.
+It's like, okay, we need to make it feel fresh.
+So that's where like, okay, cool.
+Let's, what kind of different animation things can we do?
+So we wanted like relatively bubbly animation.
+Josh's friend helped us out,
+but even to get it started, I was like, okay,
+I can spend maybe 10 hours in Adobe After Effects
+and so can Josh, but is that the best use of the time?
+I'm like, no.
+What's the tool that's familiar with me
+that I'm just like fucking good at?
+Framer.
+I just started and I created this,
+buildspace.so forward slash loading.
+I was like, what do you guys think?
+Right?
+And it's like, okay, we send that to Josh's friend
+and we're like, okay, we all fuck,
+like take this and start like from here.
+And then he used his artistic touch.
+But again, I'm not like,
+I'm always trying to cut my time the shortest
+because I'm not here spending 15 hours
+and like, no, that's not the best use of my time.
+It's like, what's the thing that I can do like immediately?
+This took me two minutes to make.
+Right, but now someone has a reference
+and now they can take that reference
+and use their own creations.
+Okay, so that's how the, and for the sound, that's just Farsa using his mouth.
+Oh, for tracks and stuff.
+Bro, that's, don't tell anyone though.
+So, they're laughing at the Farsa mouth sounds.
+But, bro, that's, you just gotta feel it, right?
+I think when Kieran showed me that track in my head, he asked me a question too.
+that's like, oh, I don't even know what question
+he asked me to be honest with you guys.
+Cause in my head, it's like, this is fucking it
+for that for credits, right?
+And like, again, we do the same thing with sounds.
+When we come across music, we're like, okay,
+this would be good for that or that or that.
+And then over time, when those opportunities present,
+we just kind of like plug and we go in
+and we work backwards in many ways from the music.
+So yeah, everyone saw the video.
+But that's, and then we kind of like,
+the finishing touches are okay,
+making it feel more alive where we added these little pop-ups
+to actually be like, okay, actions are actually happening.
+And then the loading animation and Farza's mouth track came in
+right then and there, clutch.
+So that's kind of like the art of the process.
+Does that make sense?
+It's like a magician revealing the tricks, and now it doesn't feel, but like it's like
+the goal here is any of you can do that.
+It's not that complicated.
+I love how you trust your ways.
+Like, I mean, you were like, I need to animate it, so I'll, I know framer the most, so I'll
+just go do what I know the best and then I'll hand it off to someone else.
+I would end up searching on YouTube,
+Haru, animate on After Effects,
+and then I'd spend 24 hours making something
+that is not as good at like.
+Yeah.
+So trusting your ways is just so important.
+I have a method of doing things,
+and if I trust in them, I could do so much more.
+So much more, yeah.
+Because we're all limited by time, right?
+Like, we just are.
+I make a lot of stuff in Google Slides.
+I don't use Photoshop.
+Brian, you had a question?
+Yeah, I might have missed it,
+but what was the emotion you wanted to convey
+with the last video?
+So the last video was essentially like,
+it started off with all these people posting their stuff
+and not getting like that much,
+like not getting found, right?
+And our entire thesis with even the product
+is to find and be found.
+So the goal here is like, hey, even if you have two views
+or three views, if those three views are actually
+going to move you forward, then this product
+is what's going to help you do that.
+That's the emotion.
+Cool?
+Yeah.
+I saw a great example of the tools thing.
+Madlib is obviously one of the greatest producers of all time.
+And I saw a clip of him talking about how,
+for the last 10 years since the iPad came out.
+The tools he uses is an iPad and GarageBand, and that's it.
+And that like blew my mind.
+Because you would, yeah, the level of mastery,
+it's like you would never tell
+that those were the tools he was using.
+But it's just because it's easy.
+You can do it anywhere.
+And it's just fatiguing, right,
+just going through all these,
+It's like you're not focused on creativity and art
+and birthing new things into the world
+in terms of like an artist's way.
+And you always like,
+like you'll always come across these inflection points
+where you'll have to,
+like for me like Framer is a good example where
+before that I used to do everything.
+My entire, like all my studios were doing stuff in Webflow.
+Before that it was WordPress,
+but like Webflow outdated WordPress for me
+and using Framer just felt so intuitive
+because it combined the best of using Figma
+and Webflow into one platform and I can also code in it.
+So it's like, fuck, this is perfect.
+And I'm like pretty close with the team too,
+so I can like kinda like be like,
+yo, I'm messing up here and here, can you help me out?
+Right, and they'll do a really, really good job
+at adding features and things of that nature.
+So I just completely shifted.
+And once I went in, I'm like, okay, this is it.
+This is going to be the tool of choice
+to the foreseeable future.
+Never having to rethink about that.
+Cool.
+Yeah, and I'm sure you've seen all of the final result,
+but like for you, the key takeaway here is like,
+start finding that process for yourself today, ideally.
+And all of you guys probably already have
+some kind of process, just try to like convert that
+into a system you can trust.
+And then yeah, just trust this process.
+that this process is what's going to take you far.
+It's gotta be fast.
+And ultimately over time, you'll keep refining
+and like kind of like chiseling away at this process.
+They'll just help you like become the best version
+of the artist that you're trying to be.
+And yeah, improve it over time.
+All right.
+Yeah, finally some mental models.
+Yeah, these are just tools.
+Don't fall in love with the tool.
+Would you fall in love with the fucking pencil?
+No, right?
+Same thing.
+Please know who you're building for.
+So this is kind of cool where, what is this app?
+Right, everyone knows this is Netflix.
+This is again, like for a very straightforward
+like and defined set of audience.
+And what is this app?
+Well, I've written it down, it's IT and China,
+but like a North American audience would probably be like,
+what the fuck is going on here?
+There's live comments, share to earn prices,
+a way to screenshot, a way to record GIFs.
+You can literally like, you can buy Dolby Atmos for a video,
+just for that video for like pennies on the dollar, right?
+And, but this is again, in China,
+they're really used to microtransactions,
+like hyper use, like they don't mind.
+Like for example, you can read 70% of a book for free
+and then you can pay for every thousand words, pennies.
+Like it's like shit, like we would just be able to know
+like how many times we just buy books and never read?
+So it's like this was their effort
+to get more people to read.
+But like one, the infrastructure is not there
+in the United States with like the large banking systems
+to like allow for like transactions under a penny, right?
+But that's possible in China.
+So it's like, again, know the audience,
+who you're catering to.
+This is also like why I asked you
+the audience question yesterday, right?
+Is my audience Indians?
+Is my audience Indian Americans?
+Is my audience third culture kids?
+Like who is my audience and who am I writing to?
+And over time you can define that further and further.
+And that's across the board, right?
+Like I used to have this one creator I was incubating
+where she, one day she would sell Pantene ads,
+the next day she was doing head-in.
+I'm like dude, what are you doing?
+You're losing, your audience is losing trust in you
+because every day you're pushing a new product.
+Right, so it's like just be consistent
+about what it is that you're trying to do
+and know your audience
+they can also like sift through the bullshit pretty easily and the easiest way to do that is
+just being authentic yeah and don't aim for perfection aim for iteration uh this is from
+i think it was at stanford i'm not sure i don't recall but in some college class a university
+but it was a photography class they he essentially segmented off his entire class into two audiences
+one, all they had to do was take one incredible photo
+for the entire semester and they would get an A.
+And the other is like, over the next 100 days,
+they have to take 100 photos.
+And if they did that, no matter if they were trash,
+they would get an A.
+Which group do you think produced far better pictures?
+Maybe 100.
+Right.
+They just got better at it.
+They just got better at it,
+because just putting in the reps.
+So another one, yeah, don't aim for perfection.
+Now let's aim for iteration.
+I also have two kind of like sneak peeks
+at new mental models that I'm working on,
+but let's review our shit.
+This is, whose is this?
+Where is this guy?
+Oh, right here.
+All right, real talk.
+I didn't read a fucking word.
+But, but, keep going.
+I bookmarked it lads, right?
+I bookmarked it, I was like,
+yo, there's some knowledge in here, I will get,
+and that's what he was going for, I think.
+And again, like this post is incredible,
+but again, I think you said that
+you didn't spend much time on it.
+I wrote it like a month ago,
+and then like, I just kept procrastinating,
+tried to edit it and perfect it,
+because clearly it's very long,
+so I kept trying to cut it down,
+and then I would just post it,
+and then I just posted it.
+Beautiful, yeah.
+So again,
+which will take me to one of my mental models later on,
+but love it, dude.
+I bookmarked it.
+I did.
+Yeah, and with posts like that,
+you know, even being intentional,
+and me and Jeff used to game this a lot back in the day.
+We don't do social stuff anymore or that much,
+but we're like, okay, this one, it's for bookmarking.
+It would get like 20, 30 likes,
+but then you would have like hundreds of bookmarks.
+It's like all by design.
+So this post, when I look at it,
+it's designed to be bookmarked,
+whether intentional or not, but it did its job.
+So yeah, the primary action that you want a user to take
+when they come across this post,
+they're gonna book, because there's free value,
+free information, let me just save it.
+And did really, really well, dude, good shit.
+All right, who is this?
+Everyone saw his new landing page, any thoughts on it?
+Any suggestions for our friend?
+It feels unbalanced.
+Sorry?
+It feels like unbalanced to me,
+that I wouldn't use to see, for example,
+the deep pre-order button in the middle, like.
+like 95% of my things that are like,
+on the last escape, because the text is left online, so yeah.
+No, I'm not.
+So now even just learning the stuff
+that you learned with chats,
+you can make this so much better, right?
+But the other thing, I think this is still a lot better
+than the one you showed me, right?
+Where this one's like, okay, cool,
+I think it's a physical device that I just tap, right?
+Because not everyone's going to watch this video.
+No one's got time for it.
+because they're transacting with you at this stage in time and then money right
+you're asking them to give 15 30 seconds of their life from what in return right
+so it's like just being explicit about this will take you a lot farther I also
+went ahead and just did this for you where it's like you can just like
+simplify it a lot it's the same shit that you've done right that's it but it's
+Just like making, like give an audience a way to like just attach themselves to a few things and then be like, okay, cool.
+There's a hundred units.
+It's shipping in March and I can block anything with a tap.
+And it's an NFC device.
+And then just describing it.
+It's an NFC device.
+I did it in two minutes, so excuse my typo there, but it's an NFC device that lets you block any distractions.
+What I showed you, it had like designed against addiction, which doesn't mean anything.
+And you're like, what is that?
+Cool.
+Good stuff, though.
+Appreciate you just going out and shipping it, though.
+All right.
+Who's this?
+Oh, that's me.
+Want to talk about it?
+You shipped this, right?
+Yeah, yeah.
+This is my podcast.
+And basically, I just interview people that are building stuff with no code.
+The main chunk of the podcast in the middle is just like a demo.
+So we're sort of building some product or side project together.
+and I just ask a lot of questions.
+I fucking loved this dude.
+I really did.
+I saved it to a playlist,
+and it's an extremely high value video
+for people that are just trying to ship a no-code app.
+So how can, another one that I saved to watch later.
+But how can we blow this to 10x views?
+Any feedback?
+The starting picture, like it's not.
+Maybe you start with a thumbnail, right?
+Yeah, that's what I was looking for.
+The thumbnail, yeah.
+What do you mean?
+The title?
+Like the thing that captures the audience's attention, like that doesn't particularly-
+So change out of thumbnail.
+Yeah.
+Yeah.
+
+That is like-
+Yeah.
+And this is really high intent because it's like, people are searching for bubble apps,
+right? So again, that's your audience. Okay, just got to funnel them in.
+So they're going to mostly come through from YouTube search.
+What's the first thing they're going to see? Your title.
+description and the thumbnail. Cool. And just another easy one is cross-posting.
+Just there's so many different ways and I don't see a lot of you guys doing this, hence
+any hacker news, but hence...
+Okay, I'm jumping ahead a little bit because I want to talk about my mental mod, it's great.
+all right so yeah we can use it in cross post on bubble low code no code all these different places
+where you've already done the work bro right you've already made the video posted it on youtube
+you'll fix the thumbnail adjust the title you can a b test there as well so now it's like okay let's
+just get let's get as many different like you have built this house let's create more doors for people
+to come in right one door is youtube search can reddit be another and it's fine if only one person
+or no one walks through the door, it's okay.
+Right, it's just the amount of time and effort
+it took for you to make that video
+versus the amount of time and effort it'll take
+for you to make that one door, it's like, it's nothing.
+Right, so why not do that?
+Hacker News is another place.
+The worst case in this is like no one walks in
+through that door, which would be the same
+as if you never posted, but now you're at least
+giving it a shot for anyone to walk in through the door.
+And what's the best case, dude?
+just asymmetrical upside.
+The internet's just a crazy fucking place, right?
+Where one tweet of yours can blow up
+and you have all of a sudden a thousand people
+coming and checking out that video.
+It's like, don't rob yourself of that.
+You can also like cut up the best parts,
+work with someone like him.
+And just be like, all right, let's just ship them out.
+Again, more doors with even like hiring.
+I can't tell you guys how many times I've seen
+like a podcast clip or a product clip
+on TikTok in short form, and then went to YouTube.
+Like again, exited the app, went onto YouTube,
+searched for the podcast, and then watched it.
+Right, so it's like, again,
+don't rob yourself of those experiences.
+Okay, perfect.
+So why are you doing it?
+Shit, bro, leave the lecture, who cares?
+All right, and now, beautiful.
+So this, again, finally, fuck.
+All right, the variable lottery tickets mental model.
+The first time I'm presenting this,
+because it's super important for you guys
+to kind of understand this.
+So imagine a one billion Powerball, right?
+Pretty big Powerball.
+And you have two options.
+Option one is you buy one ticket for $2.
+This is a standard price for a Powerball ticket.
+Or I can get you eight tickets for $5.
+What do you pick?
+Everyone here?
+But even though you're spending three extra dollars,
+Yeah, I can get that open.
+Right?
+Makes sense?
+Anyone here gonna go with this one instead?
+All right.
+All right, so most of, in many ways, the internet is just this giant fucking problem, right?
+That's all it is.
+So you posting on the internet, it's like buying a lottery ticket.
+So, right?
+So, for example, you post it on YouTube.
+You could stop there, right?
+But three extra dollars, you cross posting on Hacker News, Reddit,
+you can get 10 more tickets for very little effort.
+So, place your bets accordingly.
+I have a little disclaimer.
+We do not endorse gambling or betting.
+Please gamble with what you can offer.
+But again, it's like barely anything, any effort for you to like just do,
+if you're posting on SoundCloud, also post on your Instagram story.
+Also make a reel on it.
+Also post on TikTok.
+Just get your bets in order.
+I mean, I imagine that framing also applies to whatever product you're distributing.
+Making the audience feel as though they're missing out if they don't get the best off.
+Yeah, so that's kind of like the scarcity model, right?
+Right? I think you did that this week as well,
+where you had 10, 12 spots or 10 spots, 12 spots.
+And you're like, okay, only 11 out of 12 gone, right?
+So it's like, okay, only one spot left.
+I'll just pull the trigger.
+Who else did that?
+Someone else did that too.
+I'm blanking.
+Anyway, but yeah, as you start,
+I want you to keep one final mental model in mind.
+This is a crazy one too. This is a wild one. Is Baby Bolt mental model?
+The name may change, still a work in progress, but is a baby fucking Usain Bolt? Yes or no?
+Who know who doesn't know Usain Bolt? Everyone knows Usain Bolt?
+All right
+So most of you are like a baby, right? You're learning how to take your first step
+you've mastered the art of crawling but you look around and you see all these other people walking
+and you're like man you think to yourself shit I could do that too right you get up you take your
+first steps you try but you fall and you're gonna keep falling but you don't go at this time and
+and think
+man everyone around me walk in and running and like no right like you don't think like that
+imagine if you thought like that if you were a baby if a baby had context on usain bolt
+and he just taken the first few steps falling look at that guy bro just like running at 9.8
+what the how am i ever gonna get there
+You see how crazy that sounds, but you see how all of you guys do that.
+So you got to not care what others think. It's okay if they laugh at you if you fall,
+it's fine. Not a big deal. You got to just get back up, take more steps, lean on others that
+can help you and use the support and you can string that first few steps together. And all
+of you guys here are going like are there to support each other we're here for you to get and
+string those first few steps together and in an alternate universe I believe that if a baby had
+full context and understanding uh on a bolt on a person like an Usain Bolt like they would take
+10 times longer to just get their first step uh and in many ways that is you guys so uh you guys
+have full context on what it takes to be great all the good and bad that comes with it you have
+full context on your idols you want to be like jobs gate swift drake whatever the fuck right
+uh and you want to achieve the great heights or records that they have set but
+just try not to think about that because that will just prohibit you from you and stringing
+those first few steps together it'll paralyze you for now just go and take your first few steps
+Stop overthinking for baby is not bold.
+All right, finally, assist of the week.
+Thank you, Kat, so much.
+Appreciate you.
+And thank you, Kiran and Somaya for the bang.
+Cool, that's all.
+Thank you, any questions?
+Looking back at the video,
+what do you think like did not go too right?
+Ah, good question, dude.
+I think the video in itself,
+everything was as expected for the most part.
+And we like obsess over the chat too.
+And how people, like there's an audible gasp
+that you can hear when the first time
+all the people popped up, people stopped typing.
+And then it's like, oh, that's, so it's like,
+all like we couldn't have anticipated a better response
+from the video, but it's like, we're back in the lab again.
+Just kind of like do the next ones and things of that nature.
+But yeah, not much, like, yeah.
+Because there's so many constraints that were placed, right?
+Like time as a constraint, resources as a constraint,
+so many other things to do as a constraint, right?
+So it's like, it's fine.
+We walk three steps, we didn't fall, great.
+We continue walking.
+How do you balance consistency in design
+with kind of like iterating and combining
+what your design is.
+Yeah, so that's why I've put consistency at the last,
+purely because you'll go through so many iterations
+till you find something that works for you
+and then figure out ways to be consistent.
+So in the beginning, it's very exploratory for sure, yes.
+I just wanna expand on that or ask that,
+that kinda goes into every element
+of developing a personal way in terms of like,
+maybe a landing page or like what type of product you like to produce.
+You're experimenting until you're like, oh, okay, I'm trying to get the hang of this.
+This is me.
+And then you go to optimize for production.
+Yes.
+Okay, cool.
+I was actually curious.
+So I know you spoke about the process a lot.
+So I was curious, like, how do you, like, audit that process?
+You know, how do you, like, figure out, like, okay, this may be where problems are there,
+you know?
+Yeah.
+Yeah, so basically I like it's for me it's very subconsciously I'll do that but
+like now having even gone through the last week or 10 days working on this,
+the next time you make like I know I'm going to optimize the process. Like
+there's lots of like little tweaks that I can make. So for example like just
+making sure the script is actually done one step prior.
+Yeah, I think I'm more curious about when you first approach something that's new,
+you know when you like you have some sort of process let's say for content
+creation but let's say for me I'm going from now I've been writing on Twitter
+for a while and I want to start making more like short form video content
+right so I have a process for content creation but that process isn't going to
+be great for Instagram same as what I use for Twitter right so how do I like
+maybe make that shift you know how do I know what's important in the process
+that can carry over and solve what doesn't?
+So, again, the first few times you just create
+three shorts, right?
+And just figure, just how you would do it normally.
+Right, so maybe ask each or someone
+who's already done that.
+That's kind of like the benefit you have
+because some people here already are making
+short form content, but it's like, okay, cool.
+Even if you didn't have that, for example.
+Like, okay, use a tool that you're familiar with.
+Maybe you've used CapCut in it before.
+Maybe when you were 70, you fucking turned up iMovie, right?
+So like just use whatever you have and then just post it.
+And then again, you can still work on the narrative,
+you can still work on the script.
+And then you can like, again, look at the feedback, right?
+Which is like, hey.
+What I'm hearing is like,
+just you audit the process by doing it.
+Well, the first thing you'll learn is like,
+how long did it fucking take for me to make three videos,
+right?
+If it's taking you three days to make it,
+be like, okay, can I get it to under a day?
+What do I need to introduce in my workflow?
+that I can get it under a day, things like that.
+And then over time, you can keep refining that for sure.
+Yeah, the question about branding.
+So I'm considering maybe renaming the product that I have,
+just because there was like a, in the same space,
+thing with the same name.
+And I'm sort of stuck between going for something completely
+imaginative, for example, or more descriptive.
+like this, for example, domain, .
+I don't know whether you have any thoughts about what.
+How long have you spent on it?
+Not really.
+Just pick one and go for it.
+Yeah, just pick any, whatever it feels.
+Think about it.
+The best thing I do is I'll take a problem to bed, right?
+And I'll just wake up and I'll have clarity on it.
+So pick a few names that you kind of like fuck with,
+and the domains are available, the handles are available,
+and then just go.
+You can always rename.
+Facebook became meta after God knows how long, right?
+So it's like, doesn't matter.
+All right, thank you so much.
+Was this fun?
