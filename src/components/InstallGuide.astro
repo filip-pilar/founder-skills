@@ -1,10 +1,21 @@
 ---
 import { SITE, claudeNewUrl } from "../config";
+import { categories, getSkillById } from "../data/skills";
 
 const allSkillsPrompt = `git clone ${SITE.github}.git and install all skills from the skills/ directory.`;
 
 const cheekyPrompt = "ELI5 why I should be using Claude for my startup";
 const tryClaudeUrl = claudeNewUrl(cheekyPrompt);
+
+const skillPickerData = categories.map((cat) => ({
+  category: cat.name,
+  skills: cat.skills
+    .map((id) => {
+      const s = getSkillById(id);
+      return s ? { id: s.id, name: s.name, file: s.downloadFile } : null;
+    })
+    .filter(Boolean),
+}));
 ---
 
 <section id="install" class="mx-auto max-w-[1100px] px-6 pb-28">
@@ -18,17 +29,16 @@ const tryClaudeUrl = claudeNewUrl(cheekyPrompt);
   <div class="rounded-2xl bg-[var(--color-bg-card)] p-7">
     <!-- Download -->
     <div class="mb-5">
-      <a
-        href="/downloads/skills-all.zip"
-        download
-        class="inline-flex items-center gap-2 bg-[var(--color-text)] text-[var(--color-bg)] px-5 py-2.5 rounded-full text-[14px] font-medium hover:opacity-80 transition-opacity"
+      <button
+        id="open-skill-picker"
+        class="inline-flex items-center gap-2 bg-[var(--color-text)] text-[var(--color-bg)] px-5 py-2.5 rounded-full text-[14px] font-medium hover:opacity-80 transition-opacity cursor-pointer"
       >
         <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-        Download all skills (.zip)
-      </a>
+        Download skills (.zip)
+      </button>
     </div>
     <p class="text-[14px] text-[var(--color-text-body)] mb-6">
-      <a href="https://claude.ai/settings/capabilities" target="_blank" rel="noopener noreferrer" class="underline underline-offset-2 decoration-[var(--color-border)] hover:decoration-[var(--color-text)] transition-colors">Open Claude Settings &rarr; Capabilities</a>, scroll to Skills, click "Add skill", and upload the .zip file (no need to unzip). Or paste the contents into any AI.
+      <a href="https://claude.ai/settings/capabilities" target="_blank" rel="noopener noreferrer" class="underline underline-offset-2 decoration-[var(--color-border)] hover:decoration-[var(--color-text)] transition-colors">Open Claude Settings &rarr; Capabilities</a>, scroll to Skills, click "Add skill", and upload each .zip file (no need to unzip). Or paste the contents into any AI.
     </p>
 
     <!-- Agent prompt -->
@@ -61,8 +71,40 @@ const tryClaudeUrl = claudeNewUrl(cheekyPrompt);
   </div>
 </section>
 
+<!-- Skill picker modal -->
+<div id="skill-picker-backdrop" class="fixed inset-0 z-50 hidden items-center justify-center bg-black/40 backdrop-blur-sm p-4 opacity-0 transition-opacity duration-200">
+  <div id="skill-picker-modal" class="w-full max-w-[520px] max-h-[85vh] bg-[var(--color-bg)] rounded-2xl shadow-xl flex flex-col">
+    <!-- Header -->
+    <div class="flex items-center justify-between px-6 pt-5 pb-4">
+      <h3 class="text-lg font-medium text-[var(--color-text)]">Download skills</h3>
+      <button id="skill-picker-close" class="p-1.5 text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors rounded-lg hover:bg-[var(--color-bg-card)]" aria-label="Close">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+
+    <!-- Subheader -->
+    <div class="flex items-center justify-between px-6 pb-3">
+      <button id="skill-picker-toggle-all" class="text-[13px] text-[var(--color-accent-warm)] hover:underline underline-offset-2 cursor-pointer">Deselect all</button>
+      <span id="skill-picker-count" class="text-[13px] text-[var(--color-text-muted)]"></span>
+    </div>
+
+    <!-- Scrollable skill list -->
+    <div id="skill-picker-list" class="flex-1 overflow-y-auto px-6 pb-4 min-h-0"></div>
+
+    <!-- Footer -->
+    <div class="px-6 py-4 border-t border-[var(--color-border)]">
+      <button id="skill-picker-download" class="w-full bg-[var(--color-text)] text-[var(--color-bg)] px-5 py-2.5 rounded-full text-[14px] font-medium hover:opacity-80 transition-opacity cursor-pointer disabled:opacity-40 disabled:cursor-not-allowed">
+        Download skills
+      </button>
+    </div>
+  </div>
+</div>
+
+<script type="application/json" id="skill-picker-data" set:html={JSON.stringify(skillPickerData)} />
+
 <script>
   document.addEventListener('astro:page-load', () => {
+    // Copy button logic
     document.querySelectorAll('.copy-btn').forEach(btn => {
       btn.addEventListener('click', async () => {
         const text = (btn as HTMLElement).dataset.copy || '';
@@ -74,6 +116,133 @@ const tryClaudeUrl = claudeNewUrl(cheekyPrompt);
           setTimeout(() => { svg.innerHTML = original; }, 1500);
         }
       });
+    });
+
+    // Skill picker modal
+    const dataEl = document.getElementById('skill-picker-data');
+    if (!dataEl) return;
+    const pickerData: { category: string; skills: { id: string; name: string; file: string }[] }[] = JSON.parse(dataEl.textContent || '[]');
+
+    const backdrop = document.getElementById('skill-picker-backdrop')!;
+    const modal = document.getElementById('skill-picker-modal')!;
+    const openBtn = document.getElementById('open-skill-picker')!;
+    const closeBtn = document.getElementById('skill-picker-close')!;
+    const toggleAllBtn = document.getElementById('skill-picker-toggle-all')!;
+    const countLabel = document.getElementById('skill-picker-count')!;
+    const listEl = document.getElementById('skill-picker-list')!;
+    const downloadBtn = document.getElementById('skill-picker-download')!;
+
+    // Render skill list
+    let html = '';
+    for (const group of pickerData) {
+      html += `<div class="mb-4"><div class="text-[11px] font-medium uppercase tracking-wider text-[var(--color-text-muted)] mb-2">${group.category}</div>`;
+      for (const skill of group.skills) {
+        html += `<label class="flex items-center gap-3 py-1.5 cursor-pointer group">
+          <input type="checkbox" class="skill-checkbox accent-[var(--color-text)] w-4 h-4 rounded cursor-pointer" data-file="${skill.file}" checked>
+          <span class="text-[14px] text-[var(--color-text-body)] group-hover:text-[var(--color-text)] transition-colors">${skill.name}</span>
+        </label>`;
+      }
+      html += '</div>';
+    }
+    listEl.innerHTML = html;
+
+    const allCheckboxes = () => listEl.querySelectorAll<HTMLInputElement>('.skill-checkbox');
+
+    function updateCounts() {
+      const boxes = allCheckboxes();
+      const checked = Array.from(boxes).filter(cb => cb.checked).length;
+      const total = boxes.length;
+
+      countLabel.textContent = `${checked} selected`;
+
+      if (checked === 0) {
+        downloadBtn.textContent = 'Select skills to download';
+        (downloadBtn as HTMLButtonElement).disabled = true;
+      } else {
+        downloadBtn.textContent = `Download ${checked} skill${checked === 1 ? '' : 's'}`;
+        (downloadBtn as HTMLButtonElement).disabled = false;
+      }
+
+      toggleAllBtn.textContent = checked === total ? 'Deselect all' : 'Select all';
+    }
+
+    // Event delegation for checkboxes
+    listEl.addEventListener('change', (e) => {
+      if ((e.target as HTMLElement).classList.contains('skill-checkbox')) {
+        updateCounts();
+      }
+    });
+
+    // Toggle all
+    toggleAllBtn.addEventListener('click', () => {
+      const boxes = allCheckboxes();
+      const allChecked = Array.from(boxes).every(cb => cb.checked);
+      boxes.forEach(cb => { cb.checked = !allChecked; });
+      updateCounts();
+    });
+
+    // Open modal
+    function openModal() {
+      // Reset all checkboxes to checked
+      allCheckboxes().forEach(cb => { cb.checked = true; });
+      updateCounts();
+
+      backdrop.classList.remove('hidden');
+      backdrop.classList.add('flex');
+      // Trigger fade in on next frame
+      requestAnimationFrame(() => {
+        backdrop.style.opacity = '1';
+      });
+      document.body.style.overflow = 'hidden';
+    }
+
+    // Close modal
+    function closeModal() {
+      backdrop.style.opacity = '0';
+      setTimeout(() => {
+        backdrop.classList.add('hidden');
+        backdrop.classList.remove('flex');
+        document.body.style.overflow = '';
+      }, 200);
+      openBtn.focus();
+    }
+
+    openBtn.addEventListener('click', openModal);
+    closeBtn.addEventListener('click', closeModal);
+
+    // Click outside modal to close
+    backdrop.addEventListener('click', (e) => {
+      if (e.target === backdrop) closeModal();
+    });
+
+    // ESC to close
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && !backdrop.classList.contains('hidden')) {
+        closeModal();
+      }
+    });
+
+    // Download selected skills
+    downloadBtn.addEventListener('click', async () => {
+      const files = Array.from(allCheckboxes())
+        .filter(cb => cb.checked)
+        .map(cb => cb.dataset.file!);
+
+      if (files.length === 0) return;
+
+      closeModal();
+
+      for (let i = 0; i < files.length; i++) {
+        const a = document.createElement('a');
+        a.href = `/downloads/${files[i]}`;
+        a.download = files[i];
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        if (i < files.length - 1) {
+          await new Promise(r => setTimeout(r, 300));
+        }
+      }
     });
   });
 </script>
