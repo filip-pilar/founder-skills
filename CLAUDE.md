@@ -21,6 +21,8 @@ A static website showcasing 14 downloadable AI skills for startup founders. Buil
 
 2. **`skills/<skill-id>/`** — The actual downloadable skill content. Each directory has `SKILL.md` (the AI prompt with frontmatter name/description) and `references.md` (frameworks and examples). These get packaged by `package-skills.sh` into `public/downloads/`.
 
+3. **`sources/`** — Raw transcripts (`transcripts/`) and processed knowledge files (`knowledge/`) from the 24 buildspace lectures the skills were built from. These are reference material, not used at build time.
+
 When adding a new skill, you must update both: add the directory under `skills/` and add the entry in `src/data/skills.ts` (plus add it to the `categories` array).
 
 **Pages:**
