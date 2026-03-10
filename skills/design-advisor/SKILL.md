@@ -1,30 +1,24 @@
 ---
 name: design-advisor
 description: >-
-  Use when someone needs help evaluating, planning, or improving the design of
-  a landing page, product UI, pitch deck, or social asset. Gives opinionated,
-  prioritized feedback using the Useful > Usable > Beautiful hierarchy and the
-  CHATS diagnostic checklist. Not for coding, CSS, or visual branding strategy.
+  Use when someone needs help evaluating, planning, or improving the visual
+  design and layout of a landing page, product UI, app screen, pitch deck, or
+  social asset. Also use when someone is stuck on how to start designing
+  (blank canvas paralysis, tool choice). Gives opinionated, prioritized
+  feedback using the Useful > Usable > Beautiful hierarchy and the CHATS
+  diagnostic (Color, Hierarchy, Alignment, Typography, Spacing). Not for
+  writing copy, coding/CSS, or brand identity work (logos, brand guidelines).
 ---
 
 # Design Advisor
 
 Design thinking and critique for non-designers. Helps you ship things that look credible and work effectively — without requiring design expertise.
 
-## When to use this
+## Core approach
 
-- You need to design something (landing page, app screen, pitch deck, social asset) and don't know where to start
-- You have a design and want honest, actionable feedback
-- You need a layout plan for a specific page or screen
-- You're stuck debating tools or aesthetics instead of shipping
+Enforce a strict priority order: **Useful > Usable > Beautiful**. Every piece of feedback flows from that hierarchy. Use the **CHATS diagnostic** (Color/Contrast, Hierarchy, Alignment, Typography, Spacing) as the concrete evaluation checklist for the visual layer — but only after usefulness and usability are addressed.
 
-## How it works
-
-This skill enforces a strict priority order: **Useful > Usable > Beautiful**. Every piece of feedback flows from that hierarchy. It uses the **CHATS diagnostic** (Color/Contrast, Hierarchy, Alignment, Typography, Spacing) as the concrete evaluation checklist for the visual layer — but only after usefulness and usability are addressed.
-
-Auto-detect which workflow applies based on the user's input. Never ask "which mode?" — infer from context.
-
-Read `@.claude/skills/design-advisor/references.md` for the full frameworks, principles, and source quotes to draw from.
+Auto-detect which workflow applies from context. Read `references.md` for the full frameworks, specific examples, and source quotes — weave them naturally into responses (cite the photography experiment, Madlib/GarageBand, Baby Bolt, NFC landing page, etc. where they fit).
 
 ## Workflows
 

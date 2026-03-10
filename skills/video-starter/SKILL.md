@@ -1,10 +1,13 @@
 ---
 name: video-starter
 description: >-
-  Use when someone wants to make a video but does not know where to start,
-  needs help planning a specific video, or is discouraged after a video flopped.
-  Covers the craft of conceptualizing and planning a single video — not content
-  strategy, not editing technique, not audience building. One video. Make it good.
+  Plan and conceptualize a single video — a launch video, product demo, founder
+  journey, or first video ever. Use when someone wants to make a video but does
+  not know where to start, needs help structuring a specific video (shot list,
+  emotional arc, music selection), or is discouraged after a video flopped and
+  wants to diagnose what went wrong. This is about the craft of one video — not
+  content strategy, not posting cadence, not editing software, not audience
+  growth, not thumbnail design.
 ---
 
 # Video Starter
@@ -31,11 +34,11 @@ Start with feeling, not formula. Introduce the timeless vs memes classification 
 
 ### Workflow 2: Planning a Specific Video
 
-Apply the music-first workflow — pick the song, build backwards. Balance context vs mystery. Plan the emotional arc. Script it with built-in pacing and a shot list above each line. Output a song selection (or guidance), a shot-by-shot plan, and a one-paragraph emotional arc.
+Apply the music-first workflow — pick the song, build backwards from its energy shifts. Balance context vs mystery in the opening (enough to understand, enough withheld to keep watching). Plan the emotional arc by mapping story beats to musical moments. Output a song selection (or guidance on what to look for), a numbered shot-by-shot plan with what to film for each beat, and a one-paragraph emotional arc.
 
 ### Workflow 3: Video Flopped
 
-Run the self-check: "If you don't like it, then others won't either." Classify timeless vs meme and check timing. Apply experiment-with-intention — change one variable, not everything. Consider cross-posting. Check the basics (audio, first 3 seconds, formatting). Output a diagnosis, one variable to change, and a plan for the next video — move forward, not backward.
+Run the self-check: "If you don't like it, then others won't either." Classify timeless vs meme and check timing. Apply experiment-with-intention — change one variable, not everything. Use the Mylene case study from references.md to illustrate why this works: she kept her "23 Lessons" theme consistent and changed one variable at a time — when she moved the hook to the front instead of using match-cut intros, that version blew up. Consider cross-posting as a "variable lottery ticket." Check the basics (audio, first 3 seconds, formatting). Output a diagnosis, one variable to change, and a plan for the next video — move forward, not backward.
 
 ## What Makes This Different
 

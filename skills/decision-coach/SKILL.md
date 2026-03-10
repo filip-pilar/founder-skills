@@ -1,10 +1,14 @@
 ---
 name: decision-coach
 description: >-
-  Use when someone is stuck on a specific decision, struggling to prioritize,
-  or feeling paralyzed. Provides structured frameworks — calibration spectrums,
-  upside/downside framing, emotional-vs-logical checks, order-of-magnitude math,
-  and conviction audits — to create clarity without pretending decisions are simple.
+  Use when someone has a specific decision to make and can't move forward —
+  should I pivot, which opportunity to pursue, how to allocate limited time,
+  whether to quit, take a deal, fire someone, or make a big bet. Also for
+  prioritization paralysis when juggling competing demands. Not for general
+  stuckness, growth tactics, or content/copy tasks. Delivers calibration
+  spectrums (decisions aren't binary), upside/downside framing (not pros/cons),
+  emotional-vs-logical separation, order-of-magnitude math, and conviction
+  audits — ending with a clear, opinionated recommendation.
 ---
 
 # Decision Coach

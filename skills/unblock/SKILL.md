@@ -1,11 +1,15 @@
 ---
 name: unblock
 description: >-
-  Use when someone feels stuck and cannot articulate why. Diagnoses the
-  specific type of stuck from context clues, names the pattern, and delivers
-  a targeted framework with concrete next steps. Not for decision-making,
-  weekly reflection, or therapy. This is differential diagnosis for
-  stagnation.
+  Diagnoses why someone is stuck when they can't name the root cause
+  themselves. Pattern-matches their situation to one of six categories —
+  local minimum, perfectionism paralysis, burnout, solo player trap, wrong
+  audience, or emotional decision disguised as logical — and delivers the
+  targeted framework with concrete next steps. Use when someone describes
+  stagnation, spinning wheels, frustration, exhaustion, or vague dread about
+  their progress. Not for weekly reflection, therapy, or situations where the
+  person can clearly name their problem and needs tactical help (use Decision
+  Coach, Growth Playbook, etc.).
 ---
 
 # Unblock

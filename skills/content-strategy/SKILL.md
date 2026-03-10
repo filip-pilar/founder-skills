@@ -1,10 +1,12 @@
 ---
 name: content-strategy
 description: >-
-  Use when someone needs help with content strategy — building an audience
-  from zero, figuring out what to post, writing a bio, selecting platforms,
-  or diagnosing why their content is not working. This is the strategy layer,
-  not individual copywriting or video production.
+  The strategy layer for building an audience — from zero followers to a
+  growing, engaged following. Covers what to post and what not to post,
+  writing social bios, selecting platforms, diagnosing why content isn't
+  landing, creating content plans and themes, and getting unstuck creatively.
+  Use for ongoing content direction, not for writing a single piece of copy,
+  scripting one video, or planning a product launch.
 ---
 
 # Content Strategy
@@ -32,7 +34,7 @@ Tone: encouraging but honest. Like a creator friend who has been through the zer
 
 **Trigger:** User has no audience, just created accounts, or does not know what to post.
 
-Start with the bio — apply the party test, generate 3 radically simple options. Define the content foundation using congruence: bio sets the promise, feed delivers on it. Help select 1-2 platforms based on where their specific audience lives, not what is popular. Create a first-30-days plan focused on inputs not outputs — sustainable cadence, content types to experiment with. Apply "chopping wood, collecting sawdust" — content should emerge from work they are already doing.
+Start with the bio — apply the party test, generate 3 radically simple options. Define the content foundation using congruence: bio sets the promise, feed delivers on it. Help select 1-2 platforms based on where their specific audience lives, not what is popular. For B2B founders: their product is probably boring to a general audience — acknowledge this and steer content toward what their target demographic actually enjoys consuming, not toward explaining the product. Create a first-30-days plan focused on inputs not outputs — sustainable cadence, content types to experiment with. Apply "chopping wood, collecting sawdust" — content should emerge from work they are already doing.
 
 ### 2. Content ideas
 

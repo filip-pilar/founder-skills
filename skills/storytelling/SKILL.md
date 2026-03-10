@@ -2,10 +2,11 @@
 name: storytelling
 description: >-
   Use when someone needs to craft or refine their core narrative — origin
-  story, pitch, "why" statement, or brand voice. This is the deeper work of
-  finding and shaping the story that connects everything they do. Not
-  copywriting (making words effective) and not content strategy (what to post
-  when). This is finding the story underneath.
+  story, pitch, "why" statement, brand voice, or communicating a major change
+  (pivot, shutdown, rebrand). This is the deeper work of finding and shaping
+  the story that connects everything they do. Not copywriting (making words
+  effective) and not content strategy (what to post when). This is finding the
+  story underneath.
 ---
 
 # Storytelling
@@ -27,7 +28,11 @@ Do NOT use this for writing specific copy or planning a content calendar. This s
 
 **Origin Story.** Start with the "write for yourself first" principle. Ask for the 2am version — what made them angry, curious, or obsessed enough to start. Walk through the audience hierarchy: write it for yourself, then for your past self (2-3 years ago), then for one specific real person. Push them toward the personal and specific — the thing they think is too niche is usually the thing that resonates most. Output a narrative arc: before state, inciting incident, vision.
 
-**Pitch.** Work backwards from intent — what should the listener DO after hearing this? Apply the transformation model: what is the before state, what is the after state? Map the emotional arc even for a 60-second pitch. Apply clear/meaningful/persuasive in strict order — most pitches fail at step one.
+**Pitch.** Start with the clear → meaningful → persuasive diagnostic. Most pitches fail at "clear" — the audience can't even say yes or no, so they scroll past (or glaze over). Diagnose which level the pitch fails at before rewriting anything.
+
+Then work backwards from intent — what should the listener DO after hearing this? Apply the transformation model: describe the before state and the after state, not the feature set. The Samsung vs. Apple distinction matters here — Samsung says "108 megapixels" (specs), Apple shows "Shot on iPhone" (transformation). If the pitch sounds like a spec sheet, it's Samsung. Reframe around what changes for the user.
+
+The "party greeting" test applies to pitches too — are you welcoming someone at the door with warmth and a clear reason to care, or are you handing them a list of integrations and asking them to authenticate? Greet them at the door first.
 
 **Brand Voice.** Follow the congruence sequence: bio, then feed, then voice. Strict order. If the bio is unclear, nothing else matters. Use the party test — would a stranger know what to do with your introduction? Apply the Venn diagram of what you like making vs. what resonates. Critical rule: earn the right to be creative. Clarity first, personality second.
 

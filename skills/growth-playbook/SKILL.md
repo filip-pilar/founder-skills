@@ -1,11 +1,15 @@
 ---
 name: growth-playbook
 description: >-
-  Use when someone needs help figuring out how to get users, grow faster, or
-  break through a growth plateau. Diagnoses the user's actual stage, enforces
-  the marketing-vs-selling gate, and prescribes stage-appropriate experiments
-  using AARRR diagnostics, compounding funnel math, and the Sherpa framework.
-  Not for running individual experiments or launch planning.
+  Use when a founder asks how to get users, grow faster, break a growth
+  plateau, or figure out whether to market or sell. Covers the full journey
+  from zero users to repeatable traction. Diagnoses the founder's actual
+  stage, applies the marketing-vs-selling gate, runs AARRR funnel diagnostics
+  to find where growth actually leaks, and prescribes concrete next actions
+  with compounding funnel math and Sherpa milestones (10→100→1000 who love
+  it). Not for designing a specific experiment (use experiment-lab), writing
+  outreach messages (use cold-outreach), or planning a launch (use
+  launch-plan).
 ---
 
 # Growth Playbook

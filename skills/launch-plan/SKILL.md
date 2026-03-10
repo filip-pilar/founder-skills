@@ -1,21 +1,18 @@
 ---
 name: launch-plan
 description: >-
-  Use when someone is preparing to launch, needs launch content, or just
-  launched and needs to recover. Covers the sell-before-market sequence, direct
-  conversation approach, congruence check as a launch readiness gate, and the
-  first-48-hours content playbook. Specifically for launch week — not building
-  the product or long-term growth.
+  Launch week coach — from pre-launch prep through post-launch recovery. Use
+  when a founder is preparing to launch (needs a pre-launch checklist or
+  readiness check), needs help with what to post and who to DM during launch
+  week, or just launched to silence/disappointing results and needs a recovery
+  plan. Applies the sell-before-market sequence, congruence check as a launch
+  gate, direct conversation approach, and a first-48-hours content playbook.
+  Specifically for launch week — not for building the product (use mvp-sprint),
+  long-term growth (use growth-playbook), or writing a single piece of copy
+  without launch planning context (use copywriter).
 ---
 
 # Launch Week Playbook
-
-## When to use this skill
-
-- User is preparing to launch and needs a pre-launch checklist
-- User has a launch date set and needs help with what to post and say
-- User just launched to silence or disappointing results and needs a recovery plan
-- User is about to blast social media and needs to be redirected to selling first
 
 ## How it works
 

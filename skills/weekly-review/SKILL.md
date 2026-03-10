@@ -1,23 +1,17 @@
 ---
 name: weekly-review
 description: >-
-  Use when it is Friday and you want to run your weekly review ritual.
-  Seven sequential steps, each grounded in a named framework from buildspace
-  lectures. Walk through the full ritual every week — no skipping, no
-  shortcuts. Builds judgment over time through deliberate repetition.
+  Use when it is Friday (or end of the week) and the user wants to run their
+  weekly review, check-in, or standup ritual. Seven sequential steps, each
+  grounded in a named framework from buildspace lectures. Walk through the full
+  ritual every week — no skipping, no shortcuts. Builds judgment over time
+  through deliberate repetition. Not for diagnosing a specific stuck moment
+  (use Unblock) or making a one-off decision (use Decision Coach).
 ---
 
 # Weekly Review
 
 A structured Friday ritual. Seven steps. Same order every time. Each step uses a specific named framework — not generic reflection questions. The person who does this 12 Fridays in a row will make fundamentally better decisions than one who does not.
-
-## When to use this skill
-
-- Every Friday as a recurring weekly practice — not when something is broken, but as ongoing discipline
-- When you want structured reflection that builds on itself week over week
-- When you need to close the loop on the week and set one clear intention for the next
-
-This is NOT for making a specific decision in the moment or diagnosing a specific stuck moment. This is the weekly practice that builds the muscle.
 
 ## How it works
 
@@ -27,19 +21,19 @@ Read `references.md` in this skill directory before starting. It contains the so
 
 ## The 7 Steps
 
-1. **"What changed?"** — The daily "What is changing today?" practice, rolled up weekly. Name 2-3 things that changed. If nothing changed, that is itself a signal.
-2. **Inputs check** — Focus on inputs, not outputs. Did you show up? Track consistency of action, not results you cannot control.
-3. **AARRR stage audit** — Which stage of the pirate metrics funnel moved? Which needs attention? Are you tracking a single scoreboard metric?
-4. **Hold strongly / hold loosely audit** — State your core conviction (held strongly) and your current execution (held loosely). Check if you are gripping anything too tightly.
-5. **On-season / off-season check** — Are you in execution mode or exploration mode? Is that the right mode right now?
-6. **Fun check** — Are you having fun? Three consecutive weeks without fun is not a mood — it is a structural signal.
-7. **One thing for next week** — Name the ONE thing changing next week. Not a to-do list. One thing. This creates the through-line to next Friday.
+1. **"What changed?"** — Frame as inevitability: not "should something change?" but "what is changing?" Name 2-3 things that changed. If nothing changed, that is itself a signal — probe whether they're stuck in a local minimum optimizing small steps when they need a larger one. Ask: "What needs to be looked at from first principles again?"
 
-## What makes this different
+2. **Inputs check** — Inputs are recurring, controllable actions: publishing, reaching out, having conversations, shipping. NOT outputs like signups, revenue, or views. And NOT one-off reactive work or "thinking about strategy." Ask what their specific recurring input commitments are and whether they hit them. If their week was consumed by reactive work or research, name that clearly — it's not the same as intentional inputs even if they were busy.
 
-- **Named frameworks at every step** — not "what went well / what could improve" but specific models with specific names drawn from buildspace lectures
-- **Designed for weekly repetition** — the same seven steps build pattern recognition over time as you notice recurring signals
-- **Builds judgment** — each step trains a specific muscle: noticing change, tracking effort, diagnosing funnels, separating conviction from execution, managing energy, sustaining fun, forcing prioritization
+3. **AARRR stage audit** — Map their week to the five pirate metrics stages: Acquisition, Activation (the "oh shit" moment), Retention (push vs pull), Referral, Revenue. The most common mistake is doing acquisition work when the real problem is activation — call this out when you see it. Ask for their single scoreboard metric ("If you play 48 minutes of basketball and look up to find no scoreboard, who won?"). Then apply the A-plus problem: their product is a river blocked by boulders, and each week they can move one. Which boulder is blocking the most water?
+
+4. **Hold strongly / hold loosely audit** — Hold strongly = core conviction (the deep reason they're building this). Hold loosely = specific execution (how they're doing it). Execution should change freely; conviction stays constant. Examples: Ali holds strongly "great AI for lawyers," holds loosely "a product that helps lawyers make arguments." Nyati holds strongly "help people be in touch with emotions," holds loosely "20-30 second short-form content." The danger is holding execution decisions as if they were convictions — gripping a specific format, platform, partnership, or fundraising timeline too tightly. Ask: what are you gripping that should be held loosely?
+
+5. **On-season / off-season check** — Type One focus (on-season): locked in on a clear milestone, not questioning it. Nolan on set. Kobe in the fourth quarter. Type Two (off-season): playing, training, testing limits. Both become destructive at extremes — grinding without a clear goal is on-season without a target, while endless exploring without committing is off-season without structure. Ask which mode they're in and whether that's right.
+
+6. **Fun check** — Three or more consecutive weeks without fun is not a mood — it is a structural signal that something in the work design needs to change. Fun is what keeps people going long enough to win. If they report a fun plateau, ask how many weeks it's been and treat crossing the 3-week threshold as urgent.
+
+7. **One thing for next week** — Not a to-do list. One thing. Connect it to the A-plus problem from Step 3 — the biggest boulder they can move. Pressure-test with three questions: (1) Why am I doing this? (2) Does it still make sense? (3) Is this literally the best action I have right now?
 
 ## Voice
 

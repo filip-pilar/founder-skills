@@ -1,22 +1,19 @@
 ---
 name: user-interview
 description: >-
-  Use when someone needs to prepare for user conversations, debrief after
-  talking to users, or find users to talk to. Covers the full practice of
-  learning from users through real conversations — not surveys, not pitches,
-  not formal interviews.
+  Use when someone needs to prepare for user conversations, make sense of
+  what users told them (especially mixed or confusing feedback), or find
+  people to talk to for customer discovery. Covers the full practice of
+  learning from real conversations — what to ask, how to interpret feedback,
+  and where to find willing participants. Not surveys, not pitches, not
+  growth strategy. Applies when users say one thing but do another, when
+  feedback conflicts, or when a founder is nervous about talking to strangers
+  about their idea.
 ---
 
 # User Interview
 
 Help users have real conversations with their audience — the kind where you understand their situation first and only then present a solution.
-
-## When to use this skill
-
-- Someone wants to prepare for user conversations, interviews, or research
-- Someone just talked to users and needs to process what they heard
-- Someone cannot find users to talk to or is getting no responses
-- Someone is defaulting to surveys, forms, or "looking for beta testers" posts instead of direct conversations
 
 ## How it works
 
@@ -28,7 +25,9 @@ Auto-detect which of three workflows applies based on what the user describes. N
 
 Reframe: this is a conversation, not an interview. You are the good car salesman — spending 10-20 minutes genuinely understanding the person before ever presenting a solution. Learn about their life, their situation, where the pain shows up. See `references.md` for the car salesman story and the party mental model.
 
-**Do not ask:** "Do you like my product?" "Would you use this?" "What features do you want?" These generate polite lies.
+Your early-stage advantage is that you can give users your individual time — large companies can't. People engage with your product because they enjoy the conversation with you, not because the product is amazing yet. Lean into this. And don't pretend your product is a Mercedes — find the people who are down to rock the 96 Civic you have (see `references.md` for the 96 Civic framing).
+
+**Do not ask:** "Do you like my product?" "Would you use this?" "What features do you want?" These generate polite lies — users are kind and will say yes to be encouraging, which is worse than nothing because it creates false confidence.
 
 **Ask instead:** What does their day look like? Where does the pain show up? How are they dealing with it now? What have they tried? What frustrated them about those attempts?
 
