@@ -20,7 +20,7 @@ Each skill is a self-contained package (`SKILL.md` + `references.md`) that turns
 
 **Option 1 — Upload directly**
 
-Download a `.zip` from the [website](https://github.com/filip-pilar/founder-skills) or grab a skill directory from this repo. Upload to Claude (Settings > Capabilities) or paste the `SKILL.md` contents into any AI chat.
+Download a `.zip` from the [website](https://github.com/filip-pilar/founder-skills) or grab a skill directory from this repo. Upload to Claude ([Customize](https://claude.ai/customize) > Skills) or paste the `SKILL.md` contents into any AI chat.
 
 **Option 2 — Agent prompt**
 
