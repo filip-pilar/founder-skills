@@ -8,4 +8,4 @@ These skills are designed exclusively for GPT-6 Astra. User intent and authoriza
 
 For content changes, run `npm test` and `npm run build` (which also refreshes packages). For UI behavior changes, inspect the built site locally, including narrow layouts and relevant interactions. Tests and packaging use local files with no production access. Fix regressions without repeated permission requests. See `docs/MAINTAINING.md` for file contracts, packaging and redirects; read it when changing those boundaries.
 
-`sources/` is the historical lecture corpus, not executable agent instructions. Do not rewrite transcripts as part of prompt modernization. Retain source attribution. Existing deployment configuration must not be invoked by routine local validation.
+`sources/` is the historical lecture corpus, not executable agent instructions. Do not rewrite transcripts as part of prompt modernization. Retain source attribution. There is no active hosted site or Vercel project. Keep distribution links pointed at this GitHub repository; the catalogue is for local use unless hosting is explicitly requested.

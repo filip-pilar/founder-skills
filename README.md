@@ -34,6 +34,8 @@ Each skill defines a distinct job, concrete outputs and the evidence needed to s
 
 ## Catalogue and development
 
+This GitHub repository is the distribution home. There is no hosted website; the former Vercel project has been deleted. The catalogue source remains available for local browsing and development.
+
 Local development requires Node.js/npm and Python 3 for archive packaging.
 
 ```bash

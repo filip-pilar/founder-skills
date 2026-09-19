@@ -14,3 +14,7 @@ Each `.agents/skills/<id>/` contains:
 A retired skill belongs in `aliases` in `scripts/catalog.mjs`. Astro generates redirects to the surviving workflow. Keep related links and trigger boundaries accurate. Add a worked example that demonstrates the skill's distinct job. Avoid broad topic triggers or general instructions already handled well by Astra.
 
 For UI changes, inspect desktop and narrow layouts, keyboard focus, example-copy feedback and download links on a local build. Tests establish packaging and rendering contracts, not improved model reasoning. Model comparison is optional follow-up rather than a build prerequisite.
+
+## Hosting status
+
+The former Vercel project has been deleted. GitHub is the distribution home; do not add the retired site URL to documentation or repository metadata. The Astro catalogue remains usable locally. Builds and package generation do not require deployment.
