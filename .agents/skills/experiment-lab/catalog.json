@@ -1,0 +1,30 @@
+{
+  "id": "experiment-lab",
+  "name": "Experiment Design",
+  "category": "Growth",
+  "order": 3,
+  "model": "gpt-6-astra",
+  "description": "Turn a guess into a test whose result can support a decision.",
+  "type": "planning",
+  "whenToUse": [
+    "You need to test a product, pricing, growth or content hypothesis.",
+    "You have results and need to decide what they actually establish."
+  ],
+  "whatToProvide": [
+    "The decision, hypothesis, baseline and available audience or data.",
+    "Time, budget, measurement constraints and existing results."
+  ],
+  "whatYouGet": [
+    "A practical test with measurement, stopping criteria and limitations.",
+    "A decision: proceed, revise, stop, or collect more evidence."
+  ],
+  "examplePrompts": [
+    "We changed our pricing page and got 3 purchases from 80 visits, versus 2 from 70 the previous week. Should we roll it out?"
+  ],
+  "relatedSkills": [
+    "growth-playbook",
+    "user-interview"
+  ],
+  "exampleInput": "We changed our pricing page and got 3 purchases from 80 visits, versus 2 from 70 the previous week. Should we roll it out?",
+  "exampleOutput": "Recommendation: treat this as inconclusive. The observed rates are 3.75% (3/80) and about 2.86% (2/70), but five purchases across different weeks do not establish a pricing-page effect. Traffic mix or chance could explain the difference.\n\nKeep the change only if there is an independent usability reason and it is easy to reverse. To estimate its effect, use comparable allocation, a defined conversion event and an observation window based on available traffic. If traffic is too low, inspect real purchase attempts to learn where customers hesitate."
+}

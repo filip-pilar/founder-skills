@@ -1,0 +1,30 @@
+{
+  "id": "mvp-sprint",
+  "name": "Product Scope",
+  "category": "Product",
+  "order": 5,
+  "model": "gpt-6-astra",
+  "description": "Define the smallest release that can answer the important product question.",
+  "type": "planning",
+  "whenToUse": [
+    "You have an idea and need a concrete first release.",
+    "An unfinished product needs clearer scope and acceptance criteria."
+  ],
+  "whatToProvide": [
+    "The intended user, their job and the uncertainty the release should resolve.",
+    "Existing implementation, deadline, dependencies and constraints."
+  ],
+  "whatYouGet": [
+    "A recommended scope, explicit deferrals and acceptance criteria.",
+    "A realistic delivery sequence and a way to learn from use."
+  ],
+  "examplePrompts": [
+    "Scope a first release of our duplicate-transaction tool. We have CSV parsing and two bookkeepers willing to try it. Should we add bank integrations?"
+  ],
+  "relatedSkills": [
+    "user-interview",
+    "design-advisor"
+  ],
+  "exampleInput": "Scope a first release of our duplicate-transaction tool. We have CSV parsing and two bookkeepers willing to try it. Should we add bank integrations?",
+  "exampleOutput": "Defer bank integrations for this trial: both participants can already supply CSVs.\n\nKeep: upload and validate a CSV, flag possible duplicates, show why each pair was flagged, allow review, and export the result. Preserve the original file and make failed imports understandable.\n\nDone means both bookkeepers can complete that flow on representative files without developer intervention, and can identify whether the review saved useful work. Estimate the delivery date after checking parser coverage and export behavior. A successful trial would justify investigating integrations next."
+}

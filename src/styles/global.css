@@ -60,3 +60,14 @@
     background: rgba(26, 26, 24, 0.12);
   }
 }
+
+@layer base {
+  a:focus-visible, button:focus-visible {
+    outline: 2px solid var(--color-accent-warm);
+    outline-offset: 4px;
+  }
+  code { overflow-wrap: anywhere; }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+  }
+}

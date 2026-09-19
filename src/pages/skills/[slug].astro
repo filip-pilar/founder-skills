@@ -1,250 +1,59 @@
 ---
-import type { GetStaticPaths } from "astro";
-import Base from "../../layouts/Base.astro";
-import Header from "../../components/Header.astro";
-import { skills, getSkillById } from "../../data/skills";
-import type { Skill } from "../../data/skills";
-import { SITE, claudeNewUrl } from "../../config";
-
-export const getStaticPaths: GetStaticPaths = () => {
-  return skills.map((skill, index) => ({
-    params: { slug: skill.id },
-    props: {
-      skill,
-      prevSkill: index > 0 ? skills[index - 1] : null,
-      nextSkill: index < skills.length - 1 ? skills[index + 1] : null,
-    },
-  }));
-};
-
-interface Props {
-  skill: Skill;
-  prevSkill: Skill | null;
-  nextSkill: Skill | null;
-}
-
-const { skill, prevSkill, nextSkill } = Astro.props;
-
-const typeLabels: Record<string, string> = {
-  "text-input": "Text input",
-  "visual-input": "Visual input",
-  conversational: "Conversational",
-  planning: "Planning",
-};
-
-const related = skill.relatedSkills
-  .map((id) => getSkillById(id))
-  .filter((s): s is Skill => !!s);
-
+import type { GetStaticPaths } from 'astro';
+import Base from '../../layouts/Base.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import CopyButton from '../../components/CopyButton.astro';
+import { skills, getSkillById } from '../../data/skills';
+import type { Skill } from '../../data/skills';
+import { SITE } from '../../config';
+export const getStaticPaths: GetStaticPaths = () => skills.map(skill => ({ params: { slug: skill.id }, props: { skill } }));
+interface Props { skill: Skill }
+const { skill } = Astro.props;
+const related = skill.relatedSkills.map(getSkillById).filter((item): item is Skill => !!item);
 const skillGitHub = `${SITE.github}/tree/main/${SITE.skillsDir}/${skill.id}`;
-const agentPrompt = `git clone --depth 1 --sparse --filter=blob:none ${SITE.github}.git && cd founder-skills && git sparse-checkout set skills/${skill.id} && install the skill from skills/${skill.id}/`;
-
-const cheekyPrompt = "ELI5 why I should be using Claude for my startup";
-const tryClaudeUrl = claudeNewUrl(cheekyPrompt);
+const request = `$${skill.id} ${skill.exampleInput}`;
 ---
-
-<Base title={`${skill.name} — Founder Skills`} description={skill.description}>
+<Base title={`${skill.name} — Founder Skills for Astra`} description={skill.description}>
   <Header />
-  <main class="mx-auto max-w-[680px] px-6 pt-16 pb-24">
-    <!-- Breadcrumb -->
-    <nav class="mb-12 text-[13px]">
-      <a href="/#skills" class="text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors">Skills</a>
-      <span class="text-[var(--color-border)] mx-2">/</span>
-      <span class="text-[var(--color-text-body)]">{skill.name}</span>
-    </nav>
-
-    <!-- Header -->
-    <div class="mb-16">
-      <p class="text-[12px] uppercase tracking-wider text-[var(--color-text-muted)] mb-4">
-        {skill.category} &middot; {typeLabels[skill.type] || skill.type}
-      </p>
-      <h1 class="text-4xl sm:text-5xl text-[var(--color-text)] leading-[1.1]">
-        {skill.name}
-      </h1>
-      <p class="mt-4 text-[17px] text-[var(--color-text-body)] leading-relaxed">
-        {skill.description}
-      </p>
+  <main class="mx-auto max-w-[760px] px-6 pt-12 sm:pt-16 pb-24">
+    <nav aria-label="Breadcrumb" class="mb-10 text-sm"><a href="/#which-skill" class="underline underline-offset-4">All workflows</a> <span aria-hidden="true"> / </span> {skill.name}</nav>
+    <p class="text-sm text-[var(--color-accent-warm)] mb-4">{skill.category} · GPT-6 Astra</p>
+    <h1 class="text-4xl sm:text-5xl">{skill.name}</h1>
+    <p class="mt-5 text-lg mb-12">{skill.description}</p>
+    <section class="mb-10">
+      <h2 class="text-2xl mb-4">When it helps</h2>
+      <ul class="list-disc pl-5 space-y-2">{skill.whenToUse.map(item => <li>{item}</li>)}</ul>
+    </section>
+    <div class="grid sm:grid-cols-2 gap-8 mb-12">
+      <section><h2 class="text-2xl mb-4">Bring</h2><ul class="list-disc pl-5 space-y-2 text-sm">{skill.whatToProvide.map(item => <li>{item}</li>)}</ul></section>
+      <section><h2 class="text-2xl mb-4">Leave with</h2><ul class="list-disc pl-5 space-y-2 text-sm">{skill.whatYouGet.map(item => <li>{item}</li>)}</ul></section>
     </div>
-
-    <!-- When to use -->
-    <section class="mb-14">
-      <h2 class="text-2xl text-[var(--color-text)] mb-5">When to use this</h2>
-      <ul class="space-y-3">
-        {skill.whenToUse.map((item) => (
-          <li class="flex gap-3 text-[15px] text-[var(--color-text-body)]">
-            <span class="text-[var(--color-text-muted)] shrink-0">&mdash;</span>
-            <span>{item}</span>
-          </li>
-        ))}
-      </ul>
-    </section>
-
-    <!-- What you provide -->
-    <section class="mb-14">
-      <h2 class="text-2xl text-[var(--color-text)] mb-5">What you provide</h2>
-      <ul class="space-y-3">
-        {skill.whatToProvide.map((item) => (
-          <li class="flex gap-3 text-[15px] text-[var(--color-text-body)]">
-            <span class="text-[var(--color-text-muted)] shrink-0">&mdash;</span>
-            <span>{item}</span>
-          </li>
-        ))}
-      </ul>
-    </section>
-
-    <!-- What you get back -->
-    <section class="mb-14">
-      <h2 class="text-2xl text-[var(--color-text)] mb-5">What you get back</h2>
-      <ul class="space-y-3">
-        {skill.whatYouGet.map((item) => (
-          <li class="flex gap-3 text-[15px] text-[var(--color-text-body)]">
-            <span class="text-[var(--color-text-muted)] shrink-0">&mdash;</span>
-            <span>{item}</span>
-          </li>
-        ))}
-      </ul>
-    </section>
-
-    <!-- Example prompts -->
-    <section class="mb-14">
-      <h2 class="text-2xl text-[var(--color-text)] mb-5">Try these</h2>
-      <div class="space-y-2">
-        {skill.examplePrompts.map((prompt) => (
-          <div class="relative group rounded-xl bg-[var(--color-bg-card)] px-5 py-4 pr-12 cursor-pointer hover:bg-[var(--color-bg-card-hover)] transition-colors prompt-card" data-copy={prompt}>
-            <code class="text-[14px] text-[var(--color-text-body)] whitespace-pre-wrap leading-relaxed">{prompt}</code>
-            <button
-              class="copy-btn absolute top-1/2 -translate-y-1/2 right-3 p-1.5 text-[var(--color-text-muted)] opacity-0 group-hover:opacity-100 hover:text-[var(--color-text)] transition-all"
-              data-copy={prompt}
-              title="Copy to clipboard"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
-            </button>
-          </div>
-        ))}
+    <section class="mb-12" aria-labelledby="example-heading">
+      <h2 id="example-heading" class="text-3xl mb-3">A worked example</h2>
+      <p class="text-sm text-[var(--color-text-muted)] mb-6">An illustrative input and useful response, written to show the approach. This is not a model benchmark or a measured customer outcome.</p>
+      <div class="rounded-2xl bg-[var(--color-bg-card)] p-5 sm:p-7 mb-4">
+        <h3 class="text-sm uppercase tracking-wide mb-3">Your request</h3>
+        <p class="whitespace-pre-wrap mb-5">{request}</p>
+        <CopyButton text={request} />
+      </div>
+      <div class="rounded-2xl border border-[var(--color-border)] p-5 sm:p-7">
+        <h3 class="text-sm uppercase tracking-wide mb-3">A useful result</h3>
+        <p class="whitespace-pre-wrap leading-relaxed">{skill.exampleOutput}</p>
       </div>
     </section>
-
-    <!-- Install -->
-    <section class="mb-14">
-      <h2 class="text-2xl text-[var(--color-text)] mb-5">Install</h2>
-
-      <div class="rounded-2xl bg-[var(--color-bg-card)] p-7">
-        <div class="flex flex-wrap items-center gap-3 mb-5">
-          <a
-            href={`/downloads/${skill.downloadFile}`}
-            download
-            class="inline-flex items-center gap-2 bg-[var(--color-text)] text-[var(--color-bg)] px-5 py-2.5 rounded-full text-[14px] font-medium hover:opacity-80 transition-opacity"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-            Download {skill.downloadFile}
-          </a>
-          <a
-            href={skillGitHub}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-[13px] text-[var(--color-text-muted)] hover:text-[var(--color-text)] underline underline-offset-2 decoration-[var(--color-border)] hover:decoration-[var(--color-text)] transition-colors"
-          >
-            View on GitHub
-          </a>
-        </div>
-
-        <p class="text-[14px] text-[var(--color-text-body)] mb-4">
-          <a href="https://claude.ai/customize" target="_blank" rel="noopener noreferrer" class="underline underline-offset-2 decoration-[var(--color-border)] hover:decoration-[var(--color-text)] transition-colors">Open Claude &rarr; Customize</a>, scroll to Skills, click "Add skill", and upload the .zip file (no need to unzip). Or paste the contents into any AI agent.
-        </p>
-
-        <p class="text-[13px] text-[var(--color-text-muted)] mb-2">Or copy this prompt for your AI:</p>
-        <div class="relative rounded-xl bg-[var(--color-bg)] px-4 py-3">
-          <pre class="text-[13px] text-[var(--color-text-body)] whitespace-pre-wrap leading-relaxed pr-10">{agentPrompt}</pre>
-          <button
-            class="copy-btn absolute top-3 right-3 p-1.5 text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors"
-            data-copy={agentPrompt}
-            title="Copy to clipboard"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
-          </button>
-        </div>
-
-        <!-- Try Claude CTA -->
-        <div class="mt-5 pt-5 border-t border-[var(--color-border)] flex items-center gap-3">
-          <span class="text-[13px] text-[var(--color-text-muted)]">Not using Claude yet?</span>
-          <a
-            href={tryClaudeUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-[13px] font-medium text-[var(--color-accent-warm)] hover:underline underline-offset-2"
-          >
-            Try Claude &rarr;
-          </a>
-        </div>
+    <section class="mb-12">
+      <h2 class="text-2xl mb-4">Use this skill</h2>
+      <p class="mb-5">Select GPT-6 Astra in Codex. In this repository, use <code>${skill.id}</code>. In another project, extract the downloaded folder into <code>.agents/skills/</code> and keep all supporting files together.</p>
+      <div class="flex flex-wrap gap-5 items-center">
+        <a href={`/downloads/${skill.downloadFile}`} download class="rounded-full bg-[var(--color-text)] text-[var(--color-bg)] px-5 py-2.5 text-sm">Download {skill.name}</a>
+        <a href={skillGitHub} class="underline underline-offset-4 text-sm">Read the skill source &rarr;</a>
       </div>
     </section>
-
-    <!-- Related skills -->
-    {related.length > 0 && (
-      <section class="mb-14">
-        <h2 class="text-2xl text-[var(--color-text)] mb-5">Related</h2>
-        <div class="flex flex-wrap gap-2">
-          {related.map((r) => (
-            <a
-              href={`/skills/${r.id}`}
-              class="rounded-full bg-[var(--color-bg-card)] px-4 py-2 text-[14px] text-[var(--color-text-body)] hover:bg-[var(--color-bg-card-hover)] transition-colors"
-            >
-              {r.name}
-            </a>
-          ))}
-        </div>
-      </section>
-    )}
-
-    <!-- Prev/Next navigation -->
-    <nav class="border-t border-[var(--color-border)] pt-8 mt-20 grid grid-cols-2 gap-4">
-      {prevSkill ? (
-        <a href={`/skills/${prevSkill.id}`} class="group text-left">
-          <span class="text-[12px] text-[var(--color-text-muted)]">&larr; Previous</span>
-          <span class="block text-[15px] text-[var(--color-text-body)] group-hover:text-[var(--color-text)] transition-colors mt-1">
-            {prevSkill.name}
-          </span>
-        </a>
-      ) : <div />}
-      {nextSkill ? (
-        <a href={`/skills/${nextSkill.id}`} class="group text-right">
-          <span class="text-[12px] text-[var(--color-text-muted)]">Next &rarr;</span>
-          <span class="block text-[15px] text-[var(--color-text-body)] group-hover:text-[var(--color-text)] transition-colors mt-1">
-            {nextSkill.name}
-          </span>
-        </a>
-      ) : <div />}
-    </nav>
+    <section>
+      <h2 class="text-2xl mb-4">Related work</h2>
+      <div class="flex flex-wrap gap-3">{related.map(item => <a href={`/skills/${item.id}`} class="rounded-full border border-[var(--color-border)] px-4 py-2 text-sm">{item.name}</a>)}</div>
+    </section>
   </main>
+  <Footer />
 </Base>
-
-<script>
-  function showCopied(el: Element) {
-    const svg = el.querySelector('.copy-btn svg') || el.querySelector('svg');
-    if (svg) {
-      const original = svg.innerHTML;
-      svg.innerHTML = '<polyline points="20 6 9 17 4 12"/>';
-      setTimeout(() => { svg.innerHTML = original; }, 1500);
-    }
-  }
-
-  document.addEventListener('astro:page-load', () => {
-    // Copy buttons (install section)
-    document.querySelectorAll('.copy-btn:not(.prompt-card .copy-btn)').forEach(btn => {
-      btn.addEventListener('click', async () => {
-        const text = (btn as HTMLElement).dataset.copy || '';
-        await navigator.clipboard.writeText(text);
-        showCopied(btn);
-      });
-    });
-
-    // Prompt cards — whole card is clickable
-    document.querySelectorAll('.prompt-card').forEach(card => {
-      card.addEventListener('click', async () => {
-        const text = (card as HTMLElement).dataset.copy || '';
-        await navigator.clipboard.writeText(text);
-        showCopied(card);
-      });
-    });
-  });
-</script>

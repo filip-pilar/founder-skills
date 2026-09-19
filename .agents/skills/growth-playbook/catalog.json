@@ -1,0 +1,30 @@
+{
+  "id": "growth-playbook",
+  "name": "First Customers & Launch",
+  "category": "Growth",
+  "order": 2,
+  "model": "gpt-6-astra",
+  "description": "Choose a credible route to customers and prepare the messages and next actions.",
+  "type": "planning",
+  "whenToUse": [
+    "You need your first customers or a focused launch.",
+    "Acquisition has stalled and you need to choose a channel or fix a funnel stage."
+  ],
+  "whatToProvide": [
+    "The product, audience, traction and access to potential customers.",
+    "Budget, time, current funnel evidence and channels already tried."
+  ],
+  "whatYouGet": [
+    "One recommended acquisition approach with concrete actions.",
+    "Tailored outreach or launch material and a measure of progress."
+  ],
+  "examplePrompts": [
+    "My CSV tool has no customers. I know two freelance bookkeepers and can spend four hours this week. Prepare a first-customer approach and one message."
+  ],
+  "relatedSkills": [
+    "copywriter",
+    "experiment-lab"
+  ],
+  "exampleInput": "My CSV tool has no customers. I know two freelance bookkeepers and can spend four hours this week. Prepare a first-customer approach and one message.",
+  "exampleOutput": "Recommendation: use the two existing relationships to observe one real CSV review. Four hours is better spent learning whether the flags help than building a launch campaign.\n\nMessage: “I’m building a tool that flags possible duplicates in bank CSVs. Could you show me how you checked your last export? I’d like to understand the awkward parts before asking you to try it.”\n\nAfter the conversation, offer a test only if the workflow fits. Track whether they agree to a real trial and what work it replaces; replies alone are not customer adoption."
+}

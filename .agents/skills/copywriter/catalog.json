@@ -1,0 +1,30 @@
+{
+  "id": "copywriter",
+  "name": "Copy & Story",
+  "category": "Writing",
+  "order": 0,
+  "model": "gpt-6-astra",
+  "description": "Turn product facts and rough notes into clear, credible copy.",
+  "type": "text-input",
+  "whenToUse": [
+    "You need finished words for a page, message, pitch or announcement.",
+    "Your existing copy obscures the value or overstates the evidence."
+  ],
+  "whatToProvide": [
+    "The draft or product facts, the intended reader, and the desired action.",
+    "Any voice examples and claims you can substantiate."
+  ],
+  "whatYouGet": [
+    "Finished copy and a brief explanation of consequential changes.",
+    "A recommended angle when the positioning is unresolved."
+  ],
+  "examplePrompts": [
+    "Rewrite this landing-page headline for solo bookkeepers: “The all-in-one AI-powered financial productivity platform.” We import bank CSVs and flag possible duplicate transactions. No bank integrations yet."
+  ],
+  "relatedSkills": [
+    "growth-playbook",
+    "content-strategy"
+  ],
+  "exampleInput": "Rewrite this landing-page headline for solo bookkeepers: “The all-in-one AI-powered financial productivity platform.” We import bank CSVs and flag possible duplicate transactions. No bank integrations yet.",
+  "exampleOutput": "Headline: Find possible duplicate transactions before closing the books.\nSubheading: Upload a bank CSV and review flagged entries in one place. Built for solo bookkeepers.\nCTA: Check a CSV\n\nWhy: Names the actual job and input. “Possible” preserves the distinction between a flag and a confirmed duplicate. No unsupported accuracy or integration claim."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "decision-coach",
+  "name": "Founder Decisions",
+  "category": "Decisions",
+  "order": 6,
+  "model": "gpt-6-astra",
+  "description": "Make a defensible choice from real constraints, tradeoffs and uncertainty.",
+  "type": "text-input",
+  "whenToUse": [
+    "You face a concrete choice or competing priorities.",
+    "You feel stuck and want to identify the practical decision, or explicitly request a work review."
+  ],
+  "whatToProvide": [
+    "The options, constraints and what matters to you.",
+    "Relevant evidence, assumptions and decisions already made."
+  ],
+  "whatYouGet": [
+    "A clear recommendation with the reasoning and uncertainty that matter.",
+    "A reversible next move or specific evidence that could change the choice."
+  ],
+  "examplePrompts": [
+    "Should we add integrations or improve CSV review? Two trial users struggled to understand duplicate flags. One asked about bank sync. We have one developer."
+  ],
+  "relatedSkills": [
+    "mvp-sprint",
+    "experiment-lab"
+  ],
+  "exampleInput": "Should we add integrations or improve CSV review? Two trial users struggled to understand duplicate flags. One asked about bank sync. We have one developer.",
+  "exampleOutput": "Recommendation: improve CSV review first. Two users struggling with the central result is stronger evidence of a current bottleneck than one request for another input method. Bank sync would feed more data into the same confusing review.\n\nMake a small change that explains each flag, then observe the same two users on new examples. Reconsider integrations if import friction prevents otherwise successful use. This prioritizes observed comprehension trouble; it does not prove that integrations lack future value."
+}

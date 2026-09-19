@@ -6,7 +6,11 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "test": "node --test tests/*.test.mjs",
+    "package:skills": "python3 scripts/package_skills.py",
+    "prebuild": "npm test && npm run package:skills",
+    "predev": "npm run package:skills"
   },
   "dependencies": {
     "@fontsource-variable/inter": "^5.2.8",

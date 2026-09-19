@@ -1,0 +1,30 @@
+{
+  "id": "content-strategy",
+  "name": "Content & Video Planning",
+  "category": "Writing",
+  "order": 7,
+  "model": "gpt-6-astra",
+  "description": "Turn real work and audience needs into content worth making.",
+  "type": "text-input",
+  "whenToUse": [
+    "You need an achievable content direction or a plan for one video.",
+    "Existing content needs diagnosis based on supplied examples and results."
+  ],
+  "whatToProvide": [
+    "The audience, goal, available source material and realistic production capacity.",
+    "Examples, performance data or references when available."
+  ],
+  "whatYouGet": [
+    "A focused content plan or filmable video outline.",
+    "A rationale, reusable source material and a useful next iteration."
+  ],
+  "examplePrompts": [
+    "Plan one 45-second demo for our CSV duplicate checker. I have a screen recording and can record voiceover. No customer results yet."
+  ],
+  "relatedSkills": [
+    "copywriter",
+    "growth-playbook"
+  ],
+  "exampleInput": "Plan one 45-second demo for our CSV duplicate checker. I have a screen recording and can record voiceover. No customer results yet.",
+  "exampleOutput": "0–6s: Show a sample CSV with two similar entries. Voiceover: “Which of these needs a second look?”\n6–15s: Upload the clearly labeled sample file. Keep the cursor and upload result visible.\n15–32s: Open one flagged pair and explain the matching fields. Say “possible duplicate,” not “error found.”\n32–40s: Demonstrate the reviewer keeping or dismissing the flag.\n40–45s: Invite viewers to try it with an appropriate CSV.\n\nRecord only this flow. Use sample data visibly labeled as such. No customer savings or accuracy claims; none were supplied."
+}

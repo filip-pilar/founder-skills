@@ -1,0 +1,30 @@
+{
+  "id": "user-interview",
+  "name": "Customer Discovery",
+  "category": "Research",
+  "order": 1,
+  "model": "gpt-6-astra",
+  "description": "Learn from actual customer behavior and turn observations into a product decision.",
+  "type": "text-input",
+  "whenToUse": [
+    "You need a discussion guide for a defined audience.",
+    "You have interview notes and need to separate patterns from assumptions."
+  ],
+  "whatToProvide": [
+    "The uncertainty you want to resolve and the audience.",
+    "Existing notes or transcripts, including contradictory observations."
+  ],
+  "whatYouGet": [
+    "A tailored conversation guide or evidence-linked synthesis.",
+    "A decision implication and the most useful next observation."
+  ],
+  "examplePrompts": [
+    "I interviewed three freelance bookkeepers. Two manually check CSVs; one has automated imports. Help me decide what to ask next before building duplicate detection."
+  ],
+  "relatedSkills": [
+    "mvp-sprint",
+    "experiment-lab"
+  ],
+  "exampleInput": "I interviewed three freelance bookkeepers. Two manually check CSVs; one has automated imports. Help me decide what to ask next before building duplicate detection.",
+  "exampleOutput": "Current evidence: two people described manual CSV checking; one already uses automation. This suggests a possible segment, not validated demand.\n\nAsk the two manual users: “Walk me through the last reconciliation. Which entries took extra checking? What did you compare? What happened if you missed one?” Ask the automated user what still needs manual review.\n\nNext decision: seek a real recent example and observe the current check before committing to a detection workflow. Do not infer willingness to pay from these three notes."
+}
