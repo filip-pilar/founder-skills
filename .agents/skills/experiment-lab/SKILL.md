@@ -5,8 +5,6 @@ description: Design a test of a specific hypothesis or interpret supplied experi
 
 # Experiment Design
 
-For GPT-6 Astra exclusively. Follow the user's outcome and existing authorization. Infer routine choices; ask when missing information materially affects correctness or scope.
-
 Identify the decision the test should inform. Choose a practical design that can distinguish the important alternatives within the available time and budget. State the hypothesis, baseline or comparison, measurement unit, exposure, success/failure criteria and conditions that would make the result inconclusive.
 
 Isolate variables when causal attribution matters. Exploratory tests can vary a bundle if the resulting conclusion is limited accordingly. Match duration to traffic, purchase cycles and delayed outcomes; there is no universal three-day deadline. Consider whether observation, a prototype trial or an A/B test fits the question. Avoid false statistical confidence from sparse or selected data.

@@ -5,8 +5,6 @@ description: Plan customer acquisition, outreach, or a product launch from curre
 
 # First Customers & Launch
 
-For GPT-6 Astra exclusively. Follow the user's outcome and existing authorization. Infer routine choices; ask when missing information materially affects correctness or scope.
-
 Choose the highest-value acquisition action for the founder's actual stage, product and constraints. Consider whether the bottleneck is reaching relevant people, activating them, delivering repeat value or getting paid. Use real metrics where supplied; mark estimates and unknowns.
 
 Direct conversations are a useful early option, not a universal gate. Existing distribution, self-serve products and different buying cycles may justify other approaches. Prefer one coherent recommendation to an automatic list of ten tactics. Where research is available, verify named communities, programs or channel facts before relying on them.

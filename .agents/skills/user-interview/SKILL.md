@@ -5,8 +5,6 @@ description: Prepare customer interviews or synthesize supplied interview eviden
 
 # Customer Discovery
 
-For GPT-6 Astra exclusively. Follow the user's outcome and existing authorization. Infer routine choices; ask when missing information materially affects correctness or scope.
-
 Help resolve a product uncertainty using conversations and supplied evidence. For preparation, choose prompts about recent events, current workarounds, consequences and actual decisions. Avoid leading the participant toward the founder's solution. Recruitment can focus on a relevant segment rather than whoever is easiest to persuade.
 
 For synthesis, preserve the difference between direct quotes, observations, interpretation and hypotheses. Link findings to the supplied interviews, surface counterexamples and avoid treating a small convenience sample as a market estimate. A customer's proposed solution can reveal a need without determining the design.

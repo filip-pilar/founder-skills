@@ -3,7 +3,6 @@
   "name": "Experiment Design",
   "category": "Growth",
   "order": 3,
-  "model": "gpt-6-astra",
   "description": "Turn a guess into a test whose result can support a decision.",
   "type": "planning",
   "whenToUse": [

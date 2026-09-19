@@ -3,7 +3,6 @@
   "name": "Product Scope",
   "category": "Product",
   "order": 5,
-  "model": "gpt-6-astra",
   "description": "Define the smallest release that can answer the important product question.",
   "type": "planning",
   "whenToUse": [

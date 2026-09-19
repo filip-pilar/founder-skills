@@ -3,7 +3,6 @@
   "name": "Content & Video Planning",
   "category": "Writing",
   "order": 7,
-  "model": "gpt-6-astra",
   "description": "Turn real work and audience needs into content worth making.",
   "type": "text-input",
   "whenToUse": [

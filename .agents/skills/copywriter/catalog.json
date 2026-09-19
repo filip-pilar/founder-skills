@@ -3,7 +3,6 @@
   "name": "Copy & Story",
   "category": "Writing",
   "order": 0,
-  "model": "gpt-6-astra",
   "description": "Turn product facts and rough notes into clear, credible copy.",
   "type": "text-input",
   "whenToUse": [

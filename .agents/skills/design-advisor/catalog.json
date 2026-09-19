@@ -3,7 +3,6 @@
   "name": "Product Design Critique",
   "category": "Product",
   "order": 4,
-  "model": "gpt-6-astra",
   "description": "Find the changes that make a screen easier to understand and use.",
   "type": "planning",
   "whenToUse": [

@@ -3,7 +3,6 @@
   "name": "Customer Discovery",
   "category": "Research",
   "order": 1,
-  "model": "gpt-6-astra",
   "description": "Learn from actual customer behavior and turn observations into a product decision.",
   "type": "text-input",
   "whenToUse": [

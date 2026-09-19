@@ -1,20 +1,18 @@
-# Maintaining the Astra edition
+# Maintenance
 
-Requires Node.js compatible with Astro 5, npm, and Python 3 for standard-library zip packaging.
+Requires Node.js compatible with Astro 5, npm, and Python 3.
 
 Each `.agents/skills/<id>/` contains:
 
-- `SKILL.md`: short activation description and outcome-oriented guidance.
-- `references.md`: optional domain knowledge and attribution, not hidden mandatory steps.
-- `example.md`: an illustrative input and completed output; never label it as a benchmark.
-- `catalog.json`: name, category, order, target model, use cases, input/output expectations, example and related IDs.
+- `SKILL.md`: activation description and instructions.
+- `references.md`: supporting guidance and source attribution.
+- `example.md`: an example request and response.
+- `catalog.json`: display name, category, use cases, examples and related skill IDs.
 
-`src/data/skills.ts` reads and validates the canonical content through `scripts/catalog.mjs`. Changes to promises or examples belong in the skill directory. `npm test` checks links, content consistency, redirects and archive contents. `npm run build` runs tests, regenerates packages and builds the static site. Packaging creates deterministic `.zip` files with all supporting material; obsolete `.skill` and retired packages are removed. Regenerate tracked downloads when changing skills. Do not deploy as a validation step.
+`src/data/skills.ts` loads the catalogue through `scripts/catalog.mjs`. Update examples in both `example.md` and `catalog.json`; validation rejects mismatches.
 
-A retired skill belongs in `aliases` in `scripts/catalog.mjs`. Astro generates redirects to the surviving workflow. Keep related links and trigger boundaries accurate. Add a worked example that demonstrates the skill's distinct job. Avoid broad topic triggers or general instructions already handled well by Astra.
+`npm run build` runs tests, regenerates download packages and builds the Astro catalogue. ZIPs contain all four skill files and use deterministic timestamps. Commit refreshed archives with skill changes.
 
-For UI changes, inspect desktop and narrow layouts, keyboard focus, example-copy feedback and download links on a local build. Tests establish packaging and rendering contracts, not improved model reasoning. Model comparison is optional follow-up rather than a build prerequisite.
+URL aliases live in `scripts/catalog.mjs`. Each alias must point to an existing skill; Astro generates the redirects. Keep related skill IDs and local Markdown links valid.
 
-## Hosting status
-
-The former Vercel project has been deleted. GitHub is the distribution home; do not add the retired site URL to documentation or repository metadata. The Astro catalogue remains usable locally. Builds and package generation do not require deployment.
+For UI changes, inspect desktop and narrow layouts, keyboard focus, example-copy feedback and download links locally.

@@ -20,8 +20,8 @@ export function loadCatalog(root = skillRoot) {
     const prompt = readFileSync(join(directory, 'SKILL.md'), 'utf8');
     const name = prompt.match(/^name: (.+)$/m)?.[1];
     const trigger = prompt.match(/^description: (.+)$/m)?.[1];
-    if (name !== entry.name || data.id !== entry.name || !trigger || data.model !== 'gpt-6-astra') {
-      throw new Error(`Invalid identity, trigger or model in ${entry.name}`);
+    if (name !== entry.name || data.id !== entry.name || !trigger) {
+      throw new Error(`Invalid identity or trigger in ${entry.name}`);
     }
     for (const field of ['name', 'category', 'description', 'exampleInput', 'exampleOutput', 'type']) {
       if (typeof data[field] !== 'string' || !data[field].trim()) throw new Error(`${entry.name}: missing ${field}`);

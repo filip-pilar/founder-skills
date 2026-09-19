@@ -7,11 +7,10 @@ import { execFileSync } from 'node:child_process';
 import { aliases, loadCatalog, skillRoot } from '../scripts/catalog.mjs';
 
 const skills = loadCatalog();
-test('catalogue has distinct Astra workflows and valid consolidation targets', () => {
+test('catalogue has unique skills and valid redirects', () => {
   assert.equal(skills.length, 8);
   assert.equal(new Set(skills.map(skill => skill.id)).size, 8);
   assert.equal(Object.keys(aliases).length, 6);
-  for (const skill of skills) assert.equal(skill.model, 'gpt-6-astra');
 });
 
 test('downloaded skill references are self-contained; source links are explicit', () => {
@@ -35,7 +34,7 @@ test('metadata drift fails validation before a site can build', () => {
     const file = join(temporary, 'copywriter', 'catalog.json');
     const original = readFileSync(file, 'utf8');
     for (const change of [
-      data => { data.model = 'other-model'; },
+      data => { data.id = 'wrong-id'; },
       data => { data.relatedSkills = ['retired-skill']; },
       data => { data.exampleOutput = 'Drifted example'; },
       data => { data.whatYouGet = []; },

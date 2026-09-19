@@ -1,6 +1,6 @@
 # Worked example
 
-Illustrative editorial example, not a model benchmark or measured customer outcome.
+Fictional example.
 
 ## Input
 

@@ -46,7 +46,7 @@ def main():
     for old in target.iterdir():
         if old.suffix in {'.zip', '.skill'} and old.name not in wanted:
             old.unlink()
-    print(f'Packaged {len(skills)} Astra skills and one bundle.')
+    print(f'Packaged {len(skills)} skills and one bundle.')
 
 
 if __name__ == '__main__':

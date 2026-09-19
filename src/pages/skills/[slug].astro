@@ -14,11 +14,11 @@ const related = skill.relatedSkills.map(getSkillById).filter((item): item is Ski
 const skillGitHub = `${SITE.github}/tree/main/${SITE.skillsDir}/${skill.id}`;
 const request = `$${skill.id} ${skill.exampleInput}`;
 ---
-<Base title={`${skill.name} — Founder Skills for Astra`} description={skill.description}>
+<Base title={`${skill.name} — Founder Skills`} description={skill.description}>
   <Header />
   <main class="mx-auto max-w-[760px] px-6 pt-12 sm:pt-16 pb-24">
     <nav aria-label="Breadcrumb" class="mb-10 text-sm"><a href="/#which-skill" class="underline underline-offset-4">All workflows</a> <span aria-hidden="true"> / </span> {skill.name}</nav>
-    <p class="text-sm text-[var(--color-accent-warm)] mb-4">{skill.category} · GPT-6 Astra</p>
+    <p class="text-sm text-[var(--color-accent-warm)] mb-4">{skill.category}</p>
     <h1 class="text-4xl sm:text-5xl">{skill.name}</h1>
     <p class="mt-5 text-lg mb-12">{skill.description}</p>
     <section class="mb-10">
@@ -31,7 +31,7 @@ const request = `$${skill.id} ${skill.exampleInput}`;
     </div>
     <section class="mb-12" aria-labelledby="example-heading">
       <h2 id="example-heading" class="text-3xl mb-3">A worked example</h2>
-      <p class="text-sm text-[var(--color-text-muted)] mb-6">An illustrative input and useful response, written to show the approach. This is not a model benchmark or a measured customer outcome.</p>
+      <p class="text-sm text-[var(--color-text-muted)] mb-6">A fictional request and response.</p>
       <div class="rounded-2xl bg-[var(--color-bg-card)] p-5 sm:p-7 mb-4">
         <h3 class="text-sm uppercase tracking-wide mb-3">Your request</h3>
         <p class="whitespace-pre-wrap mb-5">{request}</p>
@@ -44,7 +44,7 @@ const request = `$${skill.id} ${skill.exampleInput}`;
     </section>
     <section class="mb-12">
       <h2 class="text-2xl mb-4">Use this skill</h2>
-      <p class="mb-5">Select GPT-6 Astra in Codex. In this repository, use <code>${skill.id}</code>. In another project, extract the downloaded folder into <code>.agents/skills/</code> and keep all supporting files together.</p>
+      <p class="mb-5">In this repository, use <code>${skill.id}</code>. In another project, extract the downloaded folder into <code>.agents/skills/</code> and keep all supporting files together.</p>
       <div class="flex flex-wrap gap-5 items-center">
         <a href={`/downloads/${skill.downloadFile}`} download class="rounded-full bg-[var(--color-text)] text-[var(--color-bg)] px-5 py-2.5 text-sm">Download {skill.name}</a>
         <a href={skillGitHub} class="underline underline-offset-4 text-sm">Read the skill source &rarr;</a>

@@ -5,8 +5,6 @@ description: Critique a supplied interface or plan the layout of a specific prod
 
 # Product Design Critique
 
-For GPT-6 Astra exclusively. Follow the user's outcome and existing authorization. Infer routine choices; ask when missing information materially affects correctness or scope.
-
 Evaluate the interface against the user's task. Inspect supplied visuals or the accessible page before making visual claims. If only a description is available, distinguish inferred problems from observed ones. Prioritize issues affecting comprehension, task completion, accessibility and error recovery; visual refinement follows their practical impact.
 
 For a critique, provide a small ranked set of findings with evidence and concrete remedies. For a new screen, deliver a layout or flow including relevant loading, empty, error and success states. Adapt detail to the request; do not force a pass/fail checklist or a fixed number of findings.

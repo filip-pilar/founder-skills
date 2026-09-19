@@ -3,7 +3,6 @@
   "name": "First Customers & Launch",
   "category": "Growth",
   "order": 2,
-  "model": "gpt-6-astra",
   "description": "Choose a credible route to customers and prepare the messages and next actions.",
   "type": "planning",
   "whenToUse": [

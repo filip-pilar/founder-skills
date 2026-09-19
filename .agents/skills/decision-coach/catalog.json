@@ -3,7 +3,6 @@
   "name": "Founder Decisions",
   "category": "Decisions",
   "order": 6,
-  "model": "gpt-6-astra",
   "description": "Make a defensible choice from real constraints, tradeoffs and uncertainty.",
   "type": "text-input",
   "whenToUse": [
