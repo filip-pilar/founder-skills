@@ -4,6 +4,17 @@
 
 Each skill is a self-contained package (`SKILL.md` + `references.md`) that turns a general-purpose AI into an opinionated advisor — for copywriting, growth, design critique, decision-making, and more.
 
+[Browse and download skills](https://founderskills.vercel.app/) · [Choose a skill](#skills) · [Installation options](#using-the-skills)
+
+## Start with a problem
+
+| If you want to… | Try |
+| --- | --- |
+| Improve a landing page or product pitch | [Copywriter](skills/copywriter) |
+| Decide what to build first | [MVP Sprint](skills/mvp-sprint) |
+| Learn from potential customers | [User Interview](skills/user-interview) |
+| Prepare to share your product | [Launch Plan](skills/launch-plan) |
+
 ## Skills
 
 | Category | Skills |
@@ -20,7 +31,7 @@ Each skill is a self-contained package (`SKILL.md` + `references.md`) that turns
 
 **Option 1 — Upload directly**
 
-Download a `.zip` from the [website](https://github.com/filip-pilar/founder-skills) or grab a skill directory from this repo. Upload to Claude ([Customize](https://claude.ai/customize) > Skills) or paste the `SKILL.md` contents into any AI chat.
+Download a `.zip` from the [website](https://founderskills.vercel.app/) or grab a skill directory from this repo. Upload to Claude ([Customize](https://claude.ai/customize) > Skills) or paste the `SKILL.md` contents into any AI chat.
 
 **Option 2 — Agent prompt**
 
