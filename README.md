@@ -4,6 +4,8 @@ Eight focused workflows for founders: write credible copy, learn from customers,
 
 Each skill includes instructions, supporting references and a worked example.
 
+[Choose a skill](#start-with-the-work) · [Download ZIPs](public/downloads/) · [Use in Codex](#use-in-codex)
+
 ## Start with the work
 
 | You need to… | Skill |
@@ -27,6 +29,8 @@ versus 2 from 70 last week. What can we conclude?
 ```
 
 To use a skill in another project, copy its complete directory into that project's `.agents/skills/`. Keep `SKILL.md`, `references.md` and `example.md` together. The local catalogue's zip downloads contain the same files.
+
+Prebuilt ZIPs are also available in [public/downloads/](public/downloads/). Open an archive and select **Download raw file** to save it from GitHub.
 
 ## Catalogue and development
 
