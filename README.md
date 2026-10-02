@@ -1,86 +1,53 @@
 # Founder Skills
 
-14 drop-in AI skills with real frameworks and specific tactics for startup founders. Works with Claude, ChatGPT, and any AI agent.
+Eight focused workflows for founders: write credible copy, learn from customers, choose a growth action, design an experiment, critique an interface, scope a release, make a decision, and plan content.
 
-Each skill is a self-contained package (`SKILL.md` + `references.md`) that turns a general-purpose AI into an opinionated advisor — for copywriting, growth, design critique, decision-making, and more.
+Each skill includes instructions, supporting references and a worked example.
 
-[Browse and download skills](https://founderskills.vercel.app/) · [Choose a skill](#skills) · [Installation options](#using-the-skills)
+[Choose a skill](#start-with-the-work) · [Download ZIPs](public/downloads/) · [Use in Codex](#use-in-codex)
 
-## Start with a problem
+## Start with the work
 
-| If you want to… | Try |
+| You need to… | Skill |
 | --- | --- |
-| Improve a landing page or product pitch | [Copywriter](skills/copywriter) |
-| Decide what to build first | [MVP Sprint](skills/mvp-sprint) |
-| Learn from potential customers | [User Interview](skills/user-interview) |
-| Prepare to share your product | [Launch Plan](skills/launch-plan) |
+| Write a page, pitch or founder story | [Copy & Story](.agents/skills/copywriter) |
+| Prepare interviews or interpret feedback | [Customer Discovery](.agents/skills/user-interview) |
+| Find customers or coordinate a launch | [First Customers & Launch](.agents/skills/growth-playbook) |
+| Test a hypothesis or interpret results | [Experiment Design](.agents/skills/experiment-lab) |
+| Improve a screen or user flow | [Product Design Critique](.agents/skills/design-advisor) |
+| Define a first useful release | [Product Scope](.agents/skills/mvp-sprint) |
+| Choose between options or review your work | [Founder Decisions](.agents/skills/decision-coach) |
+| Plan content or one video | [Content & Video Planning](.agents/skills/content-strategy) |
 
-## Skills
+## Use in Codex
 
-| Category | Skills |
-|----------|--------|
-| **Writing** | [Copywriter](skills/copywriter) · [Cold Outreach](skills/cold-outreach) · [Storytelling](skills/storytelling) |
-| **Design** | [Design Advisor](skills/design-advisor) |
-| **Growth** | [Growth Playbook](skills/growth-playbook) · [Experiment Lab](skills/experiment-lab) · [Launch Plan](skills/launch-plan) · [Content Strategy](skills/content-strategy) |
-| **Video** | [Video Starter](skills/video-starter) |
-| **Coaching** | [Decision Coach](skills/decision-coach) · [Unblock](skills/unblock) · [Weekly Review](skills/weekly-review) |
-| **User Research** | [User Interview](skills/user-interview) |
-| **Shipping** | [MVP Sprint](skills/mvp-sprint) |
+Clone this repository and open it as a Codex project. The project-local skills live in `.agents/skills/`:
 
-## Using the Skills
-
-**Option 1 — Upload directly**
-
-Download a `.zip` from the [website](https://founderskills.vercel.app/) or grab a skill directory from this repo. Upload to Claude ([Customize](https://claude.ai/customize) > Skills) or paste the `SKILL.md` contents into any AI chat.
-
-**Option 2 — Agent prompt**
-
-Give your AI agent this prompt and it handles the rest:
-
-```
-git clone --depth 1 --sparse --filter=blob:none https://github.com/filip-pilar/founder-skills.git && cd founder-skills && git sparse-checkout set skills/<skill-id> && install the skill from skills/<skill-id>/
+```text
+$experiment-lab We changed pricing and got 3 purchases from 80 visits,
+versus 2 from 70 last week. What can we conclude?
 ```
 
-Replace `<skill-id>` with a skill name like `copywriter` or `growth-playbook`.
+To use a skill in another project, copy its complete directory into that project's `.agents/skills/`. Keep `SKILL.md`, `references.md` and `example.md` together. The local catalogue's zip downloads contain the same files.
+
+Prebuilt ZIPs are also available in [public/downloads/](public/downloads/). Open an archive and select **Download raw file** to save it from GitHub.
+
+## Catalogue and development
+
+Browse the skills here on GitHub or run the catalogue locally.
+
+Local development requires Node.js/npm and Python 3 for archive packaging.
+
+```bash
+npm ci
+npm test
+npm run build       # validates content, refreshes downloads, builds Astro locally
+npm run dev         # local catalogue
+npm run preview     # inspect the production build locally
+```
+
+The catalogue reads each skill's `catalog.json`. Download packages include the instructions, references and example. See [maintenance guidance](docs/MAINTAINING.md).
 
 ## Sources
 
-The skills were built from 24 [buildspace](https://buildspace.so) lectures — transcribed, processed, and distilled into the reference material each skill uses. The [`sources/`](sources/) directory contains the raw transcripts and structured knowledge files, along with links to the original YouTube videos.
-
-## Skill Format
-
-Each skill lives in `skills/<skill-id>/` and contains:
-
-- **`SKILL.md`** — The prompt. Has YAML frontmatter (`name`, `description`) followed by the full system prompt: when to use it, workflows, decision rules, and what makes it different.
-- **`references.md`** — Source material, frameworks, examples, and quotes that the AI uses as grounding context.
-
-## Development
-
-The website is built with [Astro](https://astro.build) and [Tailwind CSS v4](https://tailwindcss.com).
-
-```bash
-npm install
-npm run dev        # start dev server
-npm run build      # production build to dist/
-npm run preview    # preview production build
-```
-
-When skills are added or changed, run the packaging script before building:
-
-```bash
-./package-skills.sh   # zips each skill into public/downloads/
-npm run build
-```
-
-## Contributing
-
-### Adding a new skill
-
-1. Create `skills/<skill-id>/SKILL.md` with frontmatter (`name`, `description`) and the full prompt
-2. Create `skills/<skill-id>/references.md` with supporting frameworks and examples
-3. Add the skill entry to `src/data/skills.ts` (the `skills` array and the `categories` array)
-4. Run `./package-skills.sh` to generate download files
-
-### Improving an existing skill
-
-Edit the files in `skills/<skill-id>/`. The `SKILL.md` is the prompt the AI follows — make it specific, opinionated, and actionable. The `references.md` is the knowledge base it draws from.
+Based on 24 buildspace lectures. [sources/](sources/) contains transcripts, structured notes and original video links.

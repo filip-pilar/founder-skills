@@ -1,0 +1,22 @@
+---
+interface Props { text: string; label?: string }
+const { text, label = 'Copy prompt' } = Astro.props;
+---
+<button type="button" data-copy-button data-copy={text} data-label={label}
+  class="rounded-full border border-[var(--color-border)] px-4 py-2 text-sm hover:bg-[var(--color-bg-card-hover)] focus-visible:outline-2 focus-visible:outline-offset-4">
+  <span aria-live="polite">{label}</span>
+</button>
+<script>
+  document.addEventListener('click', async (event) => {
+    const button = (event.target as Element).closest<HTMLButtonElement>('[data-copy-button]');
+    if (!button) return;
+    const status = button.querySelector('span')!;
+    try {
+      await navigator.clipboard.writeText(button.dataset.copy || '');
+      status.textContent = 'Copied';
+    } catch {
+      status.textContent = 'Select and copy the text above';
+    }
+    window.setTimeout(() => { status.textContent = button.dataset.label || 'Copy prompt'; }, 3000);
+  });
+</script>
